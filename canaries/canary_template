@@ -39,14 +39,16 @@
 
  This is a warrant canary...........................................#1
  This warrant canary can be faked!..................................#2
- Taskhive Development Public Key....................................#3
+ Taskhive developer public key......................................#3
  Not Infallible.....................................................#4
  Proof of Freshness.................................................#5
+ Privacy Seppkku pledge.............................................#6
 
- What is a warrant canary?..........................................#6
- Why do we want a warrant canary?...................................#7
- Why should we care?................................................#8
- What are kind of gagged legal processes might we receive?..........#9
+
+ What is a warrant canary?..........................................#7
+ Why do we want a warrant canary?...................................#8
+ Why should we care?................................................#9
+ What are kind of gagged legal processes might we receive?..........#10
 
 
 
@@ -85,7 +87,7 @@ previously prepared canary.
 
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-    #3              Taskhive Development Public Key
+    #3             Taskhive developer public key
 ───▄▀▀▀▄───────────────────────────────────────────────────────────────
 ───█───█────XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX───────────────
 ──███████───────────────────────────────────────────────────────▄▀▀▄───
@@ -95,8 +97,8 @@ previously prepared canary.
 
 This file should be signed in two ways: (1) via detached PGP signatures
 by each of the signers, distributed together with this canary in the
-TaskHive repo, and (2) via digital signatures on the corresponding
-TaskHive repo tags.
+taskhive repo, and (2) via digital signatures on the corresponding
+taskhive repo tags.
 
 Don't just trust the contents of this file blindly! Verify the digital
 signatures and check the bitcoin block hash!
@@ -133,7 +135,7 @@ Keep a lookout for other strange red flags, such as:
        regarding requests.
 
 
-Any of these red flags should give cause to discontinue use of TaskHive
+Any of these red flags should give cause to discontinue use of taskhive
 for your own security until your requests can be answered.
 
 ───────────────────────────────────────────────────────────────────────
@@ -188,6 +190,25 @@ for any of the statements made here.
 ███████████████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████████
 
+───────────────────────────────────────────────────────────────────────
+
+
+
+
+
+
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+  #6                  Privacy Seppuku Pledge
+───────────────────────────────────────────────────────────────────────
+
+Privacy and security are of the utmost importance to taskhive
+developers. In the event we are compromised in a way we cannot alert
+the public, we pledge to commit project seppuku and cease all
+operations and development in accordance with the tradition set forth
+by privacy conscious organizations.
+
+───────────────────────────────────────────────────────────────────────
+
 
 
 
@@ -197,8 +218,14 @@ for any of the statements made here.
   Want to learn more about Warrant Canaries? Read the following FAQ.
 ───────────────────────────────────────────────────────────────────────
 
+
+
+
+
+
+
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-  #6                 What is a warrant canary?
+  #7                 What is a warrant canary?
 ───────────────────────────────────────────────────────────────────────
 
 A warrant canary is a colloquial term for a regularly published
@@ -222,7 +249,7 @@ of the danger.
 
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-  #7              Why do we want a warrant canary?
+  #8              Why do we want a warrant canary?
 ───────────────────────────────────────────────────────────────────────
 
 “Sunlight is said to be the best of disinfectants.”
@@ -244,7 +271,7 @@ services who wish to participate in these public debates.
 
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-  #8                  Why should we care?
+  #9                  Why should we care?
 ───────────────────────────────────────────────────────────────────────
 
 As part of the reauthorization of the Patriot Act in 2006, US Congress
@@ -276,7 +303,7 @@ Similar problems persist in other forms of secret process.
 
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-  #9   What are kind of gagged legal processes might we receive?
+  #10  What are kind of gagged legal processes might we receive?
 ───────────────────────────────────────────────────────────────────────
 
 A service may be gagged from stating it has received any one of several
