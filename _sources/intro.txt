@@ -1,0 +1,11 @@
+.. highlight:: rst
+
+Introduction
+=======================
+
+This document is meant to give a tutorial-like overview of all aspects of taskhive.
+
+What is taskhive?
+-----------------
+
+taskhive is a tool for everyone to get things done.
