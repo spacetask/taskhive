@@ -43,11 +43,12 @@
         ▒█▄▀▄█ ▒█░▒█ ▒█░▒█ ░▒█░░ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        Taskhive is a marketplace for freelancers, where work is
-        task-based.
+        Taskhive is a mobile and desktop app for freelancers, a network
+        where work is task-based.
 
         Taskhive enables you to buy and sell any service, and pay for it
         in any payment method you want, from anywhere in the world.
+
 
 
 
