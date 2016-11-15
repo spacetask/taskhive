@@ -46,21 +46,54 @@
 	Taskhive is a marketplace for freelancers, where work is
 	task-based.
 
-	Taskhive enables you to sell and buy any service in any
+	Taskhive enables you to buy and sell any service in any
 	payment method you want, from anywhere in the world.
+
 
 
 	Reputation Network
         ───────────────────────────────────────────────────────────────
 
-	Coming soon.
+	Taskhive is built around the assumption that any online work
+	carries immensely high risk of fraud. It utilizes a reputation
+	network, where you can filter out what listings you want to
+	see based on reputation (and other criteria), decide who you
+	want to do business with, and how much trust you want to give.
+
+	The task-based payment model limits the benefits of fraud and
+	misunderstandings, while helping users build reputations
+	faster.
+	
+
+
+	Contracts
+        ───────────────────────────────────────────────────────────────
+
+	Taskhive employs many contract and license templates that can
+	cover most types of tasks, but allows for custom contracts as
+	well.
+
+	These contracts are legally binding, but are not designed for
+	courts as much as for transparency, so that escrow agents
+	and the community at large can have a clear picture of the
+	agreement if it goes awry.
 
 
 
 	Escrow
         ───────────────────────────────────────────────────────────────
 
-	Coming soon.
+	Taskhive is designed to use escrow only as a last resort, an
+	opt-in community service for offsetting risk.
+
+	It is also for facilitating payment in methods the buyer or
+	seller do not have, and is also mandatory for a trade where
+	one party has chosen to remain anonymous.
+
+	Anyone can become an escrow agent and the process is completely
+	decentralized, though to avoid obvious fraud, agents must hold
+	a deposit in the system matching the value of active trades.
+
 
 
 
