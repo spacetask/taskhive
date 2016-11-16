@@ -31,104 +31,107 @@
     ▐██   J██████▌.▄▄'▀███ ██████╦  ██▀▀▀██ J██  ▐████▀ J██▀▀▀   
     ▐██   J██  ██▌ ██████▀ ██▌ ▀██▌ ██▌ J██ J██   ████  J██████▌ 
 
-                        Tap into the hive.
+                        Entrez dans la ruche.
 
 
 
 
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-        ▒█░░▒█ ▒█░▒█ ░█▀▀█ ▀▀█▀▀ ▀█ 1
+        ▒█░░▒█ ▒█░▒█ ░█▀▀█ ▀▀█▀▀ ▀█ 1 -- QUOI ?
         ▒█▒█▒█ ▒█▀▀█ ▒█▄▄█ ░▒█░░ █▀
         ▒█▄▀▄█ ▒█░▒█ ▒█░▒█ ░▒█░░ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        Taskhive is a mobile and desktop application for freelancers.
-        It divides workload into tasks to minimize misunderstandings
-        and liabilities.
+        Taskhive est une application mobile bureau pour les pigistes. Il 
+        divise la charge de travail en tâches pour minimiser les malentendus 
+        et les handicaps. 
 
-        The Taskhive marketplace enables you to buy and sell any
-        service, and pay for it in any payment method you want, from
-        anywhere in the world.
-
-
+         Le marché de Taskhive vous permet d'acheter et de vendre n'importe 
+         quel service et payez-le quel que soit le mode de paiement que vous 
+         voulez, partout dans le monde.
 
 
-        Reputation Network
+
+
+        Réseau de Réputation
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is built around the assumption that payments for
-        services online are inherently risky -- which is why Taskhive
-        utilizes a transparent reputation network. This way, you are in
-        control of how much trust you are willing to give.
+        Taskhive repose sur l'hypothèse que les paiements pour les services 
+        en ligne sont intrinsèquement risqués - c'est pourquoi Taskhive 
+        utilise un réseau de réputation transparent . De cette façon, vous 
+        contrôlez le niveau de confiance que vous êtes prêt à donner. 
 
-        The task-based payment model of Taskhive limits profitability
-        of fraud and decreases misunderstandings, while simultaneously
-        helping users build reputations faster.
+        Le modèle de paiement par tâche de Taskhive limite la rentabilité 
+        du fraude et diminue les malentendus, tout en aidant les utilisateurs 
+        à construire leur réputation plus rapidement.
         
 
 
-        Contracts
+        Contrats
         ───────────────────────────────────────────────────────────────
 
-        Taskhive employs many contract and license templates that can
-        cover most types of tasks. You can also edit them freely and
-        design your own contract.
+        Taskhive emploie de nombreux modèles de contrats et de licences 
+        quicouvrent la plupart des types de tâches. Vous pouvez également 
+        les modifier librement et concevez votre propre contrat. 
 
-        These contracts, while legally binding, are designed primarily
-        for transparency between parties, to limit misunderstandings,
-        and to support claims in the event of dispute with escrow.
+        Ces contrats, même s'ils sont juridiquement contraignants, sont 
+        conçus en premier pour la transparence entre les parties, limiter 
+        les malentendus, et pour soutenir les réclamations en cas de litige 
+        avec l'agent fidiciaire.
 
 
 
-        Escrow
+        L'agent fidiciaire
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is designed as a direct person-to-person transaction
-        marketplace. In some cases, however, it is wise to use an escrow
-        to offset risk of fraud (e.g. when dealing with someone with no
-        reputation, or when dealing with someone who is anonymous).
+        Taskhive est conçu comme une marché de transactions directes de 
+        personne à personne . Dans certains cas, cependant, il est judicieux 
+        d'utiliser un agent fidiciaire pour compenser le risque de fraude 
+        (e.g. dans le cas des personnes n'ayant pas de réputation, ou 
+        lorsqu'il s'agit d'une personne anonyme). 
 
-        Escrow agents are one of the many worker categories of the
-        decentralized marketplace, and anyone can offer their own escrow
-        services as one.
+        Les agents d'entiercement sont l'une des nombreuses catégories de 
+        travailluers du marché décentralisé, et tout le monde peut offrir 
+        son propre service d'entiercement.
         
 
-        Payment facilitation
+        Facilité de paiement
         ───────────────────────────────────────────────────────────────
 
-        One of the benefits of using an escrow agent is that as long as
-        the agent offers faciliation, you can pay in one payment
-        method and have the agent remit the final balance using
-        another.
+        L'un des avantages de l'utilisation d'un agent d'entiercement 
+        est tant que l'agent offre la faciliation, vous pouvez payer en 
+        une seule mode de paiement et demander à l'agent de remettre le solde 
+        final en se servant d'un autre. 
 
-        This is especially useful for people who wish to transact with
-        cryptocurrencies that either party is unfamiliar with. 
+        Ceci est particulièrement utile pour les personnes qui souhaitent 
+        faire des transactions avec des cryptocourances que l'une ou l'autre 
+        n'est pas familier avec.
 
 
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-        ▒█░░▒█ ▒█░▒█ ▒█░░▒█ ▀█ 2
+        ▒█░░▒█ ▒█░▒█ ▒█░░▒█ ▀█ 2 - POURQUOI ?
         ▒█▒█▒█ ▒█▀▀█ ▒█▄▄▄█ █▀ 
         ▒█▄▀▄█ ▒█░▒█ ░░▒█░░ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        There is no shortage of freelance or micro-tasking internet
-        sites, but the philosophy and technology of Taskhive is what
-        sets it apart from the rest.
+        Il n'ya pas de pénurie de freelance ou de micro-tâches sur les 
+        sites internet , mais la philosophie et la technologie de 
+        Taskhive est ce qui le distingue du reste.
 
 
         Libre
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is free(libre), open source software (FOSS/FLOSS).
-        Anyone can crack open the code and see what it does, modify
-        it, and share it with the world. But most importantly, it
-        can be audited and prove that it is not doing anything
-        milacious.
+        Taskhive est libre, open source software (FOSS/FLOSS).
+        Tout le monde peut voir le code et comprendre son 
+        mécanisme, le modifier et le distibuer à travers le monde. Mais,
+        le plus important est ce qu'il peut être évalué et prové de ne pas
+        contenir des codes mais qu'il ne fait rien de maliacieux
 
-        Taskhive is made in a completely FOSS environment by strong
-        supporters of libre software.
+        Taskhive est conçu dans un environnement complètement FOSS par
+        de vaillants supporteurs du software libre.
 
 
         Free
