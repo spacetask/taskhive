@@ -25,11 +25,11 @@
               '▀██▓▄███▀T                "▀███▄███▀`                    
                   "▀▀                       `▀▀'                        
 
-  ▄▄▄▄▄▄▄▄ ,▄▄▄▄╥   ▄▄▄▄╦  ▄▄┐  ▄▄▄ ▄▄,  ▄▄ .▄▄ ▄▄┐  ▄▄▄ ▄▄▄▄▄▄,        
-  ▀▀███▀▀▀ ███▀██▌ ███▀███ ██▌╓███  ██  J██ J██ ▐██  ██▀J███▀▀▀▀        
-    ▐██   J██  ██▌ ▀███▓▄  █████▀   ███████ J██  ██▌▓██ J███▓▓⌐         
-    ▐██   J██████▌.▄▄'▀███ ██████╦  ██▀▀▀██ J██  ▐████▀ J██▀▀▀          
-    ▐██   J██  ██▌ ██████▀ ██▌ ▀██▌ ██▌ J██ J██   ████  J██████▌        
+  ▄▄▄▄▄▄▄▄ ,▄▄▄▄╥   ▄▄▄▄╦  ▄▄┐  ▄▄▄ ▄▄,  ▄▄ .▄▄ ▄▄┐  ▄▄▄ ▄▄▄▄▄▄, 
+  ▀▀███▀▀▀ ███▀██▌ ███▀███ ██▌╓███  ██  J██ J██ ▐██  ██▀J███▀▀▀▀ 
+    ▐██   J██  ██▌ ▀███▓▄  █████▀   ███████ J██  ██▌▓██ J███▓▓⌐  
+    ▐██   J██████▌.▄▄'▀███ ██████╦  ██▀▀▀██ J██  ▐████▀ J██▀▀▀   
+    ▐██   J██  ██▌ ██████▀ ██▌ ▀██▌ ██▌ J██ J██   ████  J██████▌ 
 
                         Tap into the hive.
 
@@ -43,11 +43,13 @@
         ▒█▄▀▄█ ▒█░▒█ ▒█░▒█ ░▒█░░ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        Taskhive is a mobile and desktop app for freelancers, a network
-        where work is task-based.
+        Taskhive is a mobile and desktop application for freelancers.
+        It divides workload into tasks to minimize misunderstandings
+        and liabilities.
 
-        Taskhive enables you to buy and sell any service, and pay for it
-        in any payment method you want, from anywhere in the world.
+        The Taskhive marketplace enables you to buy and sell any
+        service, and pay for it in any payment method you want, from
+        anywhere in the world.
 
 
 
@@ -56,15 +58,13 @@
         ───────────────────────────────────────────────────────────────
 
         Taskhive is built around the assumption that payments for
-        services online are inherently risky.
+        services online are inherently risky -- which is why Taskhive
+        utilizes a transparent reputation network. This way, you are in
+        control of how much trust you are willing to give.
 
-        That's why it utilizes a transparent reputation network
-        so you can decide who you want to do business with, and control
-        just how much trust you are willing to give.
-
-        The task-based payment model limits profitability of fraud and
-        decreases misunderstandings, while simultaneously helping users
-        build reputations faster.
+        The task-based payment model of Taskhive limits profitability
+        of fraud and decreases misunderstandings, while simultaneously
+        helping users build reputations faster.
         
 
 
@@ -75,31 +75,35 @@
         cover most types of tasks. You can also edit them freely and
         design your own contract.
 
-        These contracts are as legal as any other contract, but are not
-        designed for courts so much as for transparency -- so that
-        escrow agents and the community alike can transparently judge
-        for themselves in the event of misunderstandings or even fraud.
+        These contracts, while legally binding, are designed primarily
+        for transparency between parties, to limit misunderstandings,
+        and to support claims in the event of dispute with escrow.
 
 
 
         Escrow
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is designed for direct transactions, but in some cases
-        it will be smart to use to offset risks. Another benefit of
-        escrow is to pay and receive in whatever payment method you
-        want, if your escrow agent offers to facilitate it.
+        Taskhive is designed as a direct person-to-person transaction
+        marketplace. In some cases, however, it is wise to use an escrow
+        to offset risk of fraud (e.g. when dealing with someone with no
+        reputation, or when dealing with someone who is anonymous).
 
-        Typical transactions do not require escrow, but when either
-        party registers anonymously, it is mandatory.
+        Escrow agents are one of the many worker categories of the
+        decentralized marketplace, and anyone can offer their own escrow
+        services as one.
+        
 
-        Escrow agents are part of the decentralized network and anyone
-        can offer their services as one. There are protections in place
-        to avoid fraud from malicious agents by restricting agents from
-        handling more active escrow transactions than they have
-        deposited to the automatic escrow system.
+        Payment facilitation
+        ───────────────────────────────────────────────────────────────
 
+        One of the benefits of using an escrow agent is that as long as
+        the agent offers faciliation, you can pay in one payment
+        method and have the agent remit the final balance using
+        another.
 
+        This is especially useful for people who wish to transact with
+        cryptocurrencies that either party is unfamiliar with. 
 
 
 
@@ -119,8 +123,9 @@
 
         Taskhive is free(libre), open source software (FOSS/FLOSS).
         Anyone can crack open the code and see what it does, modify
-        the code, share it with the world -- but most importantly,
-        prove it is only doing what it claims to, nothing more.
+        it, and share it with the world. But most importantly, it
+        can be audited and prove that it is not doing anything
+        milacious.
 
         Taskhive is made in a completely FOSS environment by strong
         supporters of libre software.
@@ -130,22 +135,26 @@
         ───────────────────────────────────────────────────────────────
 
         Taskhive is free(as in beer). There is no charge to do any
-        business on Taskhive. The exception is cases when escrow is
-        involved to mitigate financial risk.
+        business on Taskhive. The exceptions are cases when escrow is
+        involved to mitigate financial risk. This is charged at the
+        market rate offered by the agent themselves.
 
-        All development of Taskhive is done with monetary or work
-        contributions from the RZZT collective, and will remain free
-        forever.
+        All expenses for development of Taskhive are paid in full by
+        generous donations from third parties and the continued support
+        from the RZZT collective.
+
+        Taskhive will always be free.
 
 
 
         Privacy / Decentralization
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is built around privacy from the ground up, with the
-        assumption that local networks and ISPs (either alone or by
-        mandate) may be spying on your traffic, and that your wellbeing
-        is it risk from oppressive regimes.
+        Taskhive is built from the ground up around user privacy. It is
+        developed with the assumption that local networks and ISPs
+        (either maliciously or by mandate) may be spying on your
+        traffic, and that your well-being is at risk from oppressive
+        regimes.
 
 
 
@@ -153,32 +162,42 @@
         ───────────────────────────────────────────────────────────────
 
         Perfect security does not exist, but the next best thing is
-        actively developed and patched code, publicly auditable
-        contributions, and regular audits.
+        actively developed and patched open source code, publicly
+        auditable contributions, and regular audits.
 
-        Taskhive, through RZZT, strives to keep standards high and do
-        right by its users with transparency and proper policies.
+        Taskhive, via philosophy of RZZT, strives to keep security and
+        privacy standards high, and to do right by its users with
+        its transparent policies.
 
         Taskhive is written with the assumption that it will eventually
-        be exploited, and that the challenge to keep users safe is a
-        non-stop battle with no end in sight.
+        be exploited, and that the challenge to keep users safe will be
+        a neverending battle requiring constant vigilence.
 
 
 
         Freedom
         ───────────────────────────────────────────────────────────────
 
-        Centralized sites often bottleneck users into the site's
-        preferred payment methods, creating issues of seizure, fraud,
-        censorship, and privacy invasion. Taskhive facilitates a truly
-        free market -- any payment method users are willing to trade
+        Centralized sites often bottleneck users into a preferred
+        payment method. This often creates issues of seizure, fraud,
+        censorship, and privacy invasion by overreaching and
+        too-big-to-care service providers.
+
+        Taskhive facilitates a truly free market with regards to
+        payments -- any payment method users are willing to trade
         in will be supported.
+
+
+
+        Censoship-resistant
+        ───────────────────────────────────────────────────────────────
 
         Censorship resistance is an important part of Taskhive's
         freedom. It is the first freelancer network that allows its
         users to decide for themselves what category of tasks they want
         to offer services in, what payment methods they want to use,
-        and who and what services they want to trust.
+        and who and what services they want to trust, with no hard
+        moderation or accounts to ban.
 
         The guessing work and bureaucracy is finally gone and the flood
         gates of true free trade are open.
@@ -229,8 +248,9 @@
         the Free Software Foundation (FSF). It is dedicated to promoting
         user privacy, security and freedom.
 
-        RZZT produces various desktop and mobile tools, apps and games
-        to help tip the balance towards FOSS.
+        RZZT produces various desktop and mobile tools, applications and
+        games to help tip the balance towards FOSS and privacy as a
+        standard.
 
         As a FOSS project though, there will be various contributors to
         Taskhive -- no single entity controls it or is responsible for
@@ -266,9 +286,10 @@
 
         Taskhive is expected for alpha release sometime in 2017.
 
-        Since Taskhive will be empowering and protecting many citizens
-        of the world, it is imperative that it live up to its claims
-        and not let its users down.
+        Since Taskhive will be empowering many citizens of the world
+        to reclaim their financial freedom through honest work, it is
+        imperative that it live up to its claims and not let its users
+        be subject to attack from oppressive regimes.
 
         Given the difficulties of forcing bug fixes in a truly
         decentralized project, great care is being taken to allow for
@@ -285,9 +306,10 @@
 ───────────────────────────────────────────────────────────────────────
 
         One of the significant benefits of being a decentralized, p2p
-        network is that location simply doesn't matter. Anyone from
-        anywhere can participate in the freelancer network,
-        commissioning work from others, or offering their own services.
+        network, is that location simply doesn't matter. Anyone from
+        anywhere can participate in the freelancer marketplace,
+        commissioning work from others, or offering services of their
+        own.
 
         Taskhive can help equalize the market, rewarding the skilled, 
         knowledgeable, handy and available equally for their involvement.
@@ -306,7 +328,7 @@
 
         This simple comparison chart outlines some of the anti-features
         of existing freelance networks and how Taskhive stands up to
-        them.
+        them in comparison.
 
 
 
