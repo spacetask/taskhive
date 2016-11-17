@@ -1,0 +1,56 @@
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+    ▒█▀▀█ ▒█▀▀▀█ ▒█▄░▒█ ▀▀█▀▀ ▒█▀▀█ ▀█▀ ▒█▀▀█ ▒█░▒█ ▀▀█▀▀ ▒█▀▀▀ 
+    ▒█░░░ ▒█░░▒█ ▒█▒█▒█ ░▒█░░ ▒█▄▄▀ ▒█░ ▒█▀▀▄ ▒█░▒█ ░▒█░░ ▒█▀▀▀ 
+    ▒█▄▄█ ▒█▄▄▄█ ▒█░░▀█ ░▒█░░ ▒█░▒█ ▄█▄ ▒█▄▄█ ░▀▄▄▀ ░▒█░░ ▒█▄▄▄
+───────────────────────────────────────────────────────────────────────
+
+
+                                      ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+                                     █░░█              █░░█
+          Taskhive is open to        █▒▒█   Taskhive   █▒▒█
+          public contributions,      █░░█      *       █░░█
+          anonymous or otherwise.    █░░█     * *      █░░█
+                                     █░░█              █░░█
+          Follow the guidelines      █░░█▄▄▄▄▄▄▄▄▄▄▄▄▄▄█░░█
+          below if you'd like to     █░░░░░░░░░░░░░░░░░░░░█
+          submit a pull request.     █░░░░░▄▄▄▄▄▄▄▄▄▄▄▄░░░█
+                                     █░░░░█         █░░█░░█
+          Thank you for wanting      █░░░░██▀▀█     █░░█░░█
+          to help Taskhive!          █░░░░██▄▄█     █░░█░░█
+                                     █▄▄▄▄█▄▄▄▄▄▄▄▄▄█▄▄█▄▄█
+
+
+
+
+
+
+        Translations
+        ───────────────────────────────────────────────────────────────
+
+        To make managing the various translations as painless as
+        possible, Taskhive takes a simplified approach of naming
+        files in the language they are meant to be translated to.
+
+        If you'd like to begin translating for a language, open up
+        a new issue in the repo, set the title of the issue as the
+        name of the language you want to translate to, in ALL CAPS.
+
+        Example: GERMAN
+
+        If you'd like to translate multiple languages, just separate
+        them by forward-slashes.
+
+        Example: GERMAN / SPANISH / ITALIAN / FERENGI
+
+        Once ready, issue your pull request for the relevant files,
+        with a comment of your bitcoin address for payment (if
+        applicable).
+
+        After issuing your pull request for the translations to be
+        accepted, go back to your original issue and reference the
+        pull request to help keep a record of the contributions.
+
+
+
+
+
