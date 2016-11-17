@@ -82,7 +82,7 @@
 
 
 
-        L'agent fidiciaire
+        L'agent Fidiciaire
         ───────────────────────────────────────────────────────────────
 
         Taskhive est conçu comme une marché de transactions directes de 
@@ -128,109 +128,110 @@
         Tout le monde peut voir le code et comprendre son 
         mécanisme, le modifier et le distibuer à travers le monde. Mais,
         le plus important est ce qu'il peut être évalué et prové de ne pas
-        contenir des codes mais qu'il ne fait rien de maliacieux
+        contenir des codes malicieux.
 
         Taskhive est conçu dans un environnement complètement FOSS par
         de vaillants supporteurs du software libre.
 
 
-        Free
+        Gratuit
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is free(as in beer). There is no charge to do any
-        business on Taskhive. The exceptions are cases when escrow is
-        involved to mitigate financial risk. This is charged at the
-        market rate offered by the agent themselves.
+        Taskhive est gratuit. Il n'y a pas de charges supplémentaires pour
+        effectuer du commerce.  Les exceptions sont les cas où l'entiercement 
+        est pour atténuer les risques financiers. Ceci est facturé au prix 
+        offert par l'agent lui-même.
 
-        All expenses for development of Taskhive are paid in full by
-        generous donations from third parties and the continued support
-        from the RZZT collective.
+        Toutes les dépenses pour le développement de Taskhive sont payées 
+        en totalité par des dons généreux de la part de tiers et le soutien 
+        continu du collectif RZZT.
 
-        Taskhive will always be free.
+        
+        Taskhive demeurera toujours gratuit
 
 
 
-        Privacy / Decentralization
+        Confidentialité / Décentralisation
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is built from the ground up around user privacy. It is
-        developed with the assumption that local networks and ISPs
-        (either maliciously or by mandate) may be spying on your
-        traffic, and that your well-being is at risk from oppressive
-        regimes.
+        Taskhive est basé autour de la vie privée des utilisateurs. C'est 
+        développé avec l'idée que les réseaux locaux et les FAI (malicieusement 
+        ou par mandat) peuvent espionner votre Trafic et que votre bien-être 
+        risque d'être compromis par des régimes.
 
 
 
-        Security
+        Securité
         ───────────────────────────────────────────────────────────────
 
-        Perfect security does not exist, but the next best thing is
-        actively developed and patched open source code, publicly
-        auditable contributions, and regular audits.
+        La sécurité parfaite n'existe pas, mais la meilleure chose suivante 
+        est  le code source ouvert activement développé et corrigé, des 
+        contributions vérifiées publique et des vérifications régulières. 
 
-        Taskhive, via philosophy of RZZT, strives to keep security and
-        privacy standards high, and to do right by its users with
-        its transparent policies.
+        Taskhive, via la philosophie de RZZT, s'efforce de maintenir les 
+        normes de confidentialité et de sécurité élevées, et de faire 
+        le droit par ses utilisateurs avec Ses politiques transparentes. 
 
-        Taskhive is written with the assumption that it will eventually
-        be exploited, and that the challenge to keep users safe will be
-        a neverending battle requiring constant vigilence.
+        Taskhive est écrit avec l'hypothèse qu'il finira par être exploités 
+        et que le défi de garder les utilisateurs en sécurité sera une 
+        bataille sans fin exigeant une vigilance constante.
 
 
 
-        Freedom
+        Liberté
         ───────────────────────────────────────────────────────────────
 
-        Centralized sites often bottleneck users into a preferred
-        payment method. This often creates issues of seizure, fraud,
-        censorship, and privacy invasion by overreaching and
-        too-big-to-care service providers.
+        Les sites centralisés encombrent souvent les utilisateurs à utiliser 
+        un mode de paiement. Cela crée souvent des problèmes de saisie, 
+        de fraude, la censure et la pénétration de la vie privée par des 
+        fournisseurs de services invasifs et trop-grand-pour-s'occuper-de-vous. 
 
-        Taskhive facilitates a truly free market with regards to
-        payments -- any payment method users are willing to trade
-        in will be supported.
+        Taskhive facilite un marché vraiment libre en ce qui concerne les 
+        paiements - toute méthode de paiement que les utilisateurs sont 
+        prêts à négocier sera soutenu.
 
 
 
-        Censoship-resistant
+        
+        Résistant à la censure
         ───────────────────────────────────────────────────────────────
+        La résistance à la censure est une partie importante de liberté. 
+        C'est le premier réseau freelance qui Les utilisateurs à décider 
+        eux-mêmes quelle catégorie de tâches ils veulent offrir pour des 
+        services, quelles méthodes de paiement ils veulent utiliser, et 
+        quels sont les services auxquels ils veulent faire confiance, sans 
+        modération ou comptes à bannir. 
 
-        Censorship resistance is an important part of Taskhive's
-        freedom. It is the first freelancer network that allows its
-        users to decide for themselves what category of tasks they want
-        to offer services in, what payment methods they want to use,
-        and who and what services they want to trust, with no hard
-        moderation or accounts to ban.
-
-        The guessing work and bureaucracy is finally gone and the flood
-        gates of true free trade are open.
+        Le travail de devinettes et la bureaucratie est enfin révolu et 
+        les portes du vrai libre-échange sont ouvertes, prêts à êtres 
+        innondées.
         
 
 
-        Task-based
+        Basé sur des tâches
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is task-based, meaning you don't pay for mystery
-        hours or future promises -- you pay for the individual tasks
-        you need and nothing more. This makes communicating, switching
-        workers out, and reaching goals a simpler and less costly
-        process.
+        Taskhive est basé sur les tâches, ce qui signifie que vous ne payez 
+        pas pour le heures mystère ou promesses futures - vous payez pour 
+        les tâches individuelles dont vous avez besoin et rien de plus. Cela 
+        rend la communication, la commutation des travailleurs, et atteindre 
+        les objectifs plus simples et moins coûteux . 
 
-        For workers who wish to continue using hourly rates, they may
-        do so by selling blocks of time as a task itself (e.g. 10 hours
-        of design work) as may be necessary for tasks with no clear
-        outcome.
+        Pour les travailleurs qui souhaitent continuer à utiliser les taux 
+        horaires, ils peuvent se faire en vendant des blocs de temps comme 
+        une tâche elle-même (par exemple 10 heures de trravaux de conception) 
+        qui peuvent être nécessaires pour des tâches sans résultat défini.
 
 
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-        ▒█░░▒█ ▒█░▒█ ▒█▀▀▀█ ▀█ 3
+        ▒█░░▒█ ▒█░▒█ ▒█▀▀▀█ ▀█ 3 - QUI
         ▒█▒█▒█ ▒█▀▀█ ▒█░░▒█ █▀ 
         ▒█▄▀▄█ ▒█░▒█ ▒█▄▄▄█ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        Taskhive is a project funded and started by RZZT, a freedom and
-        security focused collective.
+        Taskhive est un projet financé et commencé par RZZT, une collective
+        orienté vers la liberté et la sécurité.
 
 
                █████████████████████████████████████████████████████████
@@ -246,118 +247,119 @@
                █████████████████████████████████████████████████████████
 
 
+        RZZT est membre de la Electronic Frontier Foundation (EFF) et la 
+        Free Software Foundation (FSF). Il est dédié à la promotion de la 
+        confidentialité des utilisateurs, la sécurité et la liberté. 
 
-        RZZT is a member of the Electronic Frontier Foundation (EFF) and
-        the Free Software Foundation (FSF). It is dedicated to promoting
-        user privacy, security and freedom.
+        RZZT produit différents outils de desktop ou mobile, applications et 
+        jeux pour aider à faire pencher la balance vers les logiciels libres 
+        et la confidentialité comme standard. 
 
-        RZZT produces various desktop and mobile tools, applications and
-        games to help tip the balance towards FOSS and privacy as a
-        standard.
-
-        As a FOSS project though, there will be various contributors to
-        Taskhive -- no single entity controls it or is responsible for
-        it. Like all FOSS projects, it survives and grows due to self
-        interest.
+        En tant que projet FOSS, il y aura plusieurs contributeurs à Taskhive -
+        - aucune entité ne le contrôle ou n'est responsable de lui. Comme tous 
+        les projets FOSS, il survit et se développe en raison de l'intérêt des
+        gens. 
 
 
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-        ▒█░▒█ ▒█▀▀▀█ ▒█░░▒█ ▀█ 4
+        ▒█░▒█ ▒█▀▀▀█ ▒█░░▒█ ▀█ 4 - COMMENT
         ▒█▀▀█ ▒█░░▒█ ▒█▒█▒█ █▀ 
         ▒█░▒█ ▒█▄▄▄█ ▒█▄▀▄█ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        Taskhive utilizes Bitmessage, a decentralized anonymous
-        messaging network. It has no need for traditional centralized
-        servers that can be compromised, leaked and broken. As an open
-        source program, it does not have the ability to spy on its
-        users without them knowing.
+        
+        Taskhive utilise Bitmessage, un réseau de messagerie anonyme et 
+        décentralisé. Il n'a aucun besoin des serveurs centralisés traditionnels
+        qui peuvent être compromis, percé et brisé. Comme un logiciel ouvert, 
+        il n'a pas la capacité d'espionner ses utilisateurs sans qu'ils sachent. 
 
-        Thanks to Bitmessage's robust decentralized network storage,
-        Taskhive can function without the need for a single
-        point-of-failure database server, nor worry about hosting
-        costs that other services use as an excuse for fee gouging.
+        Grâce à la robustesse du réseau décentralisé de Bitmessage, Taskhive 
+        peut fonctionner sans avoir besoin d'un seul serveur de base de données
+        agissant comme point de défaillance unique, ni se soucier des 
+        coûts de l'hébergement que d'autres services utilisent comme une excuse 
+        pour extorquer des frais.
 
  
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-        ▒█░░▒█ ▒█░▒█ ▒█▀▀▀ ▒█▄░▒█ ▀█ 5
+        ▒█░░▒█ ▒█░▒█ ▒█▀▀▀ ▒█▄░▒█ ▀█ 5- QUAND
         ▒█▒█▒█ ▒█▀▀█ ▒█▀▀▀ ▒█▒█▒█ █▀ 
         ▒█▄▀▄█ ▒█░▒█ ▒█▄▄▄ ▒█░░▀█ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        Taskhive is expected for alpha release sometime in 2017.
+        L'édition alpha de Taskhive est attendu en 2017. 
 
-        Since Taskhive will be empowering many citizens of the world
-        to reclaim their financial freedom through honest work, it is
-        imperative that it live up to its claims and not let its users
-        be subject to attack from oppressive regimes.
+        Puisque Taskhive va permettre à de nombreux citoyens du monde 
+        entier de récupérer leur liberté financière grâce à un travail honnête, 
+        il est impératif qu'il soit à la hauteur de ses revendications et 
+        de ne pas laisser ses utilisateurs à la merci des attaques de régimes 
+        oppressifs. 
 
-        Given the difficulties of forcing bug fixes in a truly
-        decentralized project, great care is being taken to allow for
-        backwards compatibility, rock-hard security, and to ensue that
-        all claims of privacy can be backed up with testing and proper
-        auditing.
+        Étant donné les difficultés de forcer les corrections de bogues dans 
+        un projet décentralisé, de grands efforts sont faits pour assure la 
+        compatibilité ascendante, sécurité d'acier, et d'obtenir que toutes les 
+        revendications de confidentialité peuvent être appuyées avec des tests 
+        et des audits.
 
         
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-        ▒█░░▒█ ▒█░▒█ ▒█▀▀▀ ▒█▀▀█ ▒█▀▀▀ ▀█ 6
+        ▒█░░▒█ ▒█░▒█ ▒█▀▀▀ ▒█▀▀█ ▒█▀▀▀ ▀█ 6 - OU
         ▒█▒█▒█ ▒█▀▀█ ▒█▀▀▀ ▒█▄▄▀ ▒█▀▀▀ █▀ 
         ▒█▄▀▄█ ▒█░▒█ ▒█▄▄▄ ▒█░▒█ ▒█▄▄▄ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        One of the significant benefits of being a decentralized, p2p
-        network, is that location simply doesn't matter. Anyone from
-        anywhere can participate in the freelancer marketplace,
-        commissioning work from others, or offering services of their
-        own.
+        L'un des avantages importants d'être une entreprise décentralisée, 
+        réseau p2p, est que l'emplacement n'a tout simplement pas d'importance. 
+        Quelqu'un de n'importe où peut participer au marché indépendant, 
+        offrir des services de comission aussi bien que leur propre service. 
 
-        Taskhive can help equalize the market, rewarding the skilled, 
-        knowledgeable, handy and available equally for their involvement.
+        Taskhive peut aider à égaliser le marché, récompenser les compétents,
+        savants,  maniables et disponibles également pour leur participation. 
 
-        No more politics -- just free market!
+        Plus de politique - juste le marché libre!
 
 
 
 
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-        ▒█░░▒█ ▒█░▒█ ▀█▀ ▒█▀▀█ ▒█░▒█ ▀█ 7
+        ▒█░░▒█ ▒█░▒█ ▀█▀ ▒█▀▀█ ▒█░▒█ ▀█ 7 - LEQUEL
         ▒█▒█▒█ ▒█▀▀█ ▒█░ ▒█░░░ ▒█▀▀█ █▀ 
         ▒█▄▀▄█ ▒█░▒█ ▄█▄ ▒█▄▄█ ▒█░▒█ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        This simple comparison chart outlines some of the anti-features
-        of existing freelance networks and how Taskhive stands up to
-        them in comparison.
+        Ce tableau de comparaison simple décrit quelques-uns des anti-fonctionnalités 
+        des réseaux freelance existants et comment Taskhive se démarque.
 
 
 
 ╔══════════════════╦══════════╤════════════╤═══════════════╤════════╤════════════╗
 ║                  ║ Taskhive │ Freelancer │ Upwork/Elance │ Toptal │ Craigslist ║
 ╠══════════════════╬══════════╪════════════╪═══════════════╪════════╪════════════╣
-║ Messages are     ║          │            │               │        │            ║
-║ encrypted        ║          │            │               │        │            ║
+║ Encryption       ║          │            │               │        │            ║
+║                  ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Users can        ║          │            │               │        │            ║
-║ remain anonymous ║          │            │               │        │            ║
+║ Anonimité des    ║          │            │               │        │            ║
+║ des utilisateurs ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Network is       ║          │            │               │        │            ║
-║ decentralized    ║          │            │               │        │            ║
+║ Décentralisation ║          │            │               │        │            ║
+║ du réseau        ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Censorship-free  ║          │            │               │        │            ║
+║ Résistance à la  ║          │            │               │        │            ║
+║ censure          ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Cryptocurrency   ║          │            │               │        │            ║
-║ support          ║          │            │               │        │            ║
+║ Support          ║          │            │               │        │            ║
+║ cryptocourance   ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Open source      ║          │            │               │        │            ║
+║ Open Source /    ║          │            │               │        │            ║
+║ ouvert           ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Free             ║          │            │               │        │            ║
+║ Gratuit          ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Provides         ║          │            │               │        │            ║
-║ optional escrow  ║          │            │               │        │            ║
+║ L'etièrecement   ║          │            │               │        │            ║
+║ est optionel     ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
 ║                  ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
