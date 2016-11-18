@@ -1,5 +1,3 @@
-
-
                                 ▓                                       
                                ╒██                                      
                              ╓▄███▓▄,                                   
@@ -45,7 +43,7 @@
 
         Taskhive jest mobilną i stacjonarną aplikacją dla freelancerów.
         Dzieli ona nakład pracy na poszczególne zadania by minimalizować
-        nieporozumienia i odpowiedzialność za straty.
+        nieporozumienia i odeedzialność za straty.
 
         Rynek Taskhive pozwala ci kupować i sprzedawać usługi, płacąc
         za nie dowolnymi metodami, skądkolwiek na świecie.
@@ -81,24 +79,24 @@
 
 
 
-        Powiernictwo
+        Depozyty
         ───────────────────────────────────────────────────────────────
 
 		Taskhive jest zaprojektowany jako bezprośredni rynek 
 		osoby-do-osoby. W niektórych przypadkach jednak warto 
-		skorzystać z powiernika by zmniejszyć ryzyko oszustwa (np. 
-		pracując z kimś bez reputacji, bądź z anonimowym 
-		użytkownikiem).
+		skorzystać z depozytu u pośrednika by zmniejszyć ryzyko
+		oszustwa (np. pracując z kimś bez reputacji, bądź 
+		z anonimowym użytkownikiem).
 
-        Powiernicy to jedna z wielu kategorii pracowników naszego 
-        zdecentralizowanego rynku, i każdy może oferować usługę 
-        powiernictwa.
+       		Pośrednicy to jedna z wielu kategorii pracowników naszego 
+        	zdecentralizowanego rynku, i każdy może oferować usługę 
+        	przechowywania depozytów.
         
 
         Ułatwienie płatności
         ───────────────────────────────────────────────────────────────
 
-		Jedną z korzyści powiernictwa jest to, że powiernik może 
+		Jedną z korzyści depozytów jest to, że pośrednik może 
 		przyjąć wpłatę jakąkolwiek metodą, a wypłacić jakąkolwiek 
 		inną. Na przykład, zleceniodawca płaci przez system PayPal, 
 		a po wykonaniu zadania, zleceniobiorca odbiera wypłatę przez 
@@ -139,14 +137,14 @@
 
 		Taskhive jest darmowy. Nie ma opłat za prowadzenie interesów 
 		przez Taskhive. Wyjątkiem są sytuacje w których biorą udział 
-		powiernicy by obniżyć ryzyko finansowe. Koszt powiernictwa 
-		zależy jedynie od powiernika.
+		powiernicy by obniżyć ryzyko finansowe. Koszt pośrednika
+		zależy jedynie od niego.
 
 		Wszystkie koszty produkcji i rozwoju Taskhive są opłacane 
 		w całości dzięki hojnym dotacjom partii trzecich i ciągłemu 
 		wsparciu kolektywu RZZT.
 
-        Taskhive zawsze będzie darmowy.
+        	Taskhive zawsze będzie darmowy.
 
 
 
@@ -164,7 +162,7 @@
         Bezpieczeństwo
         ───────────────────────────────────────────────────────────────
 
-		Absolutne bezpieczeństwo nie istnieje, ale drugą najlepszą 
+		Absolutne bezpieczeństwo nie istnieje, ale kolejną najlepszą 
 		rzeczą jest aktywnie rozwijany i łatany wolnoźródłowy (FOSS) 
 		kod, podlegające kontroli, z regularnymi audytami.
 
@@ -318,7 +316,7 @@
 		Taskhive może pomóc wyrównać rynek, wynagradzając umiejętnych, 
 		wiedzących, pracujących i obecnych równo za swój wkład.
 
-        Dość polityki -- wolny rynek!
+        	Dość polityki -- wolny rynek!
 
 
 
@@ -358,7 +356,7 @@
 ║ Darmowy          ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
 ║ Umożliwia        ║          │            │               │        │            ║
-║ Powiernictwo     ║          │            │               │        │            ║
+║ Depozyty         ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
 ║                  ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
