@@ -43,67 +43,64 @@
         ▒█▄▀▄█ ▒█░▒█ ▒█░▒█ ░▒█░░ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        Taskhive is a mobile and desktop application for freelancers.
-        It divides workload into tasks to minimize misunderstandings
-        and liabilities.
+        Taskhive este o aplicatie disponibila pe mobil si desktop pentru freelanceri.
+        Aceasta împarte volumul de muncă în sarcini pentru a minimiza neînțelegerile
+        și neintelegerile.
 
-        The Taskhive marketplace enables you to buy and sell any
-        service, and pay for it in any payment method you want, from
-        anywhere in the world.
-
+        Marketplace-ul Taskhive iti permite sa cumperi si sa vinzi orice serviciu
+        si sa platesti pentru el in orice metoda de plata doresti, de oriunde din lume.
 
 
 
-        Reputation Network
+
+        Reteaua de Reputatie
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is built around the assumption that payments for
-        services online are inherently risky -- which is why Taskhive
-        utilizes a transparent reputation network. This way, you are in
-        control of how much trust you are willing to give.
+        Taskhive este construit în jurul presupuneri că plătile pentru
+        serviciile on-line sunt în mod inerent riscante - acesta fiind motivul pentru care Taskhive
+        utilizeaza o retea de reputatie transparenta. In acest fel, sunteti în
+        control asupra cat de multa incredere sunteti dispus sa oferiti.
 
-        The task-based payment model of Taskhive limits profitability
-        of fraud and decreases misunderstandings, while simultaneously
-        helping users build reputations faster.
+        Modelul de plata bazat pe sarcini al Taskhive limitează posibilitatea
+        de frauda si scade neintelegerile, in timp ce simultan
+        ajuta utilizatorii să construiasca o reputatie mult mai rapid.
         
 
 
-        Contracts
+        Contracte
         ───────────────────────────────────────────────────────────────
 
-        Taskhive employs many contract and license templates that can
-        cover most types of tasks. You can also edit them freely and
-        design your own contract.
+        Taskhive utilizeaza multe template-uri de contracte și licente, care 
+        acopera cele mai multe tipuri de sarcini. De asemenea, puteti sa le editați
+        in mod liber si sa va creati propriul contract.
 
-        These contracts, while legally binding, are designed primarily
-        for transparency between parties, to limit misunderstandings,
-        and to support claims in the event of dispute with escrow.
+        Aceste contracte, valide din punct de vedere juridic, sunt proiectate în principal
+        pentru transparență intre ambele parti, pentru a limita neintelegerile
+        si pentru a sprijini cererile de despagubire cu serviciul escrow.
 
 
 
         Escrow
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is designed as a direct person-to-person transaction
-        marketplace. In some cases, however, it is wise to use an escrow
-        to offset risk of fraud (e.g. when dealing with someone with no
-        reputation, or when dealing with someone who is anonymous).
+        Taskhive este conceput ca un marketplace cu tranzactie directa de la persoana la persoana.
+        In unele cazuri este bine sa utilizeze un escrow
+        pentru a reduce riscul de frauda (de exemplu, atunci cand este vorba de o persoana fara 
+        reputaTie, sau cineva care doreste sa ramana anonim).
 
-        Escrow agents are one of the many worker categories of the
-        decentralized marketplace, and anyone can offer their own escrow
-        services as one.
+        Agentii escrow sunt una dintre multele categorii de lucrator al
+        pietei descentralizate, și oricine poate oferi propiul lor serviciu escrow.
         
 
-        Payment facilitation
+        Facilitarea platii
         ───────────────────────────────────────────────────────────────
 
-        One of the benefits of using an escrow agent is that as long as
-        the agent offers faciliation, you can pay in one payment
-        method and have the agent remit the final balance using
-        another.
+        Unul dintre avantajele utilizarii unui agent escrow este ca, atata timp cat
+        agentul ofera acest lucru, puteti plati printr-o metoda de plată
+        si au agentul sa transfere soldul final utilizand alta metoda.
 
-        This is especially useful for people who wish to transact with
-        cryptocurrencies that either party is unfamiliar with. 
+        Acest lucru este util mai ales pentru cei care doresc sa face o tranzactie cu
+        cryptocurrencies cu care ambele persoane nu sunt familiare.
 
 
 
@@ -113,110 +110,104 @@
         ▒█▄▀▄█ ▒█░▒█ ░░▒█░░ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        There is no shortage of freelance or micro-tasking internet
-        sites, but the philosophy and technology of Taskhive is what
-        sets it apart from the rest.
+        Nu există lipsă de site-uri de freelance sau micro-tasking pe internet,
+        dar filozofia si tehnologia Taskhive este ceea ce
+        il diferentiaza de restul.
 
 
         Libre
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is free(libre), open source software (FOSS/FLOSS).
-        Anyone can crack open the code and see what it does, modify
-        it, and share it with the world. But most importantly, it
-        can be audited and prove that it is not doing anything
-        milacious.
-
-        Taskhive is made in a completely FOSS environment by strong
-        supporters of libre software.
+        Taskhive este gratis (libre), software open source (FOSS / FLOSS).
+        Oricine  poate analiza codul si a vedea ce face, de a-l modifica
+        si impartasi cu restul lumi. Dar, cel mai important este faptul ca
+        pot fi analizat pentru a demonstra ca nu face nimic malicios.
 
 
-        Free
+        Taskhive este creat de sustinatorii software-ului libre intr-un 
+        mediu complet FOOS.
+
+
+        Gratuit
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is free(as in beer). There is no charge to do any
-        business on Taskhive. The exceptions are cases when escrow is
-        involved to mitigate financial risk. This is charged at the
-        market rate offered by the agent themselves.
+        Taskhive este gratuit. Nu exista nici o taxa de a face orice
+        afaceri pe Taskhive. Exceptiile sunt cazuri cand servicii escrow sunt
+        implicate pentru reducerea riscului financiar. Acest lucru este taxat
+        in functie de cerintele utilizatorului acelui serviciu escrow.
 
-        All expenses for development of Taskhive are paid in full by
-        generous donations from third parties and the continued support
-        from the RZZT collective.
+        Toate cheltuielile pentru dezvoltarea Taskhive sunt platite integral de catre
+        donatii generoase si sprijinirea continua a colectivului RZZT.
 
-        Taskhive will always be free.
-
+        Taskhive va fi intotdeauna gratuit.
 
 
-        Privacy / Decentralization
+
+        Privacy / Descentralizare
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is built from the ground up around user privacy. It is
-        developed with the assumption that local networks and ISPs
-        (either maliciously or by mandate) may be spying on your
-        traffic, and that your well-being is at risk from oppressive
-        regimes.
+        Taskhive este construit de la zero in jurul vietii private a utilizatorilor. Este
+        dezvoltat cu presupunerea ca retelele locale si furnizorii de servicii de Internet
+        (fie rea-credinta sau prin mandat) spioneaza traficul tau, iar ca bunastarea voastra
+        este in pericol din cauze acestor lucruri.
 
 
 
-        Security
+        Securitate
         ───────────────────────────────────────────────────────────────
 
-        Perfect security does not exist, but the next best thing is
-        actively developed and patched open source code, publicly
-        auditable contributions, and regular audits.
+        Securitatea perfecta nu există, dar cel mai apropiat lucru este
+        dezvoltarea in mod activ si realizarea patch-urilor catre codul open-source,
+        contributii in mod public si audituri periodice.
 
-        Taskhive, via philosophy of RZZT, strives to keep security and
-        privacy standards high, and to do right by its users with
-        its transparent policies.
+        Taskhive, prin filosofia DRIZZT, se straduieste sa pastreze standardele
+        de securitate si confidentialitate ridicate, precum si de a fi in interesul
+        utilizatorilor sai cu politicile sale transparente.
 
-        Taskhive is written with the assumption that it will eventually
-        be exploited, and that the challenge to keep users safe will be
-        a neverending battle requiring constant vigilence.
+        Taskhive este scris cu presupunerea ca cele din urma va fi exploatat, 
+        si ca provocarea de a mentine utilizatorii in siguranta va fi
+        o lupta constanta care necesita vigilenta.
 
 
 
-        Freedom
+        Libertate
         ───────────────────────────────────────────────────────────────
 
-        Centralized sites often bottleneck users into a preferred
-        payment method. This often creates issues of seizure, fraud,
-        censorship, and privacy invasion by overreaching and
-        too-big-to-care service providers.
+        Site-urile centralizate adesea obliga utilizatorii sa foloseasca un singur
+        mod de plata. Acest lucru creeaza adesea probleme de sechestru, frauda,
+        cenzura si invazia vietii private si furnizori prea mari pentru a le pasa de servicii.
 
-        Taskhive facilitates a truly free market with regards to
-        payments -- any payment method users are willing to trade
-        in will be supported.
-
+        Taskhive faciliteaza o piata cu adevarat libera in ceea ce priveste
+        platile - orice metoda de plata pe care utilizatorii sunt dispusi sa o accepte
+        poate fi folosita.
 
 
-        Censoship-resistant
+
+        Rezistent la cenzura
         ───────────────────────────────────────────────────────────────
 
-        Censorship resistance is an important part of Taskhive's
-        freedom. It is the first freelancer network that allows its
-        users to decide for themselves what category of tasks they want
-        to offer services in, what payment methods they want to use,
-        and who and what services they want to trust, with no hard
-        moderation or accounts to ban.
+        Rezistenta la cenzura este o parte importanta a libertatii Taskhive
+        Este prima retea de freelanceri care permite utilizatorilor sa decida
+        singuri in ce categorie de sarcini doresc sa ofere servicii, ce metode
+        de plata sa utilizeze si in cine si ce serviciile sa aiba incredere, fara
+        moderare puternica sau conturi blocate.
 
-        The guessing work and bureaucracy is finally gone and the flood
-        gates of true free trade are open.
+        Birocratia in cele din urma a disparut si portile comertului liber adevarat 
+        s-au deschis.
         
 
 
-        Task-based
+        Bazat pe sarcini
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is task-based, meaning you don't pay for mystery
-        hours or future promises -- you pay for the individual tasks
-        you need and nothing more. This makes communicating, switching
-        workers out, and reaching goals a simpler and less costly
-        process.
+        Taskhive este bazat pe sarcini, ceea ce inseamna ca nu platiti pentru ore
+        misterioase sau promisiuni viitoare - veti plati pentru sarcinile individuale
+        de care nevoie si nimic mai mult. Acest lucru face ca comunicarea, comutare
+        lucratorilor si atingerea scopurilor sa fie mai simple si mai putin costisitoare.
 
-        For workers who wish to continue using hourly rates, they may
-        do so by selling blocks of time as a task itself (e.g. 10 hours
-        of design work) as may be necessary for tasks with no clear
-        outcome.
+        Pentru lucratorii care doresc sa utilizeze in continuare tarife orare, pot
+        face acest lucru prin vanzarea de blocuri de timp ca o sarcina in sine (de exemplu, 10 ore
+        de munca de proiectare). Se poate utiliza acest lucru pentru sarcini fara rezultat clar.
 
 
 
@@ -226,8 +217,8 @@
         ▒█▄▀▄█ ▒█░▒█ ▒█▄▄▄█ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        Taskhive is a project funded and started by RZZT, a freedom and
-        security focused collective.
+        Taskhive este un proiect finantat si initiat de RZZT, un colectiv ce se 
+        concentreaza pe libertate si securitate.
 
 
                █████████████████████████████████████████████████████████
@@ -244,18 +235,18 @@
 
 
 
-        RZZT is a member of the Electronic Frontier Foundation (EFF) and
-        the Free Software Foundation (FSF). It is dedicated to promoting
-        user privacy, security and freedom.
+        RZZT este membru al Electronic Frontier Foundation (FEP) și
+        Free Software Foundation (FSF). Acesta este dedicat promovarii
+        confidentialitatii utilizatorilor, securitate si libertate.
 
-        RZZT produces various desktop and mobile tools, applications and
-        games to help tip the balance towards FOSS and privacy as a
+        RZZT produce diverse proiecte atat desktop cat si mobile mobile, aplicatii si
+        jocuri pentru a ajuta la inclinarea balantei spre FOSS si a vietii private ca
         standard.
 
-        As a FOSS project though, there will be various contributors to
-        Taskhive -- no single entity controls it or is responsible for
-        it. Like all FOSS projects, it survives and grows due to self
-        interest.
+        Ca un proiect FOSS, totusi, vor exista mai multe persoane care contribuie la
+        Taskhive - nici o entitate unica nu il o controlează sau este responsabil pentru
+        acesta. La fel ca toate proiectele FOSS, supravietuieste si creste din cauza 
+        interesului utilizatorilor.
 
 
 
@@ -265,16 +256,15 @@
         ▒█░▒█ ▒█▄▄▄█ ▒█▄▀▄█ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        Taskhive utilizes Bitmessage, a decentralized anonymous
-        messaging network. It has no need for traditional centralized
-        servers that can be compromised, leaked and broken. As an open
-        source program, it does not have the ability to spy on its
-        users without them knowing.
+        Taskhive utilizeaza Bitmessage, o retea descentralizata de mesagerie.
+        Nu are nevoie de serverele centralizate traditionale,
+        servere care pot fi compromise si distruse. Ca un program open source,
+        aceasta nu are capacitatea de a spiona utilizatorii sai fara ca ei sa stie.
 
-        Thanks to Bitmessage's robust decentralized network storage,
-        Taskhive can function without the need for a single
-        point-of-failure database server, nor worry about hosting
-        costs that other services use as an excuse for fee gouging.
+        Gratie stocarii robuste de retea descentralizata a Bitmessage,
+        Taskhive poate functiona fara a fi nevoie de un singur
+        server de baze de date point-of-failure si nici nu va faceti griji cu privire la 
+        costurile de hosting pe care alte servicii utilizeaza ca o scuza pentru taxa in plus.
 
  
 
@@ -284,18 +274,18 @@
         ▒█▄▀▄█ ▒█░▒█ ▒█▄▄▄ ▒█░░▀█ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        Taskhive is expected for alpha release sometime in 2017.
+        Taskhive este ateptat pentru lansare alfa cândva în 2017.
 
-        Since Taskhive will be empowering many citizens of the world
-        to reclaim their financial freedom through honest work, it is
-        imperative that it live up to its claims and not let its users
-        be subject to attack from oppressive regimes.
-
-        Given the difficulties of forcing bug fixes in a truly
-        decentralized project, great care is being taken to allow for
-        backwards compatibility, rock-hard security, and to ensue that
-        all claims of privacy can be backed up with testing and proper
-        auditing.
+        Din moment ce Taskhive va permite multor cetateni ai lumii
+        revendicarea libertatii financiare prin munca cinstita, este
+        imperativ a se ridica la pretentiile sale si sa nu lase utilizatorii sai
+        sa fie supusi unor atacuri din partea regimurilor opresive.
+        
+        
+        Avand in vedere dificultatile bug fixurilor fortate intr-un adevarat
+        proiect descentralizat, mare grija este luata pentru a permite
+        compatibilitate, securitate solida si pentru a confirma
+        toate promisiunile sustinute de confidentialitate cu testarea corespunzatoare.
 
         
 
@@ -305,16 +295,14 @@
         ▒█▄▀▄█ ▒█░▒█ ▒█▄▄▄ ▒█░▒█ ▒█▄▄▄ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        One of the significant benefits of being a decentralized, p2p
-        network, is that location simply doesn't matter. Anyone from
-        anywhere can participate in the freelancer marketplace,
-        commissioning work from others, or offering services of their
-        own.
+        Unul dintre cele mai semnificative avantajele de a fi o aplicatie p2p descentralizate,
+        este ca locatia, pur și simplu nu conteaza. Oricine de oriunde poate sa participe la piata
+        de freelanceri ,cumparand servicii de la alti utilizatori sau sa ofere serviciile lor proprii.
 
-        Taskhive can help equalize the market, rewarding the skilled, 
-        knowledgeable, handy and available equally for their involvement.
+        Taskhive poate ajuta la egalizarea pietei, recompensarea persoanelor indemanate,
+        inteligente, disponibili in implicarea proiectelor.
 
-        No more politics -- just free market!
+        Fara politica -- doar o piata libera!
 
 
 
@@ -326,35 +314,34 @@
         ▒█▄▀▄█ ▒█░▒█ ▄█▄ ▒█▄▄█ ▒█░▒█ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        This simple comparison chart outlines some of the anti-features
-        of existing freelance networks and how Taskhive stands up to
-        them in comparison.
+        Acesta diagrama simpla compara unele dintre "anti-caracteristici" ale
+        retelelor de freelance existente si modul in care Taskhive se compara cu ele.
 
 
 
 ╔══════════════════╦══════════╤════════════╤═══════════════╤════════╤════════════╗
 ║                  ║ Taskhive │ Freelancer │ Upwork/Elance │ Toptal │ Craigslist ║
 ╠══════════════════╬══════════╪════════════╪═══════════════╪════════╪════════════╣
-║ Messages are     ║          │            │               │        │            ║
-║ encrypted        ║          │            │               │        │            ║
+║ Mesajele sunt    ║          │            │               │        │            ║
+║ encriptate       ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Users can        ║          │            │               │        │            ║
-║ remain anonymous ║          │            │               │        │            ║
+║ Userii pot       ║          │            │               │        │            ║
+║ ramane anonimi   ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Network is       ║          │            │               │        │            ║
-║ decentralized    ║          │            │               │        │            ║
+║ Network-ul este  ║          │            │               │        │            ║
+║ descentralizat   ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Censorship-free  ║          │            │               │        │            ║
+║ Liber de cenzura ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Cryptocurrency   ║          │            │               │        │            ║
-║ support          ║          │            │               │        │            ║
+║ Suport pentru    ║          │            │               │        │            ║
+║ cryptocurrency   ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
 ║ Open source      ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Free             ║          │            │               │        │            ║
+║ Gratuit          ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Provides         ║          │            │               │        │            ║
-║ optional escrow  ║          │            │               │        │            ║
+║ Ofera            ║          │            │               │        │            ║
+║ escrow optional  ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
 ║                  ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
