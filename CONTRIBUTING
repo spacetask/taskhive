@@ -31,28 +31,26 @@
         possible, Taskhive takes a simplified approach of naming
         files in the language they are meant to be translated to.
 
-        If you'd like to begin translating for a language, follow
-        these steps:
+        If you'd like to begin translating for a language, you will
+        need follow these steps:
         
+        (1) Clone the repository
         
-        (1) Open the file you wish to translate (there will be English
-            contents inside of it).
-          
-        (2) Translate one line of the English, anywhere in the document.  
-        
-        (3) Immediately issue a pull request.
-        
-        (4) After the request is merged, you may begin translating the
-            rest of the document.
+        (2) Open the *-TRANSLATIONS file relative to the file you wish
+            to offer translations to
             
-        (5) After you are finished translating the entire document,
-            issue a new pull request. Inside the comments of the
-            pull request, leave your bitcoin address for payment.
+        (3) Add your freenode/github username in the translator column
+            of a language you can guarantee proper translation in
+        
+        (4) Perform a Pull-Request
+        
+        (5) If your pull request is accepted/merged, you may begin
+            translations in the languages you marked. If not, please
+            read the comments in the closed pull-request for reasons
+            why.
+            
+         Thank you for helping bring Taskhive to more people who need it!
         
         
-      
-      
-
-
-
-
+        
+        
