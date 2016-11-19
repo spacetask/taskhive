@@ -78,21 +78,21 @@
         Ces contrats, même s'ils sont juridiquement contraignants, sont 
         conçus en premier pour la transparence entre les parties, limiter 
         les malentendus, et pour soutenir les réclamations en cas de litige 
-        avec l'agent fidiciaire.
+        avec l'agent d'entiercement.
 
 
 
-        L'agent Fidiciaire
+        L'agent D'entiercement
         ───────────────────────────────────────────────────────────────
 
-        Taskhive est conçu comme une marché de transactions directes de 
+        Taskhive est conçu comme un marché de transactions directs de 
         personne à personne . Dans certains cas, cependant, il est judicieux 
-        d'utiliser un agent fidiciaire pour compenser le risque de fraude 
+        d'utiliser un agent d'entiercement pour compenser le risque de fraude 
         (e.g. dans le cas des personnes n'ayant pas de réputation, ou 
         lorsqu'il s'agit d'une personne anonyme). 
 
         Les agents d'entiercement sont l'une des nombreuses catégories de 
-        travailluers du marché décentralisé, et tout le monde peut offrir 
+        travailleurs du marché décentralisé, et tout le monde peut offrir 
         son propre service d'entiercement.
         
 
@@ -124,7 +124,7 @@
         Libre
         ───────────────────────────────────────────────────────────────
 
-        Taskhive est libre, open source software (FOSS/FLOSS).
+        Taskhive est libre, Open Source, logiciel overt (FOSS/FLOSS).
         Tout le monde peut voir le code et comprendre son 
         mécanisme, le modifier et le distibuer à travers le monde. Mais,
         le plus important est ce qu'il peut être évalué et prové de ne pas
@@ -156,7 +156,7 @@
 
         Taskhive est basé autour de la vie privée des utilisateurs. C'est 
         développé avec l'idée que les réseaux locaux et les FAI (malicieusement 
-        ou par mandat) peuvent espionner votre Trafic et que votre bien-être 
+        ou par mandat) peuvent espionner votre trafic et que votre bien-être 
         risque d'être compromis par des régimes.
 
 
@@ -196,7 +196,7 @@
         Résistant à la censure
         ───────────────────────────────────────────────────────────────
         La résistance à la censure est une partie importante de liberté. 
-        C'est le premier réseau freelance qui Les utilisateurs à décider 
+        C'est le premier réseau freelance qui laisse aux utilisateurs à décider 
         eux-mêmes quelle catégorie de tâches ils veulent offrir pour des 
         services, quelles méthodes de paiement ils veulent utiliser, et 
         quels sont les services auxquels ils veulent faire confiance, sans 
@@ -230,7 +230,7 @@
         ▒█▄▀▄█ ▒█░▒█ ▒█▄▄▄█ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        Taskhive est un projet financé et commencé par RZZT, une collective
+        Taskhive est un projet financé et commencé par RZZT, un collectif
         orienté vers la liberté et la sécurité.
 
 
@@ -253,7 +253,7 @@
 
         RZZT produit différents outils de desktop ou mobile, applications et 
         jeux pour aider à faire pencher la balance vers les logiciels libres 
-        et la confidentialité comme standard. 
+        ayant la confidentialité comme standard. 
 
         En tant que projet FOSS, il y aura plusieurs contributeurs à Taskhive -
         - aucune entité ne le contrôle ou n'est responsable de lui. Comme tous 
