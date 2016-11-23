@@ -37,7 +37,7 @@
         (1) Clone the repository
         
         (2) Open the *-TRANSLATIONS file relative to the file you wish
-            to offer translations to
+            to offer translations to (ex: README-HUNGARIAN)
             
         (3) Add your freenode/github username in the translator column
             of a language you can guarantee proper translation in
