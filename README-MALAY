@@ -1,5 +1,6 @@
 
 
+
                                 ▓                                       
                                ╒██                                      
                              ╓▄███▓▄,                                   
@@ -31,203 +32,214 @@
     ▐██   J██████▌.▄▄'▀███ ██████╦  ██▀▀▀██ J██  ▐████▀ J██▀▀▀   
     ▐██   J██  ██▌ ██████▀ ██▌ ▀██▌ ██▌ J██ J██   ████  J██████▌ 
 
-                        Tap into the hive.
+                        Akses sarang anda.
 
 
 
 
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-        ▒█░░▒█ ▒█░▒█ ░█▀▀█ ▀▀█▀▀ ▀█ 1
+        ▒█░░▒█ ▒█░▒█ ░█▀▀█ ▀▀█▀▀ ▀█ 1 APA?
         ▒█▒█▒█ ▒█▀▀█ ▒█▄▄█ ░▒█░░ █▀
         ▒█▄▀▄█ ▒█░▒█ ▒█░▒█ ░▒█░░ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        Taskhive is a mobile and desktop application for freelancers.
-        It divides workload into tasks to minimize misunderstandings
-        and liabilities.
+        Taskhive adalah applikasi untuk komputer dan telefon bimbit untuk 
+        para pekerja bebas.Taskhive mempunyai ciri unik untuk membahagikan 
+        projek yang besar ke dalam tugasan yang lebih kecil untuk mengurangkan
+	      berlakunya perselisihan faham.
 
-        The Taskhive marketplace enables you to buy and sell any
-        service, and pay for it in any payment method you want, from
-        anywhere in the world.
+        Pasaran Taskhive membolehkan anda untuk jualbeli sebarang perkhidmatan
+        dan mendapatkan upah atau membayar melalui pelbagai kaedah pembayaran
+        yang mudah lagi selamat dari semua penjuru dunia.
 
 
 
 
-        Reputation Network
+        Rangkaian Reputasi
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is built around the assumption that payments for
-        services online are inherently risky -- which is why Taskhive
-        utilizes a transparent reputation network. This way, you are in
-        control of how much trust you are willing to give.
+	Taskhive telah dibina atas angappan bahawa pembayaran atas talian
+	untuk sebarang perkhidmatan mempunyai risikonya yang tersendiri. 
+	Oleh itu, Taskhive telah menggunakan sebuah rangkaian reputasi yang
+	telus dan bebas dari sebarang manipulasi. Dengan ini, andalah yang 
+	mengawal tahap kepercayaan anda terhadap pihak-pihak atas talian.
+	
+	Model pembayaran Taskhive yang menggunakan sistem pembayaran berdasarkan 
+	tugas dapat mengurangkan risiko dan kerugian yang disebabkan oleh penipuan
+	atas talian di samping mengurangkan kemungkinan berlakunya sebarang 
+	kesalahan faham antara pihak.Tambahan pula, ia dapat membantu pengguna 
+	Taskhive untuk membina reputasi dengan cepat.
 
-        The task-based payment model of Taskhive limits profitability
-        of fraud and decreases misunderstandings, while simultaneously
-        helping users build reputations faster.
-        
 
-
-        Contracts
+        Kontrak
         ───────────────────────────────────────────────────────────────
 
-        Taskhive employs many contract and license templates that can
-        cover most types of tasks. You can also edit them freely and
-        design your own contract.
+	Taskhive menawarkan pelbagai templat lesen dan kontrak yang dapat 
+	memenuhkan keperluan kebanyakan tugas dan perkhidmatan. Selain itu,
+	pengguna Taskhive boleh mengubah suai templat yang ditawarkan mengikut 
+	kesukaan atau keperluan kesendirian. Anda turut boleh mereka bentuk
+	kontrak khas untuk sebarang perkhidmatan khas.
 
-        These contracts, while legally binding, are designed primarily
-        for transparency between parties, to limit misunderstandings,
-        and to support claims in the event of dispute with escrow.
+	Tujuan utama perekaan kontrak-kontrak ini adalah untuk memastikan bahawa
+	ketelusan antara kedua-dua pihak kontrak dapat dicapai di samping 
+	mengurangkan sebarang kesalahan faham daripada berlaku. Selain itu, 
+	kontrak ini dapat dijadikan bukti dalam sebarang tuntutan melalui 
+	perkhidmatan escrow. Kontrak-kontrak ini juga sah untuk sebarang pertikaian
+	undang-undang kontrak.
 
 
 
         Escrow
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is designed as a direct person-to-person transaction
-        marketplace. In some cases, however, it is wise to use an escrow
-        to offset risk of fraud (e.g. when dealing with someone with no
-        reputation, or when dealing with someone who is anonymous).
-
-        Escrow agents are one of the many worker categories of the
-        decentralized marketplace, and anyone can offer their own escrow
-        services as one.
+	Taskhive adalah direka sebagai pasaran yang mengamalkan transaksi 
+	secara terus antara pihak-pihak yang terlibat. Walau begitu, dalam 
+	transaksi yang berisiko tinggi, contohnya transaksi dengan pengguna 
+	baru atau pengguna yang mempunyai skor reputasi yang rendah, adalah 
+	lebih bernas untuk mengupah perkhidmatan pihak ketiga (escrow) untuk
+	mengurangkan risiko penipuan atas talian berlaku.
         
+	Perkhidmatan agen escrow termasuk antara kategori pekhidmatan dalam
+	pasaran terbuka Taskhive dan boleh ditawar oleh sesiapa sahaja.
+	 
 
-        Payment facilitation
+        Fasilitasi pembayaran
         ───────────────────────────────────────────────────────────────
 
-        One of the benefits of using an escrow agent is that as long as
-        the agent offers faciliation, you can pay in one payment
-        method and have the agent remit the final balance using
-        another.
-
-        This is especially useful for people who wish to transact with
-        cryptocurrencies that either party is unfamiliar with. 
+	Antara kebaikan mengupah perkhidmatan escrow adalah kemudahan dalam	
+	penukaran mata wang untuk pembayaran selagi agen escrow tersebut 
+	menawarkan perkhidmatan fasilitasi pembayaran.
+	
+	Perkhidmatan ini amat berguna, terutamanya kepada pihak yang ingin 	
+	berurusan dalam mata wang atas talian (cryptocurrencies) tapi tidak
+	berpengetahuan atau berpengalaman dalam urusan tersebut.
 
 
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
         ▒█░░▒█ ▒█░▒█ ▒█░░▒█ ▀█ 2
         ▒█▒█▒█ ▒█▀▀█ ▒█▄▄▄█ █▀ 
-        ▒█▄▀▄█ ▒█░▒█ ░░▒█░░ ▄░ 
+        ▒█▄▀▄█ ▒█░▒█ ░░▒█░░ ▄░  MENGAPA?
 ───────────────────────────────────────────────────────────────────────
 
-        There is no shortage of freelance or micro-tasking internet
-        sites, but the philosophy and technology of Taskhive is what
-        sets it apart from the rest.
+	Laman berkerja bebas dan microtasking boleh terdapat di mana-mana
+	sahaja di laman web bagai cendawan tumbuh selepas hujan, tetapi 
+	falsafah dan teknologi yang diaplikasi dalam ciptaan Taskhive adalah
+	apa yang membezakan dan menonjolkannya dari laman lain. 
 
 
-        Libre
+        Kebebasan
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is free(libre), open source software (FOSS/FLOSS).
-        Anyone can crack open the code and see what it does, modify
-        it, and share it with the world. But most importantly, it
-        can be audited and prove that it is not doing anything
-        milacious.
+	Taskhive dibina atas perisian sumber terbuka (FOSS/FLOSS). 
+	Sesiapa sahaja boleh mengakses kodnya untuk memeriksa fungsinya,	
+	mengubahsuainya dan berkongsinya. Paling pentingnya, ia dapat diaudit 	
+	untuk mengesahkan bahawa program tersebut tidak membawa kemudaratan.
+	
+	Taskhive adalah dicipta dalam persekitaran yang seratus peratus FOSS 
+	oleh penyokong-penyokong kuat perisian sumber terbuka.
 
-        Taskhive is made in a completely FOSS environment by strong
-        supporters of libre software.
 
-
-        Free
+        Percuma
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is free(as in beer). There is no charge to do any
-        business on Taskhive. The exceptions are cases when escrow is
-        involved to mitigate financial risk. This is charged at the
-        market rate offered by the agent themselves.
+	Taskhive adalah percuma (seperti bir). Anda tidak perlu menanggung 
+	sebarang kos untuk berniaga di Taskhive, kecuali semasa mengupah ajen
+	escrow untuk mengurangkan risiko kewangan. Caj ini ditentu oleh ajen 
+	tersebut berdasarkan kadar pasaran.
 
-        All expenses for development of Taskhive are paid in full by
-        generous donations from third parties and the continued support
-        from the RZZT collective.
+	Semua perbelanjaan untuk pembangunan dan pembaikan Taskhive adalah dibayar
+	melalui pendermaan dari parti ketiga dan sokongan berterusan dari kolektif RZZT.
 
-        Taskhive will always be free.
-
+	Taskhive akan sentiasa percuma.
 
 
-        Privacy / Decentralization
+
+        Decentralization Privasi/Anti-kepusatan
+        ──────────────────────────────────────────────────────────────
+
+	Taskhive dicipta dengan fokus kepada privasi penggunanya. 
+	Kita di Taskhive menganggap bahawa rangkaian tempatan dan ISP anda 
+	mungkin sedang mengawasi aktiviti anda di laman web untuk niat tersendiri
+	atau kerana ia diperlukan oleh pihak kerajaan. Ini merupakan risiko yang 
+	berat kepada hak-hak privasi anda dari pihak kerajaan yang zalim dan penindas.
+
+
+
+        Keselamatan
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is built from the ground up around user privacy. It is
-        developed with the assumption that local networks and ISPs
-        (either maliciously or by mandate) may be spying on your
-        traffic, and that your well-being is at risk from oppressive
-        regimes.
+	Keselamatan yang sempurna tidak wujud, tetapi kita di Taskhive 
+	meneruskan usaha aktif kita untuk meningkatkan kualiti kod sumber 
+	terbuka kita dengan pengauditan dan sumbangan oleh orang awam.
+
+	Taskhive turut mengaplikasikan falsafah RZZT untuk berusaha dalam
+	menjaga dan mengekalkan piawai keselamatan dan privasi pengguna kita dan
+	terus memanfaatkan pengguna sekalian dengan polisi Taskhive yang 
+	mengamalkan nilai ketelusan sebagai objektif utamanya.
+
+	Kod keselamatan Taskhive ditulis dengan persediaan bahawa ia akan digodam
+	suatu hari nanti, dan kita di Taskhive menerima cabaran ini untuk menjaga
+	keselamatan pengguna kita melalui kewaspadaan dan peningkatan keselamatan kod kita.   
 
 
 
-        Security
+        Kebebasan
         ───────────────────────────────────────────────────────────────
 
-        Perfect security does not exist, but the next best thing is
-        actively developed and patched open source code, publicly
-        auditable contributions, and regular audits.
+	Laman berpusat kebanyakannya memaksa penggunanya untuk mengguna
+	salah satu cara pembayaran. Ini kerap kali menyebabkan isu penipuan,
+	penyitaan, penapisan dan pencerobohan privasi pengguna oleh pembekal 	
+	perkhidmatan yang tidak mementingkan kualiti perkhidmatan kepada pelanggan
+	mereka. Ini adalah isu yang tidak patut dipandang enteng oleh para pengguna.
 
-        Taskhive, via philosophy of RZZT, strives to keep security and
-        privacy standards high, and to do right by its users with
-        its transparent policies.
-
-        Taskhive is written with the assumption that it will eventually
-        be exploited, and that the challenge to keep users safe will be
-        a neverending battle requiring constant vigilence.
+	Oleh itu, kita di Taskhive berusaha untuk menyediakan pembayaran yang 
+	sebenar-benarnya bebas-- pengguna Taskhive bebas untuk mengguna apa-apa saja
+	cara pembayaran yang disetujui mereka dan ia akan disokong oleh Taskhive.
 
 
 
-        Freedom
+        Bebas dari penapisan
         ───────────────────────────────────────────────────────────────
 
-        Centralized sites often bottleneck users into a preferred
-        payment method. This often creates issues of seizure, fraud,
-        censorship, and privacy invasion by overreaching and
-        too-big-to-care service providers.
+	Tahap kebebasan Taskhive bergantung berat kepada amalan sistem
+	sifar penapisan. Kita adalah laman pekerjaan bebas yang pertama 
+	untuk memberi pengguna kita kebebasan untuk memilih kategori perkhidmatan 
+	yang diguna atau ditawar dan perkhidmatan atau pihak yang dipercayai 
+	oleh mereka dengan kawalan yang sesuai di samping tidak mengamalkan 
+	keharaman akaun pengguna kita.
 
-        Taskhive facilitates a truly free market with regards to
-        payments -- any payment method users are willing to trade
-        in will be supported.
-
-
-
-        Censoship-resistant
-        ───────────────────────────────────────────────────────────────
-
-        Censorship resistance is an important part of Taskhive's
-        freedom. It is the first freelancer network that allows its
-        users to decide for themselves what category of tasks they want
-        to offer services in, what payment methods they want to use,
-        and who and what services they want to trust, with no hard
-        moderation or accounts to ban.
-
-        The guessing work and bureaucracy is finally gone and the flood
-        gates of true free trade are open.
+	Anda tidak lagi perlu meneka atau menunggu untuk penyelesaian isu-isu birokrasi
+	untuk transaksi anda dalam pasaran Taskhive yang sepenuh-penuhnya bebas.
         
 
 
-        Task-based
+        Berdasarkan tugas
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is task-based, meaning you don't pay for mystery
-        hours or future promises -- you pay for the individual tasks
-        you need and nothing more. This makes communicating, switching
-        workers out, and reaching goals a simpler and less costly
-        process.
+	Taskhive mengamalkan sistem pembayaran bedasarkan tugas. Maksudnya
+	anda tidak perlu membayar untuk janji kosong atau jam pekerjaan yang 
+	dibazirkan dan hanya membayar untuk tugas yang diperlukan oleh anda 
+	sahaja. Ini memudahkan perhubungan antara pihak, penukaran pekerja,
+	dan memudahkan pencapaian matlamat anda dengan harga yang lebih murah.
 
-        For workers who wish to continue using hourly rates, they may
-        do so by selling blocks of time as a task itself (e.g. 10 hours
-        of design work) as may be necessary for tasks with no clear
-        outcome.
+	Untuk pekerja yang ingin meneruskan upah mereka yang bedasarkan masa,
+	Taskhive menawarkan perkhidmatan untuk menjual "slot" masa sebagai 
+	satu tugas. Contohnya, 10 jam perekaan dan pengubahsuaian boleh dijual
+	sebagai satu tugas. Ini boleh memudahkan pekerja yang mempunyai tugas
+	tanpa matlamat yang jelas.
 
 
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
         ▒█░░▒█ ▒█░▒█ ▒█▀▀▀█ ▀█ 3
         ▒█▒█▒█ ▒█▀▀█ ▒█░░▒█ █▀ 
-        ▒█▄▀▄█ ▒█░▒█ ▒█▄▄▄█ ▄░ 
+        ▒█▄▀▄█ ▒█░▒█ ▒█▄▄▄█ ▄░  SIAPA?
 ───────────────────────────────────────────────────────────────────────
 
-        Taskhive is a project funded and started by RZZT, a freedom and
-        security focused collective.
+	Taskhive adalah projek yang dibiayai dan diasaskan oleh RZZT, sebuah
+	kolektif yang fokus pada keselamatan dan kebebasan.
 
 
                █████████████████████████████████████████████████████████
@@ -243,78 +255,73 @@
                █████████████████████████████████████████████████████████
 
 
+	RZZT merupakan salah satu ahli Electronic Frontier Foundation (EFF) dan
+        Free Software Foundation (FSF). Ia bertujuan untuk memupuk privasi
+	pengguna, keselamatan dan kebebasan.
 
-        RZZT is a member of the Electronic Frontier Foundation (EFF) and
-        the Free Software Foundation (FSF). It is dedicated to promoting
-        user privacy, security and freedom.
-
-        RZZT produces various desktop and mobile tools, applications and
-        games to help tip the balance towards FOSS and privacy as a
-        standard.
-
-        As a FOSS project though, there will be various contributors to
-        Taskhive -- no single entity controls it or is responsible for
-        it. Like all FOSS projects, it survives and grows due to self
-        interest.
-
+	RZZT mengeluarkan pelbagai alat untuk komputer dan telefon bimbit,
+	applikasi dan permainan untuk memupuk kesedaran terhadap FOSS dan 
+	privasi sebagai piawai awam.
+	
+	Sebagai sebuah projek FOSS, Taskhive tidak akan dimilik secara individu,
+	kerana ia dibiayai dan dibesarkan melalui usaha penyumbangnya.
 
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
         ▒█░▒█ ▒█▀▀▀█ ▒█░░▒█ ▀█ 4
         ▒█▀▀█ ▒█░░▒█ ▒█▒█▒█ █▀ 
-        ▒█░▒█ ▒█▄▄▄█ ▒█▄▀▄█ ▄░ 
+        ▒█░▒█ ▒█▄▄▄█ ▒█▄▀▄█ ▄░  BAGAIMANA?
 ───────────────────────────────────────────────────────────────────────
 
-        Taskhive utilizes Bitmessage, a decentralized anonymous
-        messaging network. It has no need for traditional centralized
-        servers that can be compromised, leaked and broken. As an open
-        source program, it does not have the ability to spy on its
-        users without them knowing.
-
-        Thanks to Bitmessage's robust decentralized network storage,
-        Taskhive can function without the need for a single
-        point-of-failure database server, nor worry about hosting
-        costs that other services use as an excuse for fee gouging.
+	Taskhive menggunakan Bitmessage sebagai platform komunikasinya. 
+	Ia merupakan jaring pesanan yang tidak dipusatkan dan dirahsiakan.	
+	Ia tidak memerlukan pelayan pusat tradisional yang mudah diceroboh
+	dan digodam. Sebagai aplikasi sumber terbuka, ia tidak mempunyai 
+	fungsi untuk mengawasi penggunanya tanpa pengetahuan mereka.
+	
+	Dengan teknologi canggih Bitmessage yang menyimpan data rangkaian
+	tanpa mengguna pelayan pusat, Taskhive boleh berfungsi tanpa 
+	bergantung pada sebuah pelayan point-of-failure di samping mengelakkan
+	pelaburan modal yang tinggi dengan alasan seperti membayar kos penyimpanan data.
 
  
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
         ▒█░░▒█ ▒█░▒█ ▒█▀▀▀ ▒█▄░▒█ ▀█ 5
-        ▒█▒█▒█ ▒█▀▀█ ▒█▀▀▀ ▒█▒█▒█ █▀ 
+        ▒█▒█▒█ ▒█▀▀█ ▒█▀▀▀ ▒█▒█▒█ █▀  BILA?
         ▒█▄▀▄█ ▒█░▒█ ▒█▄▄▄ ▒█░░▀█ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        Taskhive is expected for alpha release sometime in 2017.
+	Taskhive dirancang untuk dilancarkan secara alpha dalam tahun 2017.
 
-        Since Taskhive will be empowering many citizens of the world
-        to reclaim their financial freedom through honest work, it is
-        imperative that it live up to its claims and not let its users
-        be subject to attack from oppressive regimes.
+	Oleh kerana Taskhive akan mengembalikan kuasa kewangan bebas kepada 
+	insan-insan duniawi melalui air peluh mereka, kita akan memastikan ia
+	dapat menunaikan janji dan tujuan kita untuk membebaskan pengguna dari
+	kezaliman dan penindasan.
 
-        Given the difficulties of forcing bug fixes in a truly
-        decentralized project, great care is being taken to allow for
-        backwards compatibility, rock-hard security, and to ensue that
-        all claims of privacy can be backed up with testing and proper
-        auditing.
+	Untuk mengurangkan kesukaran untuk mengaplikasikan pembetulan dan peningkatan
+	dalam sebuah projek sumber terbuka yang sepenuhnya, Kami telah mengambil 
+	tindakan dalam memastikan keserasian ke versi awal, sistem keselamatan 
+	dan privasi yang kukuh, di samping melakukan pengauditan dan pengujian yang 
+	sepenuhnya kepada semua aspek projek Taskhive. 
 
         
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
         ▒█░░▒█ ▒█░▒█ ▒█▀▀▀ ▒█▀▀█ ▒█▀▀▀ ▀█ 6
         ▒█▒█▒█ ▒█▀▀█ ▒█▀▀▀ ▒█▄▄▀ ▒█▀▀▀ █▀ 
-        ▒█▄▀▄█ ▒█░▒█ ▒█▄▄▄ ▒█░▒█ ▒█▄▄▄ ▄░ 
+        ▒█▄▀▄█ ▒█░▒█ ▒█▄▄▄ ▒█░▒█ ▒█▄▄▄ ▄░  MANA?
 ───────────────────────────────────────────────────────────────────────
 
-        One of the significant benefits of being a decentralized, p2p
-        network, is that location simply doesn't matter. Anyone from
-        anywhere can participate in the freelancer marketplace,
-        commissioning work from others, or offering services of their
-        own.
+	Antara faedah terbesar dalam Taskhive sebagai rangkaian tanpa pusat dan
+	p2p adalah kerana lokasi anda tidak lagi relevan. Sesiapa dari mana sahaja
+	boleh mengambil bahagian dalam pasaran pekerjaan bebas, mengkomisyen tugas
+	dari orang lain atau menawarkan perkhidmatan anda sendiri.
+	
+	Taskhive dapat menyamakan pasaran pekerjaan dengan ganjaran yang sepatutnya kepada
+	setiap orang yang mengambil bahagian dalam sebuah projek atau kontrak.
 
-        Taskhive can help equalize the market, rewarding the skilled, 
-        knowledgeable, handy and available equally for their involvement.
-
-        No more politics -- just free market!
+	Sifar politik- hanya pasaran bebas!
 
 
 
@@ -323,43 +330,51 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
         ▒█░░▒█ ▒█░▒█ ▀█▀ ▒█▀▀█ ▒█░▒█ ▀█ 7
         ▒█▒█▒█ ▒█▀▀█ ▒█░ ▒█░░░ ▒█▀▀█ █▀ 
-        ▒█▄▀▄█ ▒█░▒█ ▄█▄ ▒█▄▄█ ▒█░▒█ ▄░ 
+        ▒█▄▀▄█ ▒█░▒█ ▄█▄ ▒█▄▄█ ▒█░▒█ ▄░  APAKAH LAMAN YANG LEBIH BERNAS UNTUK DIPILIH?
 ───────────────────────────────────────────────────────────────────────
 
-        This simple comparison chart outlines some of the anti-features
-        of existing freelance networks and how Taskhive stands up to
-        them in comparison.
+	Carta mudah ini dapat membandingkan perkhidmatan dan ciri yang ditawarkan
+	oleh laman perkerjaan bebas yang sedia ada dengan perkhidmatan yang 
+	ditawarkan oleh Taskhive. 
+	
 
 
 
 ╔══════════════════╦══════════╤════════════╤═══════════════╤════════╤════════════╗
 ║                  ║ Taskhive │ Freelancer │ Upwork/Elance │ Toptal │ Craigslist ║
 ╠══════════════════╬══════════╪════════════╪═══════════════╪════════╪════════════╣
-║ Messages are     ║          │            │               │        │            ║
-║ encrypted        ║          │            │               │        │            ║
+║ Mesej telah      ║          │            │               │        │            ║
+║ dirahsiakan      ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Users can        ║          │            │               │        │            ║
-║ remain anonymous ║          │            │               │        │            ║
+║ Pengguna dapat   ║          │            │               │        │            ║
+║ merahsiakan      ║          │            │               │        │            ║
+║ identiti sendiri ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Network is       ║          │            │               │        │            ║
-║ decentralized    ║          │            │               │        │            ║
+║ Laman tidak      ║          │            │               │        │            ║
+║ dipusatkan       ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Censorship-free  ║          │            │               │        │            ║
+║ Bebas dari       ║          │            │               │        │            ║
+║ penapisan        ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Cryptocurrency   ║          │            │               │        │            ║
-║ support          ║          │            │               │        │            ║
+║ Sokongan untuk   ║          │            │               │        │            ║
+║ mata wang atas   ║          │            │               │        │            ║
+║ talian (bitcoin) ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Open source      ║          │            │               │        │            ║
+║ Menggunakan      ║          │            │               │        │            ║
+║ perisian sumber  ║          │            │               │        │            ║
+║ awam             ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Free             ║          │            │               │        │            ║
+║ Percuma          ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Provides         ║          │            │               │        │            ║
-║ optional escrow  ║          │            │               │        │            ║
+║ Menawarkan       ║          │            │               │        │            ║
+║ perkhidmatan     ║          │            │               │        │            ║
+║ escrow           ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
 ║                  ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
 ║                  ║          │            │               │        │            ║
 ╚══════════════════╩══════════╧════════════╧═══════════════╧════════╧════════════╝
+
 
 
 
