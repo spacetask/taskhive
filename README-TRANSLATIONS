@@ -1,38 +1,38 @@
-Language                                Translator                Status
-
-
-README-ARABIC                           appinv                    In progress; Paid.
-README-DANISH                           spaceghost                Referring
-README-DUTCH                            NoGodDamnIdea             Done; payment pending.
-README-ESPANOL                          spaceghost                
-README-FRANCAIS                         appinv                    Done; Paid.
-README-GERMAN                           NoGodDamnIdea             
-README-GREEK                            NoGodDamnIdea             Done; payment pending.
-README-HINDI                            anonkun                   Waiting (December)
-README-HUNGARIAN                        spaceghost                Referring
-README-ITALIAN                          NoGodDamnIdea             Done; payment pending.
-README-JAPANESE                         uMooko
-README-KOREAN                           NoGodDamnIdea
-README-KURDISH                          Diyar                     
-README-MALAY                            NoGodDamnIdea             Done; payment pending.
-README-MARATHI                          anonkun                   Waiting (December)
-README-MANDARIN                         rus2                      Done; Paid.
-README-MAURITIAN-CREOLE                 appinv                    In progress; Paid.
-README-NORWEGIAN                        spaceghost                Referring
-README-PERSIAN                          Parsi                     Waiting
-README-POLISH                           Surgo                     Done; Paid.                     
-README-PORTUGUESE                       NoGodDamnIdea
-README-ROMANIAN                         NoGodDamnIdea             Done; Paid.
-README-RUSSIAN                          zergut                    In progress
-README-SLOVAK                           NoGodDamnIdea             Referring
-README-SWEDISH                          spaceghost                Referring
-README-TURKISH                          appinv                    In progress; Paid.
-README-UKRANIAN                         spaceghost                Referring
-
-
-README-SWAHILI                          ?
-README-TAGALOG                          ?
-README-TAMIL                            ?
-README-THAI                             ?
-README-TSWANA                           ?
-README-VIETNAMESE                       ?
++-------------------------+--+---------------+--+------------------------------+--+----------------+
+|        Language         |  |  Translator   |  |         Task status          |  | Payment status |
++-------------------------+--+---------------+--+------------------------------+--+----------------+
+| README-FRANCAIS         |  | appinv        |  | Complete                     |  | Paid           |
+| README-GREEK            |  | NoGodDamnIdea |  | Complete                     |  | Pending        |
+| README-ITALIAN          |  | NoGodDamnIdea |  | Complete                     |  | Pending        |
+| README-MALAY            |  | NoGodDamnIdea |  | Complete                     |  | Pending        |
+| README-ROMANIAN         |  | NoGodDamnIdea |  | Complete                     |  | Paid           |
+| README-MANDARIN         |  | rus2          |  | Complete                     |  | Paid           |
+| README-POLISH           |  | Surgo         |  | Complete                     |  | Paid           |
+| README-ARABIC           |  | appinv        |  | In progress                  |  | Paid           |
+| README-MAURITIAN-CREOLE |  | appinv        |  | In progress                  |  | Paid           |
+| README-TURKISH          |  | appinv        |  | In progress                  |  | Paid           |
+| README-RUSSIAN          |  | zergut        |  | In progress                  |  |                |
+| README-DUTCH            |  | NoGodDamnIdea |  | In progress; revision needed |  | Pending        |
+| README-KOREAN           |  | NoGodDamnIdea |  | In progress; revision needed |  | Pending        |
+| README-KURDISH          |  | Diyar         |  | In progress.                 |  |                |
+| README-JAPANESE         |  | uMooko        |  | In progress.                 |  |                |
+| README-TAGALOG          |  | ?             |  | Open                         |  |                |
+| README-TAMIL            |  | ?             |  | Open                         |  |                |
+| README-TSWANA           |  | ?             |  | Open                         |  |                |
+| README-TSWANA           |  | ?             |  | Open                         |  |                |
+| README-VIETNAMESE       |  | ?             |  | Open                         |  |                |
+| README-SLOVAK           |  | NoGodDamnIdea |  | Referring                    |  |                |
+| README-SWAHILI          |  | NoGodDamnIdea |  | Referring                    |  |                |
+| README-THAI             |  | NoGodDamnIdea |  | Referring                    |  |                |
+| README-DANISH           |  | spaceghost    |  | Referring                    |  |                |
+| README-HUNGARIAN        |  | spaceghost    |  | Referring                    |  |                |
+| README-NORWEGIAN        |  | spaceghost    |  | Referring                    |  |                |
+| README-SWEDISH          |  | spaceghost    |  | Referring                    |  |                |
+| README-UKRANIAN         |  | spaceghost    |  | Referring                    |  |                |
+| README-PERSIAN          |  | Parsi         |  | Waiting                      |  |                |
+| README-HINDI            |  | anonkun       |  | Waiting (December)           |  |                |
+| README-MARATHI          |  | anonkun       |  | Waiting (December)           |  |                |
+| README-GERMAN           |  | NoGodDamnIdea |  |                              |  |                |
+| README-PORTUGUESE       |  | NoGodDamnIdea |  |                              |  |                |
+| README-ESPANOL          |  | spaceghost    |  |                              |  |                |
++-------------------------+--+---------------+--+------------------------------+--+----------------+
