@@ -1,38 +1,37 @@
-+-------------------------+--+---------------+--+------------------------------+--+----------------+
-|        Language         |  |  Translator   |  |         Task status          |  | Payment status |
-+-------------------------+--+---------------+--+------------------------------+--+----------------+
-| README-FRANCAIS         |  | appinv        |  | Complete                     |  | Paid           |
-| README-GREEK            |  | NoGodDamnIdea |  | Complete                     |  | Pending        |
-| README-ITALIAN          |  | NoGodDamnIdea |  | Complete                     |  | Pending        |
-| README-MALAY            |  | NoGodDamnIdea |  | Complete                     |  | Pending        |
-| README-ROMANIAN         |  | NoGodDamnIdea |  | Complete                     |  | Paid           |
-| README-MANDARIN         |  | rus2          |  | Complete                     |  | Paid           |
-| README-POLISH           |  | Surgo         |  | Complete                     |  | Paid           |
-| README-ARABIC           |  | appinv        |  | In progress                  |  | Paid           |
-| README-MAURITIAN-CREOLE |  | appinv        |  | In progress                  |  | Paid           |
-| README-TURKISH          |  | appinv        |  | In progress                  |  | Paid           |
-| README-RUSSIAN          |  | zergut        |  | In progress                  |  |                |
-| README-DUTCH            |  | NoGodDamnIdea |  | In progress; revision needed |  | Pending        |
-| README-KOREAN           |  | NoGodDamnIdea |  | In progress; revision needed |  | Pending        |
-| README-KURDISH          |  | Diyar         |  | In progress.                 |  |                |
-| README-JAPANESE         |  | uMooko        |  | In progress.                 |  |                |
-| README-TAGALOG          |  | ?             |  | Open                         |  |                |
-| README-TAMIL            |  | ?             |  | Open                         |  |                |
-| README-TSWANA           |  | ?             |  | Open                         |  |                |
-| README-TSWANA           |  | ?             |  | Open                         |  |                |
-| README-VIETNAMESE       |  | ?             |  | Open                         |  |                |
-| README-SLOVAK           |  | NoGodDamnIdea |  | Referring                    |  |                |
-| README-SWAHILI          |  | NoGodDamnIdea |  | Referring                    |  |                |
-| README-THAI             |  | NoGodDamnIdea |  | Referring                    |  |                |
-| README-DANISH           |  | spaceghost    |  | Referring                    |  |                |
-| README-HUNGARIAN        |  | spaceghost    |  | Referring                    |  |                |
-| README-NORWEGIAN        |  | spaceghost    |  | Referring                    |  |                |
-| README-SWEDISH          |  | spaceghost    |  | Referring                    |  |                |
-| README-UKRANIAN         |  | spaceghost    |  | Referring                    |  |                |
-| README-PERSIAN          |  | Parsi         |  | Waiting                      |  |                |
-| README-HINDI            |  | anonkun       |  | Waiting (December)           |  |                |
-| README-MARATHI          |  | anonkun       |  | Waiting (December)           |  |                |
-| README-GERMAN           |  | NoGodDamnIdea |  |                              |  |                |
-| README-PORTUGUESE       |  | NoGodDamnIdea |  |                              |  |                |
-| README-ESPANOL          |  | spaceghost    |  |                              |  |                |
-+-------------------------+--+---------------+--+------------------------------+--+----------------+
++-------------------------+--+---------------+--+--------------------------------+--+----------------+
+|        Language         |  |  Translator   |  |          Task status           |  | Payment status |
++-------------------------+--+---------------+--+--------------------------------+--+----------------+
+| README-TAGALOG          |  | ?             |  | 0 Open                         |  |                |
+| README-TAMIL            |  | ?             |  | 0 Open                         |  |                |
+| README-TSWANA           |  | ?             |  | 0 Open                         |  |                |
+| README-VIETNAMESE       |  | ?             |  | 0 Open                         |  |                |
+| README-SLOVAK           |  | NoGodDamnIdea |  | 1 Referring                    |  |                |
+| README-SWAHILI          |  | NoGodDamnIdea |  | 1 Referring                    |  |                |
+| README-THAI             |  | NoGodDamnIdea |  | 1 Referring                    |  |                |
+| README-DANISH           |  | spaceghost    |  | 1 Referring                    |  |                |
+| README-HUNGARIAN        |  | spaceghost    |  | 1 Referring                    |  |                |
+| README-NORWEGIAN        |  | spaceghost    |  | 1 Referring                    |  |                |
+| README-SWEDISH          |  | spaceghost    |  | 1 Referring                    |  |                |
+| README-UKRANIAN         |  | spaceghost    |  | 1 Referring                    |  |                |
+| README-PERSIAN          |  | Parsi         |  | 2 Waiting                      |  |                |
+| README-HINDI            |  | anonkun       |  | 2 Waiting (December)           |  |                |
+| README-MARATHI          |  | anonkun       |  | 2 Waiting (December)           |  |                |
+| README-ARABIC           |  | appinv        |  | 3 In progress                  |  | Paid           |
+| README-MAURITIAN-CREOLE |  | appinv        |  | 3 In progress                  |  | Paid           |
+| README-TURKISH          |  | appinv        |  | 3 In progress                  |  | Paid           |
+| README-KURDISH          |  | Diyar         |  | 3 In progress                  |  |                |
+| README-ESPANOL          |  | spaceghost    |  | 3 In progress                  |  |                |
+| README-JAPANESE         |  | uMooko        |  | 3 In progress                  |  |                |
+| README-RUSSIAN          |  | zergut        |  | 3 In progress                  |  |                |
+| README-DUTCH            |  | NoGodDamnIdea |  | 3 In progress; revision needed |  | Pending        |
+| README-KOREAN           |  | NoGodDamnIdea |  | 3 In progress; revision needed |  | Pending        |
+| README-FRANCAIS         |  | appinv        |  | 4 Complete                     |  | Paid           |
+| README-ROMANIAN         |  | NoGodDamnIdea |  | 4 Complete                     |  | Paid           |
+| README-GREEK            |  | NoGodDamnIdea |  | 4 Complete                     |  | Pending        |
+| README-ITALIAN          |  | NoGodDamnIdea |  | 4 Complete                     |  | Pending        |
+| README-MALAY            |  | NoGodDamnIdea |  | 4 Complete                     |  | Pending        |
+| README-GERMAN           |  | NoGodDamnIdea |  | 4 Complete                     |  | Pending        |
+| README-PORTUGUESE       |  | NoGodDamnIdea |  | 4 Complete                     |  | Pending        |
+| README-MANDARIN         |  | rus2          |  | 4 Complete                     |  | Paid           |
+| README-POLISH           |  | Surgo         |  | 4 Complete                     |  | Paid           |
++-------------------------+--+---------------+--+--------------------------------+--+----------------+
