@@ -31,7 +31,7 @@
     ▐██   J██████▌.▄▄'▀███ ██████╦  ██▀▀▀██ J██  ▐████▀ J██▀▀▀   
     ▐██   J██  ██▌ ██████▀ ██▌ ▀██▌ ██▌ J██ J██   ████  J██████▌ 
 
-                        Tap into the hive.
+                        Ingia kwenye mzinga.
 
 
 
@@ -43,67 +43,52 @@
         ▒█▄▀▄█ ▒█░▒█ ▒█░▒█ ░▒█░░ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        Taskhive is a mobile and desktop application for freelancers.
-        It divides workload into tasks to minimize misunderstandings
-        and liabilities.
+       Taskhive ni programu ya kutumika kwenye simu ya rununu na pia
+       kutumika kwenye kompyuta inayotumiwa na watu waliojiajiri 
+       (freelancers). Inatumika kugawa kazi kubwa kuwa kazi zingine 
+       ndogo ili kupunguza kutoelewana na matatizo mengine.
+       Taskhive inakuwezesha kununua na kuuza huduma yoyote kisha 
+       kuilipia kwa kupitia malipo yoyote kutoka mahali popote 
+       ulimwenguni.
 
-        The Taskhive marketplace enables you to buy and sell any
-        service, and pay for it in any payment method you want, from
-        anywhere in the world.
+       Mtandao ulio na sifa.
+
+       Taskhive imeundwa kwa fikira kuwa malipo ya huduma zinazofanywa 
+       mtandaoni hayana usalama wa  kutosha – ndiposa Taskhive inatumia 
+       mtandao wa kuaminika. Kwa njia hii, wewe ndiye unayedhibiti 
+       uaminifu ambao unapeana. 
+       Hii huduma ya malipo ya Taskhive inapunguza faida inayotokana na 
+       wizi na pia inapunguza ubishi ilhali inasadia watumizi kutengeza 
+       sifa zao kwa haraka.
+
+       Mikataba.
+
+       Taskhive imeajiri template za mikataba na za leseni ambazo
+       zinasimamia kazi mbalimbali. Unaweza pia kuzihariri ama pia 
+       kutengeneza kwa mkataba wako.
+       Hii mikataba ambayo ni halali, imetengenezwa ili kuleta uwazi
+       baina ya vyama husika ili kupunguza ubishi and pia kushikiriana
+       na madai wakati mzozo unapotokea na Escrow.
+
+       Escrow
+
+       Taskhive imetengenezwa kama njia ya kufanya biashara moja kwa
+       moja katika soko. Lakini kuna wakati mwingine ambapo ni bora 
+       kutumia Escrow ili kuondoa wizi (kwa mfano wakati unahusika na mtu
+       asiye na sifa nzuri ama unapohusika na mtu asiyefahamika). 
+       Wafanyi kazi wa Escrow ni njia mojawapo ya sehemu kadhaa za 
+       sokokuu na mtu yeyote anaweza kutumia huduma zao za Escrow 
+       kibinafsi.
 
 
+       Kuwezesha malipo
 
-
-        Reputation Network
-        ───────────────────────────────────────────────────────────────
-
-        Taskhive is built around the assumption that payments for
-        services online are inherently risky -- which is why Taskhive
-        utilizes a transparent reputation network. This way, you are in
-        control of how much trust you are willing to give.
-
-        The task-based payment model of Taskhive limits profitability
-        of fraud and decreases misunderstandings, while simultaneously
-        helping users build reputations faster.
-        
-
-
-        Contracts
-        ───────────────────────────────────────────────────────────────
-
-        Taskhive employs many contract and license templates that can
-        cover most types of tasks. You can also edit them freely and
-        design your own contract.
-
-        These contracts, while legally binding, are designed primarily
-        for transparency between parties, to limit misunderstandings,
-        and to support claims in the event of dispute with escrow.
-
-
-
-        Escrow
-        ───────────────────────────────────────────────────────────────
-
-        Taskhive is designed as a direct person-to-person transaction
-        marketplace. In some cases, however, it is wise to use an escrow
-        to offset risk of fraud (e.g. when dealing with someone with no
-        reputation, or when dealing with someone who is anonymous).
-
-        Escrow agents are one of the many worker categories of the
-        decentralized marketplace, and anyone can offer their own escrow
-        services as one.
-        
-
-        Payment facilitation
-        ───────────────────────────────────────────────────────────────
-
-        One of the benefits of using an escrow agent is that as long as
-        the agent offers faciliation, you can pay in one payment
-        method and have the agent remit the final balance using
-        another.
-
-        This is especially useful for people who wish to transact with
-        cryptocurrencies that either party is unfamiliar with. 
+       Moja ya faida za kutumia egenti wa escrow ni kuwa kama huyo
+       egenti anawezesha malipo, basi unaweza lipa kwa njia moja kisha 
+       egenti huyo anaweza kuondoa mabaki kwa kutumia njia nyingine.
+       Hii ni ya muhimu hasa kwa watu ambao wanatamani kufanya biashara 
+       kwa kutumia hela za teknolojia (cryptocurrencies) ambazo labda 
+       mmoja wao hazifahamu.
 
 
 
@@ -113,110 +98,80 @@
         ▒█▄▀▄█ ▒█░▒█ ░░▒█░░ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        There is no shortage of freelance or micro-tasking internet
-        sites, but the philosophy and technology of Taskhive is what
-        sets it apart from the rest.
+        Hakuna uhaba wa mitandao ya kufanya kazi za kibinafsi (freelance)
+        lakini falsafa na teknolojia ya Taskhive ndio inayoifanya maalum
+        ikilinganishwa na zingine.
 
+        Bure
 
-        Libre
-        ───────────────────────────────────────────────────────────────
-
-        Taskhive is free(libre), open source software (FOSS/FLOSS).
-        Anyone can crack open the code and see what it does, modify
-        it, and share it with the world. But most importantly, it
-        can be audited and prove that it is not doing anything
-        milacious.
-
-        Taskhive is made in a completely FOSS environment by strong
-        supporters of libre software.
-
-
-        Free
-        ───────────────────────────────────────────────────────────────
-
-        Taskhive is free(as in beer). There is no charge to do any
-        business on Taskhive. The exceptions are cases when escrow is
-        involved to mitigate financial risk. This is charged at the
-        market rate offered by the agent themselves.
-
-        All expenses for development of Taskhive are paid in full by
-        generous donations from third parties and the continued support
-        from the RZZT collective.
-
-        Taskhive will always be free.
-
-
-
-        Privacy / Decentralization
-        ───────────────────────────────────────────────────────────────
-
-        Taskhive is built from the ground up around user privacy. It is
-        developed with the assumption that local networks and ISPs
-        (either maliciously or by mandate) may be spying on your
-        traffic, and that your well-being is at risk from oppressive
-        regimes.
-
-
-
-        Security
-        ───────────────────────────────────────────────────────────────
-
-        Perfect security does not exist, but the next best thing is
-        actively developed and patched open source code, publicly
-        auditable contributions, and regular audits.
-
-        Taskhive, via philosophy of RZZT, strives to keep security and
-        privacy standards high, and to do right by its users with
-        its transparent policies.
-
-        Taskhive is written with the assumption that it will eventually
-        be exploited, and that the challenge to keep users safe will be
-        a neverending battle requiring constant vigilence.
-
-
-
-        Freedom
-        ───────────────────────────────────────────────────────────────
-
-        Centralized sites often bottleneck users into a preferred
-        payment method. This often creates issues of seizure, fraud,
-        censorship, and privacy invasion by overreaching and
-        too-big-to-care service providers.
-
-        Taskhive facilitates a truly free market with regards to
-        payments -- any payment method users are willing to trade
-        in will be supported.
-
-
-
-        Censoship-resistant
-        ───────────────────────────────────────────────────────────────
-
-        Censorship resistance is an important part of Taskhive's
-        freedom. It is the first freelancer network that allows its
-        users to decide for themselves what category of tasks they want
-        to offer services in, what payment methods they want to use,
-        and who and what services they want to trust, with no hard
-        moderation or accounts to ban.
-
-        The guessing work and bureaucracy is finally gone and the flood
-        gates of true free trade are open.
+        Taskhive ni programu ya bure (FOSS/FLOSS). Yeyote anaweza 
+        kuifungua na kuona kazi inayoifanya, kuibadilisha na kuieneza 
+        kokote ulimwenguni. Lakini cha umuhimu zaidi ni kwamba, inaweza 
+        kufanyia hesabu za ukaguzi ili kuangalia iwapo ilifanya jambo 
+        lolote lisilo halali.
+        TaskhiVe imetengenezwa kwa kutumia mazingira ya FOSS kwa kutumia
+        wasaidizi wa programu hio ya bure.
         
+        Bure
 
+        Taskhive ni ya bure (kama vile pombe). Hakuna gharama za kufanya
+        biashara ukitumia Taskhive isipokuwa pale Escrow inapotumika 
+        kuondoa hatari ya kifedha. Hii gharama inalipwa kwa kutumia bei 
+        ya sokokuu inayopewa na egenti wenyewe.
+        Malipo yote ya kutengeneza Taskhive yanalipwa yote kwa njia ya 
+        mchango kutoka kwa wahusika wa tatu na pia kutoka kwa usaidizi 
+        wa RZZT collective.
+        Taskhive ni ya bure milele.
 
-        Task-based
-        ───────────────────────────────────────────────────────────────
+        Siri/Madaraka
 
-        Taskhive is task-based, meaning you don't pay for mystery
-        hours or future promises -- you pay for the individual tasks
-        you need and nothing more. This makes communicating, switching
-        workers out, and reaching goals a simpler and less costly
-        process.
+        Taskhive imeundwa kutoka chini kwenda juu kwa kuweka mkazo siri
+        ya mtumizi. Imetengenezwa kwa fikira kuwa mitandao mingine na 
+        ISPs zingine (kwa kutaka ama kwa kupitia sheria) zinaweza kuwa 
+        zinapeleleza maandiko yako na kuwa ubinafsi wako umo hatarini 
+        kutoka kwa mamlaka mabaya.
 
-        For workers who wish to continue using hourly rates, they may
-        do so by selling blocks of time as a task itself (e.g. 10 hours
-        of design work) as may be necessary for tasks with no clear
-        outcome.
+        Usalama
+
+        Usalama usiokuwa na kasaro haupo lakini mbadala ni code 
+        inayotengenezwa kila mara ambayo michango yake inaonekana na pia 
+        inaweza halalishwa.
+        Taskhive kwa kupitia falsafa ya RZZT, inajitahidi kuweka usalama
+        na ubinafsi kuwa wa hali ya juu na kuangalia madhumuni ya 
+        watumizi kama muhimu zaidi.
+        Taskhive imetengenezwa kwa fikira ya kuwa watu watajaribu 
+        kuitumia kwa njia isiyo halali na kuwa changamoto iliyopo ya 
+        kuweka watumizi salama itakuwa mvutano usiokuwa na kikomo na 
+        kuwa itahitaji kuangaliwa kwa makini.
+
+        Uhuru	
+        
+        Tovuti zingine huwa zinalazimisha wanaozitumia kutumia utaratibu
+        mmoja wa malipo. Kufanya hivo huwa kunasababisha maovu ya kifedha
+        na pia udhibiti na uvamizi wa siri kutoka kwa watoa huduma 
+        wakubwa wasiojali. 
+        Taskhive inaleta soko kuu huru kwa madhumuni ya malipo—ambapo 
+        wanaotaka kulipa kwa njia ya kubadihishana watasaidiwa.
+
+        Kupinga Udhibiti
+
+        Upingaji wa udhibiti ni jambo muhimu katika uhuru wa Taskhive. 
+        Ni mara ya kwanza ambapo waliojiajiri (freelancer) wanaweza 
+        kuamua ni kazi gani wanataka kufanya, wanaweza kuamua njia ya 
+        malipo watakayotumia, huduma ambazo wanaamini bila kuogopa 
+        kupingwa ama kufukuzwa kutoka kwa akaunti zao.
+
+        Mkazo wa kazi
+
+        Taskhive inahusu ufanyikazi kwa hivyo haulipi ahadi za kesho ama
+        muda usiojulikana—unalipa kulingana na kazi unayoitaka pekee. 
+        Hii ni inafanya kazi kuwa rahisi kufanya, kubadilisha wafanyikazi
+        kuwa rahisi na kufikia malengo kuwa rahisi na pia bei nafuu.
+        Kwa wafanyikazi ambao wanatamani kuendelea kufanya kazi kwa 
+        masaa, wanaweza fanya hivo kwa njia ya kuuza muda kama bidhaa
+        (Kwa mfano masaa kumi ya kufanya kazi ya kubuni) kama 
+        itakavyohitajika bila kuonyesha matokeo.
+
 
 
 
@@ -226,8 +181,8 @@
         ▒█▄▀▄█ ▒█░▒█ ▒█▄▄▄█ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        Taskhive is a project funded and started by RZZT, a freedom and
-        security focused collective.
+        Taskhive ni mradi uliosimamiwa na kuanzishwa na RZZT, ambayo ni 
+        umoja wa uhuru na usalama.
 
 
                █████████████████████████████████████████████████████████
@@ -244,18 +199,17 @@
 
 
 
-        RZZT is a member of the Electronic Frontier Foundation (EFF) and
-        the Free Software Foundation (FSF). It is dedicated to promoting
-        user privacy, security and freedom.
+       RZZT ni mwanachama wa Electronic Frontier Foundation (EFF) na pia 
+       Free Software Foundation (FSF). Imejitahidi kukuza siri, usalama 
+       na uhuru wa watumizi.
+       RZZT hutengeneza zana, michezo na application za kompyuta na za 
+       simu za rununu kuwezesha FOSS kuwa kiungo kinashotumika kuweka 
+       siri.
+       Kama mradi wa FOSS kuna wachangiaji mbalimbali wa Taskhive – 
+       kumaanisha hakuna mtu binafsi ambaye anadhibiti Taskhive. 
+       Kama miradi mingine ya FOSS, Taskhive hudumu na kukuwa kwa ajili 
+       ya maslahi binafsi.
 
-        RZZT produces various desktop and mobile tools, applications and
-        games to help tip the balance towards FOSS and privacy as a
-        standard.
-
-        As a FOSS project though, there will be various contributors to
-        Taskhive -- no single entity controls it or is responsible for
-        it. Like all FOSS projects, it survives and grows due to self
-        interest.
 
 
 
@@ -264,17 +218,15 @@
         ▒█▀▀█ ▒█░░▒█ ▒█▒█▒█ █▀ 
         ▒█░▒█ ▒█▄▄▄█ ▒█▄▀▄█ ▄░ 
 ───────────────────────────────────────────────────────────────────────
+      Taskhive inatumia Bitmessage ambayo ni mtandao wa kutuma ujumbe 
+      ambao umefichwa. Haihitaji serva za kitambo ambazo zinaweza kuvuja 
+      ama kuvunjwa. Kama programu ya kufunguliwa, haina uwezo wa 
+      kupeleleza bila wanaotumia kujua.
+      Kupitia usaidizi wa uhifadhi wa mtandao wa Bitmessage, Taskhive 
+      inaweza kufanya kazi bila kutumia serva za database ambazo ni za 
+      hatua ya kushindwa wala kujali gharama za usajili ambazo huduma
+      zingine hutumia kama sababu ya kuchukua ada. 
 
-        Taskhive utilizes Bitmessage, a decentralized anonymous
-        messaging network. It has no need for traditional centralized
-        servers that can be compromised, leaked and broken. As an open
-        source program, it does not have the ability to spy on its
-        users without them knowing.
-
-        Thanks to Bitmessage's robust decentralized network storage,
-        Taskhive can function without the need for a single
-        point-of-failure database server, nor worry about hosting
-        costs that other services use as an excuse for fee gouging.
 
  
 
@@ -283,19 +235,16 @@
         ▒█▒█▒█ ▒█▀▀█ ▒█▀▀▀ ▒█▒█▒█ █▀ 
         ▒█▄▀▄█ ▒█░▒█ ▒█▄▄▄ ▒█░░▀█ ▄░ 
 ───────────────────────────────────────────────────────────────────────
+      Taskhive inatarajiwa kutolewa mara ya kwanza mwaka wa 2017.
+      Taskhive itatumika kusaidia watu wengi duniani kuchukua uhuru wao 
+      wa kifedha kupitia kazi ya kuaminika, kuna umuhimu wa Taskhive 
+      kufanya mambo ambayo inatakiwa kufanywa na kuzuia wanaoitumia 
+      kudhulumiwa na serikali duni.
+      Kwa ajili utoaji wa virusi ni kazi ngumu katika mradi kama huu, 
+      umakini unachukuliwa kuwezesha utangamano, usalama wa hali ya juu 
+      na pia kuwezesha ubinafsi unaweza kuandamana na kutahiniwa na pia 
+      ukaguzi ambao unafaa.
 
-        Taskhive is expected for alpha release sometime in 2017.
-
-        Since Taskhive will be empowering many citizens of the world
-        to reclaim their financial freedom through honest work, it is
-        imperative that it live up to its claims and not let its users
-        be subject to attack from oppressive regimes.
-
-        Given the difficulties of forcing bug fixes in a truly
-        decentralized project, great care is being taken to allow for
-        backwards compatibility, rock-hard security, and to ensue that
-        all claims of privacy can be backed up with testing and proper
-        auditing.
 
         
 
@@ -305,16 +254,12 @@
         ▒█▄▀▄█ ▒█░▒█ ▒█▄▄▄ ▒█░▒█ ▒█▄▄▄ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        One of the significant benefits of being a decentralized, p2p
-        network, is that location simply doesn't matter. Anyone from
-        anywhere can participate in the freelancer marketplace,
-        commissioning work from others, or offering services of their
-        own.
-
-        Taskhive can help equalize the market, rewarding the skilled, 
-        knowledgeable, handy and available equally for their involvement.
-
-        No more politics -- just free market!
+      Moja ya faida za mtandao wa p2p ni kwamba eneo haina umuhimu
+      wowote. Mtu yeyote kutoka popote anaweza kufanya kazi ya 
+      kujiajili (freelancer) na kufanyiwa kazi na wafanyikazi wengine.
+      Taskhive inaweza kusawazisha soko na kutuza wanao ujuzi, maarifa 
+      na ustadi wa wafanyikazi.
+      Hakuna siasa tena—ni soko huru pekee.
 
 
 
@@ -326,40 +271,35 @@
         ▒█▄▀▄█ ▒█░▒█ ▄█▄ ▒█▄▄█ ▒█░▒█ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        This simple comparison chart outlines some of the anti-features
-        of existing freelance networks and how Taskhive stands up to
-        them in comparison.
-
+     Hii ni  chati ya kulinganisha ambayo inaonyesha vipengele ambavyo 
+     vinapatikana katika mitandao mingine na kulinganisha na vile 
+     vinavyopatikana katika Taskhive. 
 
 
 ╔══════════════════╦══════════╤════════════╤═══════════════╤════════╤════════════╗
 ║                  ║ Taskhive │ Freelancer │ Upwork/Elance │ Toptal │ Craigslist ║
 ╠══════════════════╬══════════╪════════════╪═══════════════╪════════╪════════════╣
-║ Messages are     ║          │            │               │        │            ║
-║ encrypted        ║          │            │               │        │            ║
+║ Ujumbe wa siri.         ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Users can        ║          │            │               │        │            ║
-║ remain anonymous ║          │            │               │        │            ║
+║ Wanaotumia kuwa wasiojulikana ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Network is       ║          │            │               │        │            ║
-║ decentralized    ║          │            │               │        │            ║
+║ Mtandao si wa kibnafsi   ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Censorship-free  ║          │            │               │        │            ║
+║ Hakuna udhibiti  ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Cryptocurrency   ║          │            │               │        │            ║
-║ support          ║          │            │               │        │            ║
+║Fedha za teknolojia kutumika (cryptocurrency)         ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Open source      ║          │            │               │        │            ║
+║ Ni ya open source.     ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Free             ║          │            │               │        │            ║
+║ Ni ya bure.              ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Provides         ║          │            │               │        │            ║
-║ optional escrow  ║          │            │               │        │            ║
+║ Inawezesha Escrow kwa hiari ya mtumizi.  ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
 ║                  ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
 ║                  ║          │            │               │        │            ║
 ╚══════════════════╩══════════╧════════════╧═══════════════╧════════╧════════════╝
+
 
 
 
