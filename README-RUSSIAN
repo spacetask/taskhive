@@ -57,7 +57,7 @@
         Сеть основанная на репутации
         ───────────────────────────────────────────────────────────────
 
-        Taskhive создан на предположении, что платежи для
+        Taskhive основывается на том, что платежи для
         онлайн-услуг - изначально рискованные -- поэтому Taskhive
         использует прозрачные репутационные сети. Таким образом, 
         вы контролируете уровень доверия, который вы готовы предоставить. 
@@ -77,8 +77,8 @@
 
         Эти договора, несмотря на то что юридически обязывают, составлены 
         преимущественно для прозрачности в отношениях сторон, для 
-        ограничения недопониманий,и для поддержки претензий в случае 
-        возникновения споров через условное депонирование.
+        ограничения недопониманий,и для поддержки рекламаций в случае 
+        возникновения споров при использовании условного депонирования.
 
 
 
@@ -114,31 +114,33 @@
         ▒█▄▀▄█ ▒█░▒█ ░░▒█░░ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        There is no shortage of freelance or micro-tasking internet
-        sites, но философия и технология of Taskhive это то
+        Не существует недостатка в фриланс или сайтах позволяющих
+        подрабатывать, но философия и технология of Taskhive это то
         что отличает его от других.
 
 
-        Libre
+        Свобода
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is free(libre), open source software (FOSS/FLOSS).
-        Anyone can crack open the code and see what it does, modify
-        it, and share it with the world. But most importantly, it
-        can be audited and prove that it is not doing anything
-        milacious.
+        Taskhive это свободное(бесплатное), программное обеспечение с
+        открытым исходным кодомe (FOSS/FLOSS).
+        Любой может открыть код и посмотреть что он делает, изменять
+        его, и делится им с кем-угодно. Но важнее всего, код может быть
+        проверен и подтвердить свою направленность на исключение
+        подозрительных действий.
 
-        Taskhive is made in a completely FOSS environment by strong
-        supporters of libre software.
+        Taskhive создано полностью с использованием FOSS инстурментов
+        рьяными сподвижниками свободного ПО.
 
 
-        Free
+        Бесплатность
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is free(as in beer). There is no charge to do any
-        business on Taskhive. The exceptions are cases when escrow is
-        involved to mitigate financial risk. This is charged at the
-        market rate offered by the agent themselves.
+        Taskhive -- бесплатно(как воздух). There is no charge to do any
+        business on Taskhive. Ислючение это случаи когда условное
+        депонирование вовлечено в уменьшение финансовых рисков.
+        Но она устанавливается относительно рыночной стоимости 
+        предложенной самими агентами.
 
         All expenses for development of Taskhive are paid in full by
         generous donations from third parties and the continued support
