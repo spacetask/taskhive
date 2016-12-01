@@ -46,7 +46,7 @@
         
         A Taskhive egy szabadúszók számára kifejlesztett mobil
         és asztali használatra elérhető alkalmazás, ami segít a munkát 
-        feladatokra bontani és megosztani a felelősséget, 
+        részfeladatokra bontani és megosztani a felelősséget, 
         ezáltal csökkentve a félreértéseket.
         
         A Taskhive piactere lehetőséget teremt szolgáltatások
@@ -86,7 +86,7 @@
         Azonban néhány esetben nem árt letétet fizetni annak érdekében,
         hogy csökkentsük a visszaélés kockázatát (például akkor, ha
         olyannal üzletelünk, akinek még nincs reputációja, vagy olyannal,
-        aki anoníman van jelen a vásártéren). 
+        aki név nélkül van jelen a vásártéren). 
         
 
         Ügynök által bonyolított tranzakció
@@ -126,7 +126,8 @@
         semmilyen  ártalmas kódot.
         
         A Taskhive egy FOSS környezetben kialakított alkalmazás,
-        amit a szabad szoftverfelhasználást támogató userek hoztak létre.
+        amit a szabad szoftverfelhasználást támogató felhasználók
+        hoztak létre.
 
 
         Ingyenes
