@@ -42,69 +42,66 @@
         ▒█▒█▒█ ▒█▀▀█ ▒█▄▄█ ░▒█░░ █▀
         ▒█▄▀▄█ ▒█░▒█ ▒█░▒█ ░▒█░░ ▄░ 
 ───────────────────────────────────────────────────────────────────────
+        Mi az a Taskhive?
+        
+        A Taskhive egy szabadúszók számára kifejlesztett mobil
+        és asztali használatra elérhető alkalmazás, ami segít a munkát 
+        részfeladatokra bontani és megosztani a felelősséget, 
+        ezáltal csökkentve a félreértéseket.
+        
+        A Taskhive piactere lehetőséget teremt szolgáltatások
+        kereskedelmének lebonyolítására, miközben különböző fizetési
+        módokat támogat, és a világon bárhol elérhető.
 
-        Taskhive is a mobile and desktop application for freelancers.
-        It divides workload into tasks to minimize misunderstandings
-        and liabilities.
-
-        The Taskhive marketplace enables you to buy and sell any
-        service, and pay for it in any payment method you want, from
-        anywhere in the world.
-
-
-
-
-        Reputation Network
+     
+        Reputációs Hálózat
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is built around the assumption that payments for
-        services online are inherently risky -- which is why Taskhive
-        utilizes a transparent reputation network. This way, you are in
-        control of how much trust you are willing to give.
+        A Taskhive azért született meg, mert tudjuk, hogy az online
+        szolgáltatások fizetése hordoz magában bizonyos kockázatokat.  
+        Az alkalmazás ezért egy átlátható reputációs hálót használ, ami
+        alapján te döntöd el, mennyi bizalmat előlegezel partnereidnek. 
+        
+        Az applikáció feladat alapú fizetési modellje csökkenti
+        a visszaélés lehetőségét és a félreértések kockázatát,
+        miközben segíti a felhasználót jó hírneve kialakításában.
 
-        The task-based payment model of Taskhive limits profitability
-        of fraud and decreases misunderstandings, while simultaneously
-        helping users build reputations faster.
+        
+        Szerződések
+        ───────────────────────────────────────────────────────────────
+
+        A Taskhive különböző szerződés és licensz mintákat használ,
+        amik lefedik a feladatok nagy részét, azonban ha mégsem találsz
+        számodra megfelelőt, szabadon alakíthatod őket a saját igényeid
+        szerint.
+
+
+        Letét
+        ───────────────────────────────────────────────────────────────
+
+        A Taskhive úgy lett kialakítva, hogy közvetlen kereskedelmi
+        kapcsolatot teremtsen a felhasználók között (erre a későbbiekben
+        P2P-ként hivatkozunk).
+        
+        Azonban néhány esetben nem árt letétet fizetni annak érdekében,
+        hogy csökkentsük a visszaélés kockázatát (például akkor, ha
+        olyannal üzletelünk, akinek még nincs reputációja, vagy olyannal,
+        aki név nélkül van jelen a vásártéren). 
         
 
-
-        Contracts
+        Ügynök által bonyolított tranzakció
         ───────────────────────────────────────────────────────────────
 
-        Taskhive employs many contract and license templates that can
-        cover most types of tasks. You can also edit them freely and
-        design your own contract.
-
-        These contracts, while legally binding, are designed primarily
-        for transparency between parties, to limit misunderstandings,
-        and to support claims in the event of dispute with escrow.
-
-
-
-        Escrow
-        ───────────────────────────────────────────────────────────────
-
-        Taskhive is designed as a direct person-to-person transaction
-        marketplace. In some cases, however, it is wise to use an escrow
-        to offset risk of fraud (e.g. when dealing with someone with no
-        reputation, or when dealing with someone who is anonymous).
-
-        Escrow agents are one of the many worker categories of the
-        decentralized marketplace, and anyone can offer their own escrow
-        services as one.
+        A “letéti ügynök” egy olyan dolgozói kategória a decentralizált
+        vásártéren belül, amit bárki magára vállalhat. 
+        Letéti ügynök szolgáltatásának igénybevétele esetén használhatsz
+        egyfajta fizetési módot, majd az ügynök kifizetheti az összeget
+        egy másik fizetési móddal. 
         
-
-        Payment facilitation
-        ───────────────────────────────────────────────────────────────
-
-        One of the benefits of using an escrow agent is that as long as
-        the agent offers faciliation, you can pay in one payment
-        method and have the agent remit the final balance using
-        another.
-
-        This is especially useful for people who wish to transact with
-        cryptocurrencies that either party is unfamiliar with. 
-
+        Ez azoknak a felhasználóknak lehet
+        igazán hasznos, akik olyan eszközzel (pl. Bitcoin vagy egyéb
+        virtuális fizetési eszköz) szeretnének kereskedni,
+        amit sem a vevő, sem az eladó nem ismer. 
 
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -112,112 +109,106 @@
         ▒█▒█▒█ ▒█▀▀█ ▒█▄▄▄█ █▀ 
         ▒█▄▀▄█ ▒█░▒█ ░░▒█░░ ▄░ 
 ───────────────────────────────────────────────────────────────────────
+        Miért használjak Takshive-ot?
+        
+        Bár hasonló feladatkezelő internetes oldalakból sokat találni,
+        ami mégis megkülönbözteti a Taskhive-ot a többitől,
+        az a filozófiája és a technológia, ami mögötte van.
 
-        There is no shortage of freelance or micro-tasking internet
-        sites, but the philosophy and technology of Taskhive is what
-        sets it apart from the rest.
+        Szabadon felhasználható
+        ───────────────────────────────────────────────────────────────
+        A Taskhive egy szabadon használható (libre),nyílt forráskódú
+        szoftver (FOSS/FLOSS).Bárki megnyithatja a kódot és belenézhet,
+        saját igényeire alakíthatja és megoszthatja a világgal.
+        
+        Amit   a legfontosabbnak tartunk az applikációval kapcsolatban
+        megjegyezni, az mégis az, hogy bizonyíthatóan nem tartalmaz
+        semmilyen  ártalmas kódot.
+        
+        A Taskhive egy FOSS környezetben kialakított alkalmazás,
+        amit a szabad szoftverfelhasználást támogató felhasználók
+        hoztak létre.
 
 
-        Libre
+        Ingyenes
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is free(libre), open source software (FOSS/FLOSS).
-        Anyone can crack open the code and see what it does, modify
-        it, and share it with the world. But most importantly, it
-        can be audited and prove that it is not doing anything
-        malicious.
+        A Taskhive ingyenes (már amennyire egy sör ingyenes),
+        nem kerül semmibe használni. Kivétel ez alól a letéti ügynökök
+        szolgáltatásainak igénybevétele, aminek piaci árát ők határozzák
+        meg személyenként eltérő módon. A Taskhive minden fejlesztésének
+        költségét nagylelkű adományokból és a RZZT collective
+        támogatásával fedezzük. 
+        
+        A Taskhive mindig is ingyenes lesz.
 
-        Taskhive is made in a completely FOSS environment by strong
-        supporters of libre software.
 
-
-        Free
+        Adatvédelem / Decentralizáció
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is free(as in beer). There is no charge to do any
-        business on Taskhive. The exceptions are cases when escrow is
-        involved to mitigate financial risk. This is charged at the
-        market rate offered by the agent themselves.
-
-        All expenses for development of Taskhive are paid in full by
-        generous donations from third parties and the continued support
-        from the RZZT collective.
-
-        Taskhive will always be free.
+        A Taskhive ötlete a felhasználói biztonság köré épült abból
+        kiindulva, hogy a helyi hálózatok és ISP-k (kártékonyak vagy sem)
+        belenézhetnek a felhasználó forgalmába, ezáltal sértve a
+        felhasználó személyiség- és szabadságjogait.
 
 
-
-        Privacy / Decentralization
+        Biztonság
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is built from the ground up around user privacy. It is
-        developed with the assumption that local networks and ISPs
-        (either maliciously or by mandate) may be spying on your
-        traffic, and that your well-being is at risk from oppressive
-        regimes.
+        Nem létezik tökéletes biztonság, a legközelebb ehhez mégis
+        folyamatosan fejlesztett és javított nyílt forráskóddal
+        juthatunk, amit bárki nyilvánosan ellenőrizhet és átírhat.
+        
+        A Taskhive (a RZZT filozófiáját alapul véve) magas biztonsági
+        és titoktartási színvonalért küzd, biztosítva az átláthatóságot
+        felhasználói felé.
+        
+        Tudjuk, hogy a Taskhive-ot is meg fogja egyszer törni valaki,
+        ez pedig egy olyan folyamatos éberséget követelő kihívás felénk,
+        amivel felhasználóink érdekében folyamatosan küzdeni fogunk.
 
 
-
-        Security
+        Szabadság
         ───────────────────────────────────────────────────────────────
 
-        Perfect security does not exist, but the next best thing is
-        actively developed and patched open source code, publicly
-        auditable contributions, and regular audits.
-
-        Taskhive, via philosophy of RZZT, strives to keep security and
-        privacy standards high, and to do right by its users with
-        its transparent policies.
-
-        Taskhive is written with the assumption that it will eventually
-        be exploited, and that the challenge to keep users safe will be
-        a neverending battle requiring constant vigilence.
+        A központosított oldalak sokszor rákényszerítik a felhasználót
+        egy bizonyos fizetési metódus használatára. Ez sokszor vezet
+        elkobzáshoz, visszaélésekhez, cenzúrához, és a személyes
+        szabadság megsértéséhez, ami általában a  szolgáltatók
+        számlájára írható. 
+        
+        A Taskhive egy ténylegesen szabad piacteret üzemeltet, amin
+        bármilyen fizetési mód támogatottt, amit a felhasználók
+        igényelnek.
 
 
-
-        Freedom
+        Cenzúrázatlan
         ───────────────────────────────────────────────────────────────
 
-        Centralized sites often bottleneck users into a preferred
-        payment method. This often creates issues of seizure, fraud,
-        censorship, and privacy invasion by overreaching and
-        too-big-to-care service providers.
-
-        Taskhive facilitates a truly free market with regards to
-        payments -- any payment method users are willing to trade
-        in will be supported.
-
-
-
-        Censoship-resistant
-        ───────────────────────────────────────────────────────────────
-
-        Censorship resistance is an important part of Taskhive's
-        freedom. It is the first freelancer network that allows its
-        users to decide for themselves what category of tasks they want
-        to offer services in, what payment methods they want to use,
-        and who and what services they want to trust, with no hard
-        moderation or accounts to ban.
-
-        The guessing work and bureaucracy is finally gone and the flood
-        gates of true free trade are open.
+        A Taskhive filozófiája szembemegy mindennemű cenzúrával.
+        
+        A szabadúszók határozzák meg azt, hogy milyen szolgáltatásokat
+        ajánlanak, milyen fizetőeszközt szeretnének használni, kiben
+        bíznak és mivel bízzák meg az illetőt. 
+        
+        Szigorú moderáció és tiltás nincs a piactéren. 
         
 
-
-        Task-based
+        Feladat-alapú
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is task-based, meaning you don't pay for mystery
-        hours or future promises -- you pay for the individual tasks
-        you need and nothing more. This makes communicating, switching
-        workers out, and reaching goals a simpler and less costly
-        process.
-
-        For workers who wish to continue using hourly rates, they may
-        do so by selling blocks of time as a task itself (e.g. 10 hours
-        of design work) as may be necessary for tasks with no clear
-        outcome.
-
+        A Taskhive feladat-alapú, ami azt jelenti, hogy nem fizetsz
+        ellenőrizhetetlen órákért vagy jövőbeli ígéretekért. 
+        Csak az igényelt feladatokért fizetsz, semmi másért. 
+        Ez olcsóbbá és egyszerűbbé teszi a kommunikációt, a különböző
+        szolgáltatók kipróbálását, és céljaid elérését.
+        
+        Azok számára, akik óradíjban dolgoznak, lehetővé tettük,
+        hogy blokkokban dolgozzanak (pl. egy darab “design munka” 
+        egy 10 órás blokkban lenne ajánlható). 
+       
+        Ez akkor előnyös, ha nem tiszta, hogy egy feladatnak 
+        mi lesz az eredménye/kimenetele.
 
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -225,9 +216,11 @@
         ▒█▒█▒█ ▒█▀▀█ ▒█░░▒█ █▀ 
         ▒█▄▀▄█ ▒█░▒█ ▒█▄▄▄█ ▄░ 
 ───────────────────────────────────────────────────────────────────────
-
-        Taskhive is a project funded and started by RZZT, a freedom and
-        security focused collective.
+        Kik készítik?
+        
+        A Taskhive a RZZT collective által támogatott projekt, 
+        akik a szabadság és a biztonság filozófiáját mindennél
+        fontosabbnak tartják. 
 
 
                █████████████████████████████████████████████████████████
@@ -244,19 +237,16 @@
 
 
 
-        RZZT is a member of the Electronic Frontier Foundation (EFF) and
-        the Free Software Foundation (FSF). It is dedicated to promoting
-        user privacy, security and freedom.
-
-        RZZT produces various desktop and mobile tools, applications and
-        games to help tip the balance towards FOSS and privacy as a
-        standard.
-
-        As a FOSS project though, there will be various contributors to
-        Taskhive -- no single entity controls it or is responsible for
-        it. Like all FOSS projects, it survives and grows due to self
-        interest.
-
+      A RZZT collective az Electronic Frontier Foundation (EFF) és a
+      Free Software Foundation (FSF) tagja. Elkötelezett támogatója
+      a felhasználók magánszférájának, biztonságának és szabadságának. 
+      
+      A RZZT collective olyan asztali és mobil eszközöket, applikációkat
+      és játékokat hoz létre, amik előremozdítják a FOSS elterjedését
+      és a magánélethez való jogot népszerűsítik. 
+      
+      Mivel a Taskhive egy FOSS project, ezért több különböző szerzője
+      van, nincs egy megnevezett személy, aki felelősséget vállal érte.
 
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -264,19 +254,20 @@
         ▒█▀▀█ ▒█░░▒█ ▒█▒█▒█ █▀ 
         ▒█░▒█ ▒█▄▄▄█ ▒█▄▀▄█ ▄░ 
 ───────────────────────────────────────────────────────────────────────
+        Hogyan működik?
+        
+        A Taskhive egy anoním decentralizált üzenetküldő rendszert
+        használ (Bitmessage). Ehhez nem kellenek központi szerverek,
+        amik különböző módokon törhetőek, fertőzhetőek vagy más módon
+        károsíthatóak. 
+        
+        Mivel az alkalmazás nyílt forráskódú, nem tud úgy információt
+        gyűjteni a felhasználóitól, hogy azok ne tudnának róla. 
+        
+        A Bitmessage decentralizált hálózatának köszönhetően nincs
+        egy olyan központi támadható adatbázis,ami miatt tárolási
+        költségek merülnének fel.
 
-        Taskhive utilizes Bitmessage, a decentralized anonymous
-        messaging network. It has no need for traditional centralized
-        servers that can be compromised, leaked and broken. As an open
-        source program, it does not have the ability to spy on its
-        users without them knowing.
-
-        Thanks to Bitmessage's robust decentralized network storage,
-        Taskhive can function without the need for a single
-        point-of-failure database server, nor worry about hosting
-        costs that other services use as an excuse for fee gouging.
-
- 
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
         ▒█░░▒█ ▒█░▒█ ▒█▀▀▀ ▒█▄░▒█ ▀█ 5
@@ -284,19 +275,20 @@
         ▒█▄▀▄█ ▒█░▒█ ▒█▄▄▄ ▒█░░▀█ ▄░ 
 ───────────────────────────────────────────────────────────────────────
 
-        Taskhive is expected for alpha release sometime in 2017.
+        Mikortól használhatom az applikációt?
 
-        Since Taskhive will be empowering many citizens of the world
-        to reclaim their financial freedom through honest work, it is
-        imperative that it live up to its claims and not let its users
-        be subject to attack from oppressive regimes.
-
-        Given the difficulties of forcing bug fixes in a truly
-        decentralized project, great care is being taken to allow for
-        backwards compatibility, rock-hard security, and to ensue that
-        all claims of privacy can be backed up with testing and proper
-        auditing.
-
+        A Taskhive első tesztverziója várhatóan 2017-ben jelenik meg.  
+        Mivel az alkalmazás felhasználók tömegeinek fogja visszaadni
+        a pénzügyi szabadságot, elengedhetetlen az, hogy felérjen
+        eredeti céljaihoz, miszerint nem teszi ki felhasználóit
+        személyiség- és szabadságjogaik korlátozásának.
+        
+        Mivel a hibajavítás igen nehézkes egy decentralizált projekt
+        esetén, nagy hangsúlyt fektettünk arra, hogy a Taskhive
+        visszafelé kompatibilis, és biztonságos legyen. 
+        
+        Emellett fontos volt számunkra az is,  hogy mindez megfelelő
+        teszteléssel és auditálással alátámasztható legyen.
         
 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -304,57 +296,54 @@
         ▒█▒█▒█ ▒█▀▀█ ▒█▀▀▀ ▒█▄▄▀ ▒█▀▀▀ █▀ 
         ▒█▄▀▄█ ▒█░▒█ ▒█▄▄▄ ▒█░▒█ ▒█▄▄▄ ▄░ 
 ───────────────────────────────────────────────────────────────────────
+        Hol?
+        
+        A legnagyobb előnye egy decentralizált P2P hálózatnak az,
+        hogy a helyszín tulajdonképpen értelmét veszti. 
+        Bárki fel tud csatlakozni bárhonnan, és részt vehet a szabadúszó
+        piactér életében, akár vásárolni, akár szolgáltatni szeretne.
 
-        One of the significant benefits of being a decentralized, p2p
-        network, is that location simply doesn't matter. Anyone from
-        anywhere can participate in the freelancer marketplace,
-        commissioning work from others, or offering services of their
-        own.
+         A Taskhive segíthet kiegyenlíteni a piacot, jutalmazva
+         a tehetséges, nagytudású, szorgalmas egyéneket, 
+         akik számára elérhető az alkalmazás. 
 
-        Taskhive can help equalize the market, rewarding the skilled, 
-        knowledgeable, handy and available equally for their involvement.
-
-        No more politics -- just free market!
-
-
-
-
-
+       
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
         ▒█░░▒█ ▒█░▒█ ▀█▀ ▒█▀▀█ ▒█░▒█ ▀█ 7
         ▒█▒█▒█ ▒█▀▀█ ▒█░ ▒█░░░ ▒█▀▀█ █▀ 
         ▒█▄▀▄█ ▒█░▒█ ▄█▄ ▒█▄▄█ ▒█░▒█ ▄░ 
 ───────────────────────────────────────────────────────────────────────
-
-        This simple comparison chart outlines some of the anti-features
-        of existing freelance networks and how Taskhive stands up to
-        them in comparison.
-
-
+        Melyiket használjam?
+        
+        A lenti összehasonlító táblázat bemutatja a legnépszerűbb,
+        szabadúszók számára elérhető weboldalakat, illetve azt is,
+        miért érdemes a Taskhive-ot választani a többivel szemben:
 
 ╔══════════════════╦══════════╤════════════╤═══════════════╤════════╤════════════╗
 ║                  ║ Taskhive │ Freelancer │ Upwork/Elance │ Toptal │ Craigslist ║
 ╠══════════════════╬══════════╪════════════╪═══════════════╪════════╪════════════╣
-║ Messages are     ║          │            │               │        │            ║
-║ encrypted        ║          │            │               │        │            ║
+║ Az üzenetek      ║          │            │               │        │            ║
+║ titkosítottak    ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Users can        ║          │            │               │        │            ║
-║ remain anonymous ║          │            │               │        │            ║
+║ A felhasználók   ║          │            │               │        │            ║
+║ anonímak         ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Network is       ║          │            │               │        │            ║
-║ decentralized    ║          │            │               │        │            ║
+║ Decentralizált   ║          │            │               │        │            ║
+║ hálózat          ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Censorship-free  ║          │            │               │        │            ║
+║ Cenzúrázatlan    ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Cryptocurrency   ║          │            │               │        │            ║
-║ support          ║          │            │               │        │            ║
+║ Virtuális        ║          │            │               │        │            ║
+║ fizetési eszköz  ║          │            │               │        │            ║
+║ (Cryptocurrency) ║          │            │               │        │            ║
+║ támogatottság    ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Open source      ║          │            │               │        │            ║
+║ Nyílt forráskódú ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Free             ║          │            │               │        │            ║
+║ Ingyenes         ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Provides         ║          │            │               │        │            ║
-║ optional escrow  ║          │            │               │        │            ║
+║ Letéti           ║          │            │               │        │            ║
+║ ügynököt kínál   ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
 ║                  ║          │            │               │        │            ║
 ╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
@@ -369,137 +358,23 @@
         ▀▀▀ ▀▀▀ ▀▀▀ ▀▀▀ ▀░░▀ ▀▀▀ ▀▀▀ 
 ───────────────────────────────────────────────────────────────────────
 
-    This file is part of Taskhive.
-
-    Taskhive is free software: you can redistribute it and/or modify
-    it under the terms of the GNU AFFERO GENERAL PUBLIC LICENSE as
-    published by the Free Software Foundation, either version 3 of the
-    License, or (at your option) any later version.
-
-    Taskhive is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU AFFERO GENERAL PUBLIC LICENSE for more details.
-
-    You should have received a copy of the GNU AFFERO GENERAL PUBLIC
-    LICENSE along with Taskhive.  If not, see
-    <https://www.gnu.org/licenses/agpl.html>.
+     Licensz
     
-    
+     Ez a fájl a Taskhive része.
+     A Taskhive egy ingyenes szoftver, a GNU AFFERO GENERAL PUBLIC LICENSE
+     szabályai szerint használhatod/módosíthatod. 
+     
+     A GNU AFFERO GENERAL PUBLIC LICENSE-t a Free Software Foundation adta ki,
+     ennek 3-as vagy annál későbbi verziójára hivatkozhatsz.
+     
+     A  Taskhive annak reményében kerül forgalmazásba, 
+     hogy hasznodra válik majd,viszont vedd figyelembe,
+     hogy NEM VÁLLALUNK ÉRTE SEMMIFÉLE FELELŐSSÉGET, GARANCIÁT. 
+     
+     További információért, a GNU AFFERO GENERAL PUBLIC LICENSE-ra hivatkozhatsz.
+     
+     A GNU AFFERO GENERAL PUBLIC LICENSE automatikusan jár a Taskhive
+     alkalmazáshoz,  amennyiben mégsem kaptad meg, 
+     itt találod: https://www.gnu.org/licenses/agpl.html.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Mi az a Taskhive?
-A Taskhive egy szabadúszók számára kifejlesztett mobil és asztali használatra elérhető alkalmazás, ami segít a munkát feladatokra bontani és megosztani a felelősséget, ezáltal csökkentve a félreértéseket.
-A Taskhive piactere lehetőséget teremt szolgáltatások kereskedelmének lebonyolítására, miközben különböző fizetési módokat támogat, és a világon bárhol elérhető.
-        ───────────────────────────────────────────────────────────────     
-Reputációs Hálózat
-A Taskhive azért született meg, mert tudjuk, hogy az online szolgáltatások fizetése hordoz magában bizonyos kockázatokat.  Az alkalmazás ezért egy átlátható reputációs hálót használ, ami alapján te döntöd el, mennyi bizalmat előlegezel partnereidnek. 
- Az applikáció feladat alapú fizetési modellje csökkenti a visszaélés lehetőségét és a   félreértések kockázatát, miközben segíti a felhasználót jó hírneve kialakításában.
-        ───────────────────────────────────────────────────────────────
- Szerződések
-A  Taskhive különböző szerződés és licensz mintákat használ, amik lefedik a feladatok nagy részét, azonban ha mégsem találsz számodra megfelelőt, szabadon alakíthatod őket a saját igényeid szerint.
-─────────────────────────────────────────────────────────────────────
-Letét
-A Taskhive úgy lett kialakítva, hogy közvetlen kereskedelmi kapcsolatot teremtsen a felhasználók között (erre a későbbiekben P2P-ként hivatkozunk).  Azonban néhány esetben nem árt letétet fizetni annak érdekében, hogy csökkentsük a visszaélés kockázatát (például akkor, ha olyannal üzletelünk, akinek még nincs reputációja, vagy olyannal, aki anoníman van jelen a vásártéren). 
-A “letéti ügynök” egy olyan dolgozói kategória a decentralizált vásártéren belül, amit bárki magára vállalhat. ---Megjegyzés: Én itt írnám le, hogy mit csinál az ügynök, vagy ezt a mondatot már a következő bekezdés elejére tenném be!
-  ───────────────────────────────────────────────────────────────────────
-Ügynök által bonyolított tranzakció
-Letéti ügynök szolgáltatásának igénybevétele esetén használhatsz egyfajta fizetési módot, majd az ügynök kifizetheti az összeget egy másik fizetési móddal. Ez azoknak a felhasználóknak lehet igazán hasznos, akik olyan eszközzel (pl. Bitcoin vagy egyéb virtuális fizetési eszköz) szeretnének kereskedni, amit sem a vevő, sem az eladó nem ismer. 
-        ───────────────────────────────────────────────────────────────
-Miért használjak Takshive-ot?
-Bár hasonló feladatkezelő internetes oldalakból sokat találni, ami mégis megkülönbözteti a Taskhive-ot a többitől, az a filozófiája és a technológia, ami mögötte van.
-        ───────────────────────────────────────────────────────────────
-        Szabadon felhasználható
- A Taskhive egy szabadon használható (libre), nyílt forráskódú szoftver (FOSS/FLOSS).
- Bárki megnyithatja a kódot és belenézhet, saját igényeire alakíthatja és megoszthatja a világgal. Amit   a legfontosabbnak tartunk az applikációval kapcsolatban megjegyezni, az mégis az, hogy bizonyíthatóan nem tartalmaz semmilyen  ártalmas kódot.
-A Taskhive egy FOSS környezetben kialakított alkalmazás, amit a szabad szoftverfelhasználást támogató userek hoztak létre.
-        ───────────────────────────────────────────────────────────────
-        Ingyenes
-A Taskhive ingyenes (egy sör azért jól esne érte – ezt is kivenném), nem kerül semmibe használni. Kivétel ez alól a letéti ügynökök szolgáltatásainak igénybevétele, aminek piaci árát ők határozzák meg személyenként eltérő módon. A Taskhive minden fejlesztésének költségét nagylelkű adományokból és a RZZT collective támogatásával fedezzük. 
-A Taskhive mindig is ingyenes lesz.
-        ───────────────────────────────────────────────────────────────
-        Titoktartás / Decentralizáció
-A Taskhive ötlete a felhasználói biztonság köré épült abból kiindulva, hogy a helyi hálózatok és ISP-k (kártékonyak vagy sem) belenézhetnek a felhasználó forgalmába, ezáltal elősegítve elnyomó rendszerek uralmát – javaslom ennek átírását: […] belenézhetnek a felhasználó forgalmába, ezáltal megsértve a felhasználó (személyiség- és )szabadságjogait (vagy szabadsághoz való jogát).
-        ───────────────────────────────────────────────────────────────
-        Biztonság
-Nem létezik tökéletes biztonság, a legközelebb ehhez mégis folyamatosan fejlesztett és javított nyílt forráskóddal juthatunk, amit bárki nyilvánosan ellenőrizhet és átírhat.
-A Taskhive (a RZZT filozófiáját alapul véve) magas biztonsági és titoktartási színvonalért küzd, biztosítva az átláthatóságot felhasználói felé.
-Tudjuk, hogy a Taskhive-ot is meg fogja egyszer törni valaki, ez pedig egy olyan folyamatos éberséget követelő kihívás felénk, amivel felhasználóink érdekében folyamatosan küzdeni fogunk.
-                ───────────────────────────────────────────────────────────────
-Szabadság
- A központosított oldalak sokszor rákényszerítik a felhasználót egy bizonyos fizetési metódus használatára. Ez sokszor vezet elkobzáshoz, visszaélésekhez, cenzúrához, és a személyes szabadság megsértéséhez, ami általában a  szolgáltatók számlájára írható. 
-A Taskhive egy ténylegesen szabad piacteret üzemeltet, amin bármilyen fizetési mód támogatottt, amit a felhasználók igényelnek.
-            ───────────────────────────────────────────────────────────────
-Cenzúra-mentes
-A Taskhive filozófiája szembemegy mindennemű cenzúrával. A szabadúszók határozzák meg azt, hogy milyen szolgáltatásokat ajánlanak, milyen fizetőeszközt szeretnének használni, kiben bíznak és mivel bízzák meg az illetőt. Szigorú moderáció és tiltás nincs a piactéren. 
-Vége a bürokráciának, az igazi szabadkereskedelem kapui végre megnyílnak! – ezt kivenném.
-        ───────────────────────────────────────────────────────────────
-         Feladat-alapú
-A Taskhive feladat-alapú, ami azt jelenti, hogy nem fizetsz ellenőrizhetetlen órákért vagy jövőbeli ígéretekért. Csak az igényelt feladatokért fizetsz, semmi másért. Ez olcsóbbá és egyszerűbbé teszi a kommunikációt, a különböző szolgáltatók kipróbálását, és céljaid elérését.
-Azok számára, akik óradíjban dolgoznak, lehetővé tettük, hogy blokkokban dolgozzanak (pl. egy darab “design munka” egy 10 órás blokkban lenne ajánlható). Ez akkor előnyös, ha nem tiszta, hogy egy feladatnak mi lesz az eredménye/kimenetele.
-        ───────────────────────────────────────────────────────────────
-Kik készítik?
-A Taskhive a RZZT collective által támogatott projekt, akik a szabadság és a biztonság filozófiáját mindennél fontosabbnak tartják. 
-A RZZT collective az Electronic Frontier Foundation (EFF) és a Free Software Foundation (FSF) tagja. Elkötelezett támogatója a felhasználók magánszférájának, biztonságának és szabadságának. 
-A RZZT collective olyan asztali és mobil eszközöket, applikációkat és játékokat hoz létre, amik előremozdítják a FOSS elterjedését és a magánélethez való jogot népszerűsítik. –erre nézz rá azért.
-Mivel a Taskhive egy FOSS project, ezért több különböző szerzője van, nincs egy megnevezett személy, aki felelősséget vállal érte. 
-Magánérdekből marad fenn és növekszik. – ezt is kivenném.
-───────────────────────────────────────────────────────────────
-Hogyan működik?
-A Taskhive egy anoním decentralizált üzenetküldő rendszert használ (Bitmessage). Ehhez nem kellenek központi szerverek, amik különböző módokon törhetőek, fertőzhetőek vagy más módon károsíthatóak. 
-Mivel az alkalmazás nyílt forráskódú, nem tud úgy információt gyűjteni a felhasználóitól, hogy azok ne tudnának róla. 
-A Bitmessage decentralizált hálózatának köszönhetően nincs egy olyan központi támadható adatbázis,ami miatt tárolási költségek merülnének fel.
-───────────────────────────────────────────────────────────────
-Mikortól használhatom az applikációt?
-A Taskhive első tesztverziója várhatóan 2017-ben jelenik meg.  
-Mivel az alkalmazás felhasználók tömegeinek fogja visszaadni a pénzügyi szabadságot, elengedhetetlen az, hogy felérjen eredeti céljaihoz, miszerint nem teszi ki felhasználóit elnyomó rendszerek támadásainak. – ismét. Inkább valami ilyesmit javaslok: miszerint nem sérti a felhasználó (személyiség- és )szabadságjogait (vagy szabadsághoz való jogát).
-Mivel a hibajavítás igen nehézkes egy decentralizált projekt esetén, nagy hangsúlyt fektettünk arra, hogy a Taskhive visszafelé kompatibilis, és biztonságos legyen. Emellett fontos volt számunkra az is,  hogy mindez megfelelő teszteléssel és auditálással alátámasztható legyen.
-───────────────────────────────────────────────────────────────
-Hol?
-A legnagyobb előnye egy decentralizált P2P hálózatnak az, hogy a helyszín tulajdonképpen értelmét veszti. Bárki fel tud csatlakozni bárhonnan, és részt vehet a szabadúszó piactér életében, akár vásárolni, akár szolgáltatni szeretne.
-  
-
- A Taskhive segíthet kiegyenlíteni a piacot, jutalmazva a tehetséges, nagytudású, szorgalmas egyéneket, akik számára elérhető az alkalmazás. –erre nézz rá azért.
-       Nincs több politika, csak szabad kereskedelem! – ezt is kivenném.
-───────────────────────────────────────────────────────────────
-Melyiket használjam?
-A lenti összehasonlító táblázat bemutatja a legnépszerűbb,  szabadúszók számára elérhető weboldalakat, illetve azt is, miért érdemes a Taskhive-ot választani a többivel szemben:
-╔══════════════════╦══════════╤════════════╤═══════════════╤════════╤════════════╗
-║                  ║ Taskhive │ Freelance │ Upwork/Elance │ Toptal │ Craigslist ║
-╠══════════════════╬══════════╪════════════╪═══════════════╪════════╪════════════╣
-║ Az üzenetek titkosítottak        ║          │            │               │        │            ║
-╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ A felhasználók név nélkül használhatják (anonímak) ║          │            │               │        │            ║
-╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Decentralizált hálózat    ║          │            │               │        │            ║
-╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Cenzor-mentes  ║          │            │               │        │            ║
-╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Virtuális fizetési eszköz (Cryptocurrency) támogatottság   ║          │            │               │        │            ║
-║╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────
-║ Nyílt forráskódú      ║          │            │               │        │            ║
-╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Ingyenes             ║          │            │               │        │            ║
-╟──────────────────╫──────────┼────────────┼───────────────┼────────┼────────────╢
-║ Letéti ügynököt kínál║          │            │               │        │            ║
-
-───────────────────────────────────────────────────────────────
-Licensz
-Ez a fájl a Taskhive része.
-A Taskhive egy ingyenes szoftver, a GNU AFFERO GENERAL PUBLIC LICENSE szabályai szerint használhatod/módosíthatod. A GNU AFFERO GENERAL PUBLIC LICENSE-t a Free Software Foundation adta ki, ennek 3-as vagy annál későbbi verziójára hivatkozhatsz.
- A  Taskhive annak reményében kerül forgalmazásba, hogy hasznodra válik majd, viszont vedd figyelembe, hogy NEM VÁLLALUNK ÉRTE SEMMIFÉLE FELELŐSSÉGET, GARANCIÁT. További információért, a GNU AFFERO GENERAL PUBLIC LICENSE-ra hivatkozhatsz.
- A GNU AFFERO GENERAL PUBLIC LICENSE automatikusan jár a Taskhive alkalmazáshoz,  amennyiben mégsem kaptad meg, itt találod: https://www.gnu.org/licenses/agpl.html.
     
