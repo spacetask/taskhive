@@ -76,7 +76,29 @@
 |     |———Unlock encrypted key (password protected)
 |          |
 |          |———Register new key (bitmessage) to network
-|          |———Submit profile data (reputation)
+|          |———Submit profile data to network
+|
+|
+|
+|
+|
+|
+|
+|———Search
+|     |
+|     |———[•] Browse by category
+|     |    |
+|     |    |———Add category alerts
+|     |          |———Refine alerts with keywords
+|     |
+|     |———[ ] Search by keyword
+|          |
+|          |———Add keyword alerts
+|                |———Refine alerts with category
+|
+|
+|
+|
 |
 |
 |
