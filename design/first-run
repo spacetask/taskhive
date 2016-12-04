@@ -84,7 +84,7 @@
 |
 |
 |
-|———Search
+|———Search Tasks
 |     |
 |     |———[•] Browse by category
 |     |    |
@@ -96,6 +96,59 @@
 |          |———Add keyword alerts
 |                |———Refine alerts with category
 |
+|
+|
+|———Search Service providers
+|     |
+|     |———[•] Browse by category
+|     |    |
+|     |    |———Add category alerts
+|     |          |———Refine alerts with keywords
+|     |
+|     |———[ ] Search by keyword
+|          |
+|          |———Add keyword alerts
+|                |———Refine alerts with category
+|
+|
+|
+|
+|
+|———Offer Services
+|     |
+|     |———Add categories
+|     |———Add keywords
+|     |———Add payment methods
+|     |———Add rates
+|     |———Add description
+|
+|
+|
+|———Offer Task
+|     |
+|     |———Add categories
+|     |———Add keywords
+|     |———Add payment methods
+|     |———Add rates
+|     |———Add description
+|
+|
+|
+|
+|———Inqure to task offerer
+|     |
+|     |———Plan of action
+|     |———Adjusted rate proposal
+|     |———Rate type (hourly/milestone/full deposit (escrow))
+|     |———Contract term proposal
+|
+|
+|———Inqure to service provider
+|     |
+|     |———Inquery for/proposal of plan of action
+|     |———Adjusted rate proposal
+|     |———Rate type (hourly/milestone/full deposit (escrow))
+|     |———Contract term proposal
 |
 |
 |
