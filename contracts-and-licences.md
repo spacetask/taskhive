@@ -56,14 +56,18 @@ A possible solution to the problem of pseudonymous parties is to mandate the use
 #### Parties module: pseudonymous parties
 
 > This agreement is between:
-> (a) the key-holder of [key] (hereafter '[nickname]'), and
-> (b) the key-holder of [key] (hereafter '[nickname]').
+>
+> (a) the key-holder of `key` (hereafter '`nickname`'), and
+>
+> (b) the key-holder of `key` (hereafter '`nickname`').
 
 #### Parties module: non-pseudonymous parties
 
 > This agreement is between:
-> (a) [full name and form of company], registered office [full address of registered office], [registration number], and
-> (b) [full name of individual], trading as [trading name], [business number], [full address].
+>
+> (a) `full name and form of company`, registered office `full address of registered office`, `registration number`, and
+>
+> (b) `full name of individual`, trading as `trading name`, `business number`, `full address`.
 
 ---
 
