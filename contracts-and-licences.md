@@ -79,6 +79,14 @@ Because the function of the software is to assist persons with limited legal kno
 
 Care must be taken to ensure that the software does not itself produce conflicting definitions, although it may be necessary to define the same word differently based on a user's selections (though this is not ideal and is likely avoidable). Careful and concise drafting of all clauses should eliminate the need for a lengthy definitions section.
 
+---
+
+#### Definitions module: mandatory
+
+(May not be necessary).
+
+---
+
 ### Governing law
 
 A governing law clause specifies the jurisdiction under which a contract is made: that is, which law applies when enforcing and interpreting the agreement. In the absence of a governing law clause, the laws of a relevant jurisdiction will typically apply: 'relevant' may be the jurisdiction in which the contract was made, or in which either of the parties is ordinarily resident, or in which the contract is to be performed.
@@ -96,6 +104,14 @@ Allowing contracting parties to choose a jurisdiction would provide flexibility 
 It is posited that in the case of the relatively simple contracts and licence agreements that the software would provide, the parties would be concerned less with whether the agreement is enforceable under the laws of a particular jurisdiction, but more with whether the agreement could be enforced at all from both a theoretical and practical perspective. The fact that a contract _is_ reasonably enforceable is likely to be sufficient to encourage the parties to uphold their ends of the bargain.
 
 Consequently, a simpler approach, at least initially, would be to include a mandatory governing law clause specifying a single jurisdiction. English contract law is advantageous because the language is widely spoken in terms of geographic spread, and the law is stable and well-understood. It should pose no unusual difficulties for creating enforceable agreements.
+
+---
+
+#### Governing law module: mandatory
+
+> This contract is governed by and shall be interpreted in accordance with the laws of England.
+
+---
 
 ### Forum selection
 
