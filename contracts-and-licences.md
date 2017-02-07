@@ -34,6 +34,8 @@ A possible solution to the problem of pseudonymous parties is to mandate the use
 
 ---
 
+#### Parties module: outline
+
 - **Select:** `PSEUDONYMOUS` or `NON-PSEUDONYMOUS`
   - **If** `PSEUDONYMOUS`:
     - `ESCROW` (mandatory) and `ARBITRATION` (mandatory)
@@ -50,6 +52,10 @@ A possible solution to the problem of pseudonymous parties is to mandate the use
           - `FULL NAME AND FORM` (mandatory)
           - `REGISTERED OFFICE` (mandatory)
           - `REGISTRATION NUMBER` (mandatory)
+
+#### Parties module: pseudonymous parties
+
+> 
 
 ---
 
