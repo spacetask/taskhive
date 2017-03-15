@@ -80,31 +80,11 @@ Recommended parties clause:
 
 ---
 
-## Definitions
+## Definitions and governing law
 
 The definitions section ensures that terms used in the agreement are interpreted consistently (rather than relying on context to determine the intended meaning), which is especially important where an ambiguous word is used, or a word is used in an unusual sense. A definitions section can also be useful to refer readers to relevant sections if they are looking for how a word is defined. For example: '"the Vendor" means the party identified in clause (1)(a)' not only defines the term consistently, but refers the reader to the relevant provision.
 
 Definitions should be fixed to ensure that users with limited knowledge or understanding cannot erroneously change the effect of clauses dependent on those definitions. There are likely to be only a few terms which need to be defined in the definitions section, and users generally shouldn't need to see them until the contract is prepared. The recommended clause below contains some of the terms to be defined.
-
----
-
-Recommended definitions clause:
-
-> **Definitions**
->
-> (2) In this contract:
-> 
-> (a) 'the Arbitrator' means the person identified in Clause (5),
->
-> (b) 'the Escrow Agent' means the person identified in Clause (?)(?),
-> 
-> (c) 'the Vendee' means the party identified in Clause (1)(b), and
->
-> (d) 'the Vendor' means the party identified in Clause (1)(c).
-
----
-
-## Governing law
 
 A governing law clause specifies the jurisdiction under which a contract is made. The governing law clause determines which law applies when enforcing and interpreting the agreement. It does not specify _where_ or _how_ an agreement is to be enforced, but which law is to apply. This can affect both the formal and substantive aspects of a contract, and determines how it is to be interpreted.
 
@@ -156,7 +136,17 @@ Recommended interpretation clause:
 
 > **Interpretation**
 >
-> (3) This contract shall be interpreted in accordance with the definitions in Clause (2) and the interpretation rules in Appendix I.
+> (2) This contract shall be interpreted in accordance with the definitions in Clause (3) and the interpretation rules in Appendix I.
+>
+> (3) In this contract:
+> 
+> (a) 'the Arbitrator' means the person identified in Clause (5),
+>
+> (b) 'the Escrow Agent' means the person identified in Clause (?)(?),
+> 
+> (c) 'the Vendee' means the party identified in Clause (1)(b), and
+>
+> (d) 'the Vendor' means the party identified in Clause (1)(c).
 
 ---
 
