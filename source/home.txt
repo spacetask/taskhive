@@ -3,5 +3,5 @@ Home
 ====
 Welcome to the Taskhive Wiki!
 -----------------------------
-.. image: images/logo.png
+.. image:: images/logo.png
 
