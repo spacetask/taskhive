@@ -1,0 +1,6 @@
+====
+Home
+====
+
+.. image: images/logo.png
+
