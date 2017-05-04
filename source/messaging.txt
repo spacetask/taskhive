@@ -1,0 +1,44 @@
+Messaging Temporary Mailbox
+
+When task offers and requests are submitted, a temporary bitmessage 
+contact address is generated specifically for communications relevant to 
+that task.
+
+This mailbox is used for manual negotiations, clarifications, and 
+automatic contract proposals, until such time as the contract is 
+considered complete. Inquiries
+
+Potential clients or service providers will want to contact the poster 
+directly to discuss the details of a task, to clarify intentions, or to 
+negotiate a contract and begin work.
+
+Depending on the work involved, it may be more practical for some 
+workers to use email or another form of instant messaging (IRC, XMPP, 
+etc) to discuss a task on a regular basis. Before contacting a taskhive 
+profile regarding work, check the privacy preferences of the client for 
+which communication channels are allowed, to avoid future 
+misunderstandings.
+
+Inquiries are made to the temporary bitmessage mailbox generated 
+specifically for a task offer or request. This can be done seamlessly 
+inside the client directly from the task view screen, and later again 
+from the mailbox menu.
+
+There is no limit of how many inquiries can be made to the same mailbox 
+for the same task. If a received message is considered spam (multiple 
+offers without waiting for response, offers for unrelated services to 
+the task, constant messaging) it is important to mark the message as 
+spam. This will automatically add the profile to the local ignore list 
+and leave Unsolicited feedback noting that you received spam from the 
+profile. Responding
+
+Incoming messages show up in the mailbox screen and also trigger an 
+alert on the system. After receiving a request for clarification or 
+additional information on a task, responses can be sent directly from 
+the mailbox message view screen.
+
+There is no limit of how many responses can be made to the same mailbox 
+for the same task. It is important not to abuse this however as a 
+profile may be marked as a spammer for unsolicited or unnecessary 
+responses, especially those unrelated to the task.
+
