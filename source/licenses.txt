@@ -1,4 +1,8 @@
+.. highlight:: rst
+
+========
 Licenses
+========
 
 Tasks completed by service providers (i.e. design, audio, writing) 
 typically remain the property of the service provider unless ownership 

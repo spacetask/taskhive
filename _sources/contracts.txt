@@ -1,4 +1,8 @@
+.. highlight:: rst
+
+=========
 Contracts
+=========
 
 Clients and service providers can manually create a new, edit or modify 
 an existing contract template to suit their liking. To get started, the 

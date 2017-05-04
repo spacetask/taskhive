@@ -1,4 +1,8 @@
+.. highlight:: rst
+
+========
 Listings
+========
 
 Browsing
 

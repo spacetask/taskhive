@@ -1,4 +1,8 @@
+.. highlight:: rst
+
+============
 Connectivity
+============
 
 Participation in the taskhive network requires a connection to the 
 Bitmessage network. You can connect to the Bitmessage network over Tor 

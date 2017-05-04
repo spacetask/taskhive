@@ -1,4 +1,10 @@
-Messaging Temporary Mailbox
+.. highlight:: rst
+
+=========
+Messaging
+========= 
+
+Temporary Mailbox
 
 When task offers and requests are submitted, a temporary bitmessage 
 contact address is generated specifically for communications relevant to 

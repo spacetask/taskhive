@@ -1,4 +1,8 @@
+.. highlight:: rst
+
+=======
 Profile
+=======
 
 To participate in the Taskhive network, a profile is needed for 
 representation. A profile can be as detailed and public, or bare-bones 

@@ -1,4 +1,8 @@
+.. highlight:: rst
+
+======
 Escrow
+======
 
 Among the various categories of services offered on Taskhive, there are 
 professional escrow services. It is important to choose a well trusted 

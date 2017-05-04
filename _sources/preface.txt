@@ -1,3 +1,9 @@
+.. highlight:: rst
+
+=======
+Preface
+=======
+
 Taskhive is a marketplace for freelance work. Instead of a centralized 
 website that can be hacked, DDoSed or inevitably corrupted, Taskhive is 
 a decentralized, p2p network and FOSS software, similar to BitTorrent, 
