@@ -1,0 +1,12 @@
+Licenses
+
+Tasks completed by service providers (i.e. design, audio, writing) 
+typically remain the property of the service provider unless ownership 
+is signed over or a particular copyright or copyleft license is applied 
+to it first. Free Licenses
+
+Free licenses enable free usage by anyone under specified conditions. 
+Copyright Permissions
+
+Copyright permissions allow for clients to use the works under specific 
+conditions.

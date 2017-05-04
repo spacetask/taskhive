@@ -1,0 +1,24 @@
+.. taskhive documentation master file, created by
+   sphinx-quickstart on Sun Nov  6 02:32:44 2016.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive. New test.
+
+Taskhive Wiki
+====================================
+.. toctree::
+   :maxdepth: 2
+   :caption: Table of Contents
+
+   Home <home>
+   0x01 Preface <preface>
+   0x02 Profile <profile>
+   0x03 Connectivity <connectivity>
+   0x04 Listings <listings>
+   0x05 Messaging <messaging>
+   0x06 Contracts <contracts>
+   0x07 Licenses <licenses>
+   0x08 Reputation <reputation>
+   0x09 Escrow <escrow>
+   0x0A Exchange <exchange>
+   0x0B Software <software>
+

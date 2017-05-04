@@ -1,0 +1,6 @@
+Reputation
+
+Reputation is built through interactions and feedback on the network, 
+and managed through a Web-of-Trust. Web-of-Trust
+
+A web-of-trust is a map of trust between profiles.
