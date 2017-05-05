@@ -26,7 +26,7 @@ and used for keyword suggestion when posting a new task offer or
 request. This helps standardize keywords by promoting common 
 terminology.
 
-
+.. image:: categories.png
 
 *Clients may opt-in to irregular broadcasting of keyword lists to the 
 network for the benefit of newly installed clients*

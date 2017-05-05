@@ -73,6 +73,7 @@ network.</p>
 public key to the Identicon library. Due to the higher probability of
 collision and confusion, it is recommended to upgrade to a Qrcode-art
 avatar.</p>
+<img alt="_images/identicons.png" src="_images/identicons.png" />
 <p><em>Example default pixel-art avatars generated from public key.</em></p>
 </div>
 <div class="section" id="qrcode-art-avatars">
@@ -81,6 +82,7 @@ avatar.</p>
 the CuteR library, along with the encoded profile&#8217;s compressed public
 key data. The binary data is then embedded into profiles as a base64
 string for display on the client.</p>
+<img alt="_images/qr-art.png" src="_images/qr-art.png" />
 <p><em>Example Qrcode avatars generated via the CuteR library.</em></p>
 </div>
 <div class="section" id="feedback">
@@ -88,28 +90,24 @@ string for display on the client.</p>
 <p>Positive, neutral and negative feedback can be left for profiles on
 taskhive. Feedback is categorized into three basic types:</p>
 <ul class="simple">
-<li>Unsolicited – this type of feedback carries the least weight and may</li>
-</ul>
-<p>contain spam, libel or unrelated personal drama. Nevertheless,
+<li>Unsolicited – this type of feedback carries the least weight and may
+contain spam, libel or unrelated personal drama. Nevertheless,
 unsolicited feedback is necessary on a p2p network to promote
 transparency and to combat corruption. An example legitimate use of
 unsolicited feedback is when a profile is misrepresenting skills by
 stealing samples of other freelancers. Unsolicited feedback carries a
-neutral score (0).</p>
-<ul class="simple">
-<li>Solicited-Transaction – this type of feedback is directly tied to a</li>
-</ul>
-<p>transaction and carries the most weight. Any parties to a transaction
+neutral score (0).</li>
+<li>Solicited-Transaction – this type of feedback is directly tied to a
+transaction and carries the most weight. Any parties to a transaction
 may leave this type of feedback, including escrow agents.
 Solicited-transaction feedback can carry a negative (-1), neutral (0),
-or positive (+1) score rating.</p>
-<ul class="simple">
-<li>Rebuttal – this type of feedback is used against both unsolicited and</li>
-</ul>
-<p>solicited-transaction feedback to present a rebuttal against false or
+or positive (+1) score rating.</li>
+<li>Rebuttal – this type of feedback is used against both unsolicited and
+solicited-transaction feedback to present a rebuttal against false or
 inappropriate claims, provide public evidence to protect reputation, or
 to notify the public of malicious feedback abuse. Rebuttal feedback
-carries a neutral score (0).</p>
+carries a neutral score (0).</li>
+</ul>
 <p>Feedback data for all profiles is continuously circulating throughout
 the network, bouncing between peers so that it is always available upon
 request. Each client is opted-in automatically to participating in this
@@ -121,19 +119,18 @@ it is only enabled when connected over Wi-fi.</p>
 <p>Profiles display a reputation tally based on signed feedback data.
 Tallies are displayed as a hexagonal grid, color coded to represent
 negative and positive encounters.</p>
+<img alt="_images/reputation.png" src="_images/reputation.png" />
 <p>The feedback data used in tallying the reputation score comes from
 feedback broadcast across the network, but not all data is equal. It
 must be filtered against local criteria:</p>
 <ul class="simple">
-<li>Local Follow List – this list includes profiles manually followed, or</li>
+<li>Local Follow List – this list includes profiles manually followed, or
+profiles opted-to-follow when leaving positive Solicited-Transaction
+feedback. Feedback scores given by these profiles will be included.</li>
+<li>Local Ignore List – this list includes profiles manually ignored, or
+profiles opted-to-ignore when leaving negative Solicited-Transaction
+feedback. Feedback scores givenby these profiles will be ignored.</li>
 </ul>
-<p>profiles opted-to-follow when leaving positive Solicited-Transaction
-feedback. Feedback scores given by these profiles will be included.</p>
-<ul class="simple">
-<li>Local Ignore List – this list includes profiles manually ignored, or</li>
-</ul>
-<p>profiles opted-to-ignore when leaving negative Solicited-Transaction
-feedback. Feedback scores givenby these profiles will be ignored.</p>
 </div>
 <div class="section" id="skills">
 <h2>Skills<a class="headerlink" href="#skills" title="Permalink to this headline">¶</a></h2>
