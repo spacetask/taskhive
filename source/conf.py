@@ -50,7 +50,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Taskhive Wiki'
-copyright = u'2017, ScienceBum'
+copyright = u'2017, BY-NC-SA, This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. '
 author = u'ScienceBum'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -86,7 +86,7 @@ todo_include_todos = False
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = 'bizstyle'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the

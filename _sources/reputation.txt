@@ -1,4 +1,8 @@
+.. highlight:: rst
+
+==========
 Reputation
+==========
 
 Reputation is built through interactions and feedback on the network, 
 and managed through a Web-of-Trust. Web-of-Trust

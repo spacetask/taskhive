@@ -1,36 +1,50 @@
-Listings
+.. highlight:: rst
 
+========
+Listings
+========
+
+--------
 Browsing
+--------
 
 Both offers and requests can be browsed with or without search filters. 
 If filters are used, the criteria for filtering can include:
 
-Posts by a specific profile Posts containing specified keyword(s) Posts 
-by profiles with specified ratings Tasks in a specific price range Tasks 
-in a specific category (e.g. development, writing, research)
+* Posts by a specific profile 
+* Posts containing specified keyword(s) 
+* Posts by profiles with specified ratings
+* Tasks in a specific price range 
+* Tasks in a specific category (e.g. development, writing, research)
 
+-------------------
 Keyword Suggestions
+-------------------
 
 Keywords from task offers and requests are recorded and saved locally, 
 and used for keyword suggestion when posting a new task offer or 
 request. This helps standardize keywords by promoting common 
 terminology.
 
-
+.. image:: categories.png
 
 *Clients may opt-in to irregular broadcasting of keyword lists to the 
 network for the benefit of newly installed clients*
 
+-------------
 Posting Tasks
+-------------
 
-Tasks are separated into two types – offers and requests.
+Tasks are separated into two types – *offers* and *requests*.
 
 Both offers and requests can contain optional information which helps 
 potential clients be aware of the required terms, licenses and payment 
 arrangements for a task before spending the effort to respond to the 
 offer.
 
+------
 Offers
+------
 
 Offers are made by service providers. As the offer itself is not a 
 binding contract, it may be as broad or specific in detail as desired. 
@@ -40,7 +54,9 @@ An example of an offer might be a 3D graphics designer offering their
 services to the community for a fee. The offer might include samples of 
 their work, as well as their requested pay rate.
 
+--------
 Requests
+--------
 
 Requests are made by clients seeking task completion. As the request 
 itself is not a binding contract, it may be as broad or specific in 
@@ -54,7 +70,9 @@ them out in the initial request. These details can be discussed with the
 service provider during negotiation, later adding them to the final 
 agreement.*
 
+----------
 Categories
+----------
 
 Whether offers or requests, tasks fall into selected categories. Many 
 categories have sub-categories for more specific organization. Some of 
@@ -80,7 +98,9 @@ Writing / Editing    A1
 
 *Example category ID of A122CD*
 
+-----------------
 Size Restrictions
+-----------------
 
 Task titles and body can contain Unicode characters, but are limited in 
 length to 640 and 6,400 bytes respectively. This cap attempts to provide 
@@ -90,14 +110,18 @@ traffic, and local CPU usage for proof-of-work calculations.
 As the taskhive and bitmessage projects mature, these restriction may be 
 removed or modified to better serve the network.
 
+--------
 Deadline
+--------
 
 This deadline is for receipt of deliverables upon receipt of payment 
 from the client, and is EPOCH UTC. This is not to be confused with the 
 expiry of the task offer/request, which is a maximum of 30 days from 
 initial posting, whereas a task deadline could be infinite.
 
+-------
 Payment
+-------
 
 There are two payment related fields in a task – base currency and 
 payment method. The base currency decides the fee that should be paid to 
@@ -105,44 +129,18 @@ a client for their services. The payment methods are multiple options
 for receiving said fee, and can range from bitcoin to bank wire, 
 depending on the task, country, level of privacy and risk, etc.
 
+----
 Data
+----
 
 Task requests and offers have an identical JSON array format, differing 
 only in task_type.
 
-[{
-"task_data”:{
-	“task_type”:“offer”, 
-	“task_categories”:[ A1,  C4C1,  F122, … ],
-	“task_title”:“Write a short story for my cat blog”,
-	“task_body”:“I have a cat blog that needs a story written for it. I will pay for a story about cats.”,
-	“task_keywords”:[ “cats”, “blog”, “writing”],
-	“task_references”:[ “URL1”, “URL2”, … ],
-	“task_cost”:“0.001”,
-	“task_currency”:“BTC”,
-	“task_payment_rate_type”:“task”,
-	“task_payment_methods”:[ “BTC”, “DOGE”],
-	“task_deadline”:1482710400,
-	“task_license”:“CC BY 4.0”,
-	“task_escrow_required”:1,
-	“task_escrow_recommendation”:“BITCOIN-PUBKEY”,
-	“task_address”:“TEMP-BM-ADDRESS”,
-	“task_owner”:“BITCOIN-PUBKEY”,
-	“task_id”:“YsBGsF3dc9But9GN5mXOTwEFIZWZ8=”,
-	“task_entropy”:“LATEST-BLOCKCHAIN-HASH”,
-	“task_expiration”:1482710400
- },
-“task_data_signed”:“IKQ2TXYsBGsF3dc9But9GN/TNhW5mXOTwEFIZWZ8=”
-}]
+.. literalinclude:: task_data1.json
+   :language: json 
 
 For task terminate requests, only the bare verifiable identifying data 
 is needed.
 
-[{
-“task_data”:{
-	“task_type”:“terminate”, 
-	“task_id”:“YsBGsF3dc9But9GN5mXOTwEFIZWZ8=”,
-	“task_owner”:“BITCOIN-PUBKEY”
-},
-“task_data_signed”:“IKDrBFLmzUJyG1d6iuoP7zZDley8bBYh=”
-}]
+.. literalinclude:: task_data2.json
+   :language: json

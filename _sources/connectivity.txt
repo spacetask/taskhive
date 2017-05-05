@@ -1,10 +1,16 @@
+.. highlight:: rst
+
+============
 Connectivity
+============
 
 Participation in the taskhive network requires a connection to the 
 Bitmessage network. You can connect to the Bitmessage network over Tor 
 or a trusted VPN for additional privacy.
 
+----------
 Bitmessage
+----------
 
 Bitmessage is presently the backbone of taskhive's message delivery and 
 distributed database. Until a better, more robust solution is found, 
@@ -17,7 +23,9 @@ everyone-receives-everything Private Information Retrieval (PIR)
 protocol is the only protocol that allows for information theoretic 
 privacy.
 
+---
 Tor
+---
 
 Due to the potential for deanonymization attacks, it is recommended to 
 additionally connect to the Bitmessage network through Tor. The taskhive 

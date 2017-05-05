@@ -1,4 +1,8 @@
+.. highlight:: rst
+
+======
 Escrow
+======
 
 Among the various categories of services offered on Taskhive, there are 
 professional escrow services. It is important to choose a well trusted 
@@ -16,12 +20,24 @@ While not binding, clients and service providers may recommend escrow
 agents they are comfortable working with in the initial proposal phases. 
 This can be changed to a different agent at a later date for various 
 reasons (e.g. availability, more affordable rates, payment method 
-incompatibilities, etc.). Escrow Market
+incompatibilities, etc.). 
 
-Escrow market. Escrow Agents
+-------------
+Escrow Market
+-------------
+
+Escrow market. (fill in data) 
+
+-------------
+Escrow Agents
+-------------
 
 As a free market, any profile can become an escrow agent at any time by 
-registering as such in the web-of-trust. Deposit
+registering as such in the web-of-trust. 
+
+-------
+Deposit
+-------
 
 Escrow agents must pay a deposit to the network of twice the amount 
 intended to be handled at any given time (i.e. the amount they could 

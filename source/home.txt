@@ -1,0 +1,9 @@
+.. highlight:: rst
+
+====
+Home
+====
+Welcome to the Taskhive Wiki!
+-----------------------------
+.. image:: logo.png
+

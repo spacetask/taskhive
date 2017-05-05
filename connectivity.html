@@ -1,14 +1,15 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<!doctype html>
 
 
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>&lt;no title&gt; &#8212; Taskhive Wiki 1.0 documentation</title>
+    <title>Connectivity &#8212; Taskhive Wiki 1.0 documentation</title>
     
-    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="_static/bizstyle.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
     
     <script type="text/javascript">
@@ -24,59 +25,49 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/bizstyle.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="&lt;no title&gt;" href="listings.html" />
-    <link rel="prev" title="&lt;no title&gt;" href="profile.html" />
-   
-  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
-  
-  
-  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
-
+    <link rel="next" title="Listings" href="listings.html" />
+    <link rel="prev" title="Profile" href="profile.html" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="_static/css3-mediaqueries.js"></script>
+    <![endif]-->
   </head>
   <body role="document">
-  
-
-    <div class="document">
-      <div class="documentwrapper">
-        <div class="bodywrapper">
-          <div class="body" role="main">
-            
-  <p>Connectivity</p>
-<p>Participation in the taskhive network requires a connection to the
-Bitmessage network. You can connect to the Bitmessage network over Tor
-or a trusted VPN for additional privacy.</p>
-<p>Bitmessage</p>
-<p>Bitmessage is presently the backbone of taskhive&#8217;s message delivery and
-distributed database. Until a better, more robust solution is found,
-Bitmessage meets the privacy, anti-spam, distributed storage, and
-encryption needs of taskhive.</p>
-<p>Bitmessage works by connecting to, and bouncing messages through nodes
-on the network until every node has received the same message. This
-everyone-receives-everything Private Information Retrieval (PIR)
-protocol is the only protocol that allows for information theoretic
-privacy.</p>
-<p>Tor</p>
-<p>Due to the potential for deanonymization attacks, it is recommended to
-additionally connect to the Bitmessage network through Tor. The taskhive
-client can be configured to do this automatically on both desktop and
-mobile.</p>
-
-
-          </div>
-        </div>
-      </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="listings.html" title="Listings"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="profile.html" title="Profile"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Taskhive Wiki 1.0 documentation</a> &#187;</li> 
+      </ul>
+    </div>
       <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
-        <div class="sphinxsidebarwrapper"><div class="relations">
-<h3>Related Topics</h3>
-<ul>
-  <li><a href="index.html">Documentation overview</a><ul>
-      <li>Previous: <a href="profile.html" title="previous chapter">&lt;no title&gt;</a></li>
-      <li>Next: <a href="listings.html" title="next chapter">&lt;no title&gt;</a></li>
-  </ul></li>
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Connectivity</a><ul>
+<li><a class="reference internal" href="#bitmessage">Bitmessage</a></li>
+<li><a class="reference internal" href="#tor">Tor</a></li>
 </ul>
-</div>
+</li>
+</ul>
+
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="profile.html"
+                        title="previous chapter">Profile</a></p>
+  <h4>Next topic</h4>
+  <p class="topless"><a href="listings.html"
+                        title="next chapter">Listings</a></p>
   <div role="note" aria-label="source link">
     <h3>This Page</h3>
     <ul class="this-page-menu">
@@ -96,22 +87,62 @@ mobile.</p>
 <script type="text/javascript">$('#searchbox').show(0);</script>
         </div>
       </div>
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="connectivity">
+<h1>Connectivity<a class="headerlink" href="#connectivity" title="Permalink to this headline">¶</a></h1>
+<p>Participation in the taskhive network requires a connection to the
+Bitmessage network. You can connect to the Bitmessage network over Tor
+or a trusted VPN for additional privacy.</p>
+<div class="section" id="bitmessage">
+<h2>Bitmessage<a class="headerlink" href="#bitmessage" title="Permalink to this headline">¶</a></h2>
+<p>Bitmessage is presently the backbone of taskhive&#8217;s message delivery and
+distributed database. Until a better, more robust solution is found,
+Bitmessage meets the privacy, anti-spam, distributed storage, and
+encryption needs of taskhive.</p>
+<p>Bitmessage works by connecting to, and bouncing messages through nodes
+on the network until every node has received the same message. This
+everyone-receives-everything Private Information Retrieval (PIR)
+protocol is the only protocol that allows for information theoretic
+privacy.</p>
+</div>
+<div class="section" id="tor">
+<h2>Tor<a class="headerlink" href="#tor" title="Permalink to this headline">¶</a></h2>
+<p>Due to the potential for deanonymization attacks, it is recommended to
+additionally connect to the Bitmessage network through Tor. The taskhive
+client can be configured to do this automatically on both desktop and
+mobile.</p>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
       <div class="clearer"></div>
     </div>
-    <div class="footer">
-      &copy;2017, ScienceBum.
-      
-      |
-      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.5.5</a>
-      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.10</a>
-      
-      |
-      <a href="_sources/connectivity.txt"
-          rel="nofollow">Page source</a>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="listings.html" title="Listings"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="profile.html" title="Profile"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Taskhive Wiki 1.0 documentation</a> &#187;</li> 
+      </ul>
     </div>
-
-    
-
-    
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2017, BY-NC-SA, This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. .
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.5.5.
+    </div>
   </body>
 </html>

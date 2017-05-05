@@ -1,14 +1,15 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<!doctype html>
 
 
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>&lt;no title&gt; &#8212; Taskhive Wiki 1.0 documentation</title>
+    <title>Profile &#8212; Taskhive Wiki 1.0 documentation</title>
     
-    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="_static/bizstyle.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
     
     <script type="text/javascript">
@@ -24,32 +25,91 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/bizstyle.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="&lt;no title&gt;" href="connectivity.html" />
-    <link rel="prev" title="&lt;no title&gt;" href="preface.html" />
-   
-  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
-  
-  
-  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
-
+    <link rel="next" title="Connectivity" href="connectivity.html" />
+    <link rel="prev" title="Preface" href="preface.html" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="_static/css3-mediaqueries.js"></script>
+    <![endif]-->
   </head>
   <body role="document">
-  
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="connectivity.html" title="Connectivity"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="preface.html" title="Preface"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Taskhive Wiki 1.0 documentation</a> &#187;</li> 
+      </ul>
+    </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Profile</a><ul>
+<li><a class="reference internal" href="#identity">Identity</a></li>
+<li><a class="reference internal" href="#compatible-keys">Compatible Keys</a></li>
+<li><a class="reference internal" href="#default-identicons">Default Identicons</a></li>
+<li><a class="reference internal" href="#qrcode-art-avatars">Qrcode-art Avatars</a></li>
+<li><a class="reference internal" href="#feedback">Feedback</a></li>
+<li><a class="reference internal" href="#reputation-tally">Reputation Tally</a></li>
+<li><a class="reference internal" href="#skills">Skills</a></li>
+<li><a class="reference internal" href="#work-samples">Work Samples</a></li>
+<li><a class="reference internal" href="#third-party-profile-authentication">Third-party Profile Authentication</a></li>
+<li><a class="reference internal" href="#privacy-preferences">Privacy Preferences</a></li>
+</ul>
+</li>
+</ul>
+
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="preface.html"
+                        title="previous chapter">Preface</a></p>
+  <h4>Next topic</h4>
+  <p class="topless"><a href="connectivity.html"
+                        title="next chapter">Connectivity</a></p>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/profile.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <form class="search" action="search.html" method="get">
+      <div><input type="text" name="q" /></div>
+      <div><input type="submit" value="Go" /></div>
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
 
     <div class="document">
       <div class="documentwrapper">
         <div class="bodywrapper">
           <div class="body" role="main">
             
-  <p>Profile</p>
+  <div class="section" id="profile">
+<h1>Profile<a class="headerlink" href="#profile" title="Permalink to this headline">¶</a></h1>
 <p>To participate in the Taskhive network, a profile is needed for
 representation. A profile can be as detailed and public, or bare-bones
 and private, as desired. The bare minimum profile will consist of only a
 public key. A full profile might include work samples, an avatar image,
 and lengthy reputation feedback.</p>
-<p>Identity</p>
+<div class="section" id="identity">
+<h2>Identity<a class="headerlink" href="#identity" title="Permalink to this headline">¶</a></h2>
 <p>In Taskhive, profiles are identified by a cryptographic public key. This
 public key is necessary to verify authenticity of correspondence, sign
 contracts, and build a reputation on the network. The client application
@@ -57,62 +117,81 @@ can generate this key, or an existing compatible key can be imported.</p>
 <p>Profile public keys are ECDSA Secp256k1 keys (identical to keys used in
 bitcoin). This means that any key generated for a bitcoin wallet will
 also work for identity inside of taskhive.</p>
-<p>Compatible Keys</p>
+</div>
+<div class="section" id="compatible-keys">
+<h2>Compatible Keys<a class="headerlink" href="#compatible-keys" title="Permalink to this headline">¶</a></h2>
 <p>For convenience and compatibility with other reputation networks, GPG
 keys may optionally be added to a profile. For established GPG users,
 this can serve to import existing Web-of-Trust reputation to the
 network.</p>
-<p>Default Identicons</p>
+</div>
+<div class="section" id="default-identicons">
+<h2>Default Identicons<a class="headerlink" href="#default-identicons" title="Permalink to this headline">¶</a></h2>
 <p>Default profile identicons are generated by feeding the compressed
 public key to the Identicon library. Due to the higher probability of
 collision and confusion, it is recommended to upgrade to a Qrcode-art
 avatar.</p>
+<img alt="_images/identicons.png" src="_images/identicons.png" />
 <p><em>Example default pixel-art avatars generated from public key.</em></p>
-<p>Qrcode-art Avatars</p>
+</div>
+<div class="section" id="qrcode-art-avatars">
+<h2>Qrcode-art Avatars<a class="headerlink" href="#qrcode-art-avatars" title="Permalink to this headline">¶</a></h2>
 <p>Qrcode-art avatars are generated by feeding a low resolution image to
 the CuteR library, along with the encoded profile&#8217;s compressed public
 key data. The binary data is then embedded into profiles as a base64
 string for display on the client.</p>
+<img alt="_images/qr-art.png" src="_images/qr-art.png" />
 <p><em>Example Qrcode avatars generated via the CuteR library.</em></p>
-<p>Feedback</p>
+</div>
+<div class="section" id="feedback">
+<h2>Feedback<a class="headerlink" href="#feedback" title="Permalink to this headline">¶</a></h2>
 <p>Positive, neutral and negative feedback can be left for profiles on
 taskhive. Feedback is categorized into three basic types:</p>
-<p>Unsolicited – this type of feedback carries the least weight and may
+<ul class="simple">
+<li>Unsolicited – this type of feedback carries the least weight and may
 contain spam, libel or unrelated personal drama. Nevertheless,
 unsolicited feedback is necessary on a p2p network to promote
 transparency and to combat corruption. An example legitimate use of
 unsolicited feedback is when a profile is misrepresenting skills by
 stealing samples of other freelancers. Unsolicited feedback carries a
-neutral score (0).</p>
-<p>Solicited-Transaction – this type of feedback is directly tied to a
+neutral score (0).</li>
+<li>Solicited-Transaction – this type of feedback is directly tied to a
 transaction and carries the most weight. Any parties to a transaction
 may leave this type of feedback, including escrow agents.
 Solicited-transaction feedback can carry a negative (-1), neutral (0),
-or positive (+1) score rating.</p>
-<p>Rebuttal – this type of feedback is used against both unsolicited and
+or positive (+1) score rating.</li>
+<li>Rebuttal – this type of feedback is used against both unsolicited and
 solicited-transaction feedback to present a rebuttal against false or
 inappropriate claims, provide public evidence to protect reputation, or
 to notify the public of malicious feedback abuse. Rebuttal feedback
-carries a neutral score (0).</p>
+carries a neutral score (0).</li>
+</ul>
 <p>Feedback data for all profiles is continuously circulating throughout
 the network, bouncing between peers so that it is always available upon
 request. Each client is opted-in automatically to participating in this
 crucial broadcast service, but may opt-out manually. For mobile users,
 it is only enabled when connected over Wi-fi.</p>
-<p>Reputation Tally</p>
+</div>
+<div class="section" id="reputation-tally">
+<h2>Reputation Tally<a class="headerlink" href="#reputation-tally" title="Permalink to this headline">¶</a></h2>
 <p>Profiles display a reputation tally based on signed feedback data.
 Tallies are displayed as a hexagonal grid, color coded to represent
 negative and positive encounters.</p>
+<img alt="_images/reputation.png" src="_images/reputation.png" />
 <p>The feedback data used in tallying the reputation score comes from
 feedback broadcast across the network, but not all data is equal. It
 must be filtered against local criteria:</p>
-<p>Local Follow List – this list includes profiles manually followed, or
+<ul class="simple">
+<li>Local Follow List – this list includes profiles manually followed, or
 profiles opted-to-follow when leaving positive Solicited-Transaction
-feedback. Feedback scores given by these profiles will be included.</p>
-<p>Local Ignore List – this list includes profiles manually ignored, or
+feedback. Feedback scores given by these profiles will be included.</li>
+<li>Local Ignore List – this list includes profiles manually ignored, or
 profiles opted-to-ignore when leaving negative Solicited-Transaction
-feedback. Feedback scores givenby these profiles will be ignored.</p>
-<p>Skills</p>
+feedback. Feedback scores givenby these profiles will be ignored.</li>
+</ul>
+</div>
+<div class="section" id="skills">
+<h2>Skills<a class="headerlink" href="#skills" title="Permalink to this headline">¶</a></h2>
 <p>For freelancers, the skills section of a profile lists what categories
 the profile is offering services in. An example of the skills that might
 be listed in a profile are:</p>
@@ -135,11 +214,15 @@ Research</td>
 </tr>
 </tbody>
 </table>
-<p>Work Samples</p>
+</div>
+<div class="section" id="work-samples">
+<h2>Work Samples<a class="headerlink" href="#work-samples" title="Permalink to this headline">¶</a></h2>
 <p>Work samples may be provided as unsafe links to third-party websites.
 Accessing these links directly may lead to reduced privacy or complete
 deanonymization. Using Tor or a trusted VPN is recommended.</p>
-<p>Third-party Profile Authentication</p>
+</div>
+<div class="section" id="third-party-profile-authentication">
+<h2>Third-party Profile Authentication<a class="headerlink" href="#third-party-profile-authentication" title="Permalink to this headline">¶</a></h2>
 <p>Authentication of third-party profiles and portfolios is possible
 through a signed string containing the hash of the profile or
 portfolio&#8217;s address, combined with the taskhive profile&#8217;s public key.
@@ -153,62 +236,41 @@ samples, as accounts can be cloned or spoofed with stolen work. It is
 recommended to use due diligence and search on a major search engine for
 work samples, either through titles and body content or reverse image
 searching.</p>
-<p>Privacy Preferences</p>
+</div>
+<div class="section" id="privacy-preferences">
+<h2>Privacy Preferences<a class="headerlink" href="#privacy-preferences" title="Permalink to this headline">¶</a></h2>
 <p>Depending on the work involved, it may be more practical for some
 workers to use email or another form of instant messaging (IRC, XMPP,
 etc) to discuss a task on a regular basis. A profile&#8217;s privacy
 preferences let potential clients know what form of contact is
 acceptable to avoid future misunderstandings.</p>
+</div>
+</div>
 
 
           </div>
         </div>
       </div>
-      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
-        <div class="sphinxsidebarwrapper"><div class="relations">
-<h3>Related Topics</h3>
-<ul>
-  <li><a href="index.html">Documentation overview</a><ul>
-      <li>Previous: <a href="preface.html" title="previous chapter">&lt;no title&gt;</a></li>
-      <li>Next: <a href="connectivity.html" title="next chapter">&lt;no title&gt;</a></li>
-  </ul></li>
-</ul>
-</div>
-  <div role="note" aria-label="source link">
-    <h3>This Page</h3>
-    <ul class="this-page-menu">
-      <li><a href="_sources/profile.txt"
-            rel="nofollow">Show Source</a></li>
-    </ul>
-   </div>
-<div id="searchbox" style="display: none" role="search">
-  <h3>Quick search</h3>
-    <form class="search" action="search.html" method="get">
-      <div><input type="text" name="q" /></div>
-      <div><input type="submit" value="Go" /></div>
-      <input type="hidden" name="check_keywords" value="yes" />
-      <input type="hidden" name="area" value="default" />
-    </form>
-</div>
-<script type="text/javascript">$('#searchbox').show(0);</script>
-        </div>
-      </div>
       <div class="clearer"></div>
     </div>
-    <div class="footer">
-      &copy;2017, ScienceBum.
-      
-      |
-      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.5.5</a>
-      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.10</a>
-      
-      |
-      <a href="_sources/profile.txt"
-          rel="nofollow">Page source</a>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="connectivity.html" title="Connectivity"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="preface.html" title="Preface"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Taskhive Wiki 1.0 documentation</a> &#187;</li> 
+      </ul>
     </div>
-
-    
-
-    
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2017, BY-NC-SA, This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. .
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.5.5.
+    </div>
   </body>
 </html>
