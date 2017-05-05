@@ -4,7 +4,11 @@
 Exchange
 ========
 
-Exchange Currency Exchange
+Exchange.(fill in data) 
+
+-----------------
+Currency Exchange
+-----------------
 
 If the client is unable to remit payment through any of the service 
 provider's task_payment_methods options, an escrow may be included in 

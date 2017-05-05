@@ -9,8 +9,6 @@ Taskhive Wiki
    :maxdepth: 2
    :caption: Table of Contents
 
-   .. image:: logo.png
-
    Home <home>
    0x01 Preface <preface>
    0x02 Profile <profile>

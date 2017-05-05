@@ -4,7 +4,9 @@
 Messaging
 ========= 
 
+-----------------
 Temporary Mailbox
+-----------------
 
 When task offers and requests are submitted, a temporary bitmessage 
 contact address is generated specifically for communications relevant to 
@@ -12,7 +14,11 @@ that task.
 
 This mailbox is used for manual negotiations, clarifications, and 
 automatic contract proposals, until such time as the contract is 
-considered complete. Inquiries
+considered complete. 
+
+---------
+Inquiries
+---------
 
 Potential clients or service providers will want to contact the poster 
 directly to discuss the details of a task, to clarify intentions, or to 
@@ -36,7 +42,11 @@ offers without waiting for response, offers for unrelated services to
 the task, constant messaging) it is important to mark the message as 
 spam. This will automatically add the profile to the local ignore list 
 and leave Unsolicited feedback noting that you received spam from the 
-profile. Responding
+profile. 
+
+----------
+Responding
+----------
 
 Incoming messages show up in the mailbox screen and also trigger an 
 alert on the system. After receiving a request for clarification or 

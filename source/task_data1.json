@@ -1,0 +1,25 @@
+   [{
+   "task_data”:{
+        “task_type”:“offer”, 
+        “task_categories”:[ A1,  C4C1,  F122, … ],
+        “task_title”:“Write a short story for my cat blog”,
+        “task_body”:“I have a cat blog that needs a story written for it. I will pay for a story about cats.”,
+        “task_keywords”:[ “cats”, “blog”, “writing”],
+        “task_references”:[ “URL1”, “URL2”, … ],
+        “task_cost”:“0.001”,
+        “task_currency”:“BTC”,
+        “task_payment_rate_type”:“task”,
+        “task_payment_methods”:[ “BTC”, “DOGE”],
+        “task_deadline”:1482710400,
+        “task_license”:“CC BY 4.0”,
+        “task_escrow_required”:1,
+        “task_escrow_recommendation”:“BITCOIN-PUBKEY”,
+        “task_address”:“TEMP-BM-ADDRESS”,
+        “task_owner”:“BITCOIN-PUBKEY”,
+        “task_id”:“YsBGsF3dc9But9GN5mXOTwEFIZWZ8=”,
+        “task_entropy”:“LATEST-BLOCKCHAIN-HASH”,
+        “task_expiration”:1482710400
+   },
+   “task_data_signed”:“IKQ2TXYsBGsF3dc9But9GN/TNhW5mXOTwEFIZWZ8=”
+   }]
+
